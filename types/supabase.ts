@@ -1,0 +1,22 @@
+export type Article = {
+  id: string;
+  title: string;
+  slug: string;
+  content: string;
+  excerpt?: string;
+  meta_title?: string;
+  meta_description?: string;
+  keywords?: string[];
+  canonical_url?: string;
+  og_title?: string;
+  og_description?: string;
+  og_image?: string;
+  twitter_title?: string;
+  twitter_description?: string;
+  twitter_image?: string;
+  published: boolean;
+  published_at?: string;
+  author_id: string;
+  created_at: string;
+  updated_at: string;
+};
