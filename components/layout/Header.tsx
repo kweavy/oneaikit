@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Menu, X } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import ProductPopover from '../home/MenuPopover';
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,18 +34,17 @@ const Header = () => {
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
               <span className="uai-700 font-bold text-2xl text-primary">
-                Everything<span className="text-blue-500">AI</span>Tools
+                ONE<span className="text-blue-500">AI</span>KIT.COM
               </span>
             </Link>
           </div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-6">
+            <ProductPopover />
+
             <Link href="/articles" className="text-sm font-medium hover:text-primary transition-colors">
               Articles
-            </Link>
-            <Link href="/chat" className="text-sm font-medium hover:text-primary transition-colors">
-              Chat with AI Personalities
             </Link>
             <Link href="/#features" className="text-sm font-medium hover:text-primary transition-colors">
               Features
@@ -52,10 +52,8 @@ const Header = () => {
             <Link href="/#how-it-works" className="text-sm font-medium hover:text-primary transition-colors">
               How it Works
             </Link>
-            <Link href="/#testimonials" className="text-sm font-medium hover:text-primary transition-colors">
-              Testimonials
-            </Link>
-            <Link href="/#pricing" className="text-sm font-medium hover:text-primary transition-colors">
+         
+            <Link href="/pricing" className="text-sm font-medium hover:text-primary transition-colors">
               Pricing
             </Link>
           </nav>
@@ -67,7 +65,7 @@ const Header = () => {
           </Button>
         </Link>
         <Link href="https://oneaikit.com/login">
-          <Button size="sm">
+          <Button className="bg-blue-600 text-white hover:bg-blue-700 transition" size="sm">
             Start Using AI Tools
           </Button>
         </Link>
@@ -108,13 +106,7 @@ const Header = () => {
           >
             Articles
           </Link>
-          <Link 
-            href="/chat" 
-            className="block px-3 py-2 rounded-md text-base font-medium hover:bg-muted transition-colors"
-            onClick={() => setIsOpen(false)}
-          >
-            Chat with AI Personalities
-          </Link>
+         
           <Link 
             href="/#features" 
             className="block px-3 py-2 rounded-md text-base font-medium hover:bg-muted transition-colors"

@@ -15,14 +15,14 @@ const testimonials = [
   {
     name: "Peline Jan",
     role: "Entrepreneur",
-    content: "EverythingAITools has completely transformed my content creation process. I'm now able to create high-quality marketing materials in a fraction of the time, allowing me to focus on growing my business.",
+    content: "oneaikit has completely transformed my content creation process. I'm now able to create high-quality marketing materials in a fraction of the time, allowing me to focus on growing my business.",
     rating: 5,
     image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     name: "Tom Daniel",
     role: "Writer",
-    content: "As a professional writer, I was skeptical about AI tools. But EverythingAITools has become an invaluable writing assistant that helps me overcome writer's block and produces quality starting points for my work.",
+    content: "As a professional writer, I was skeptical about AI tools. But oneaikit has become an invaluable writing assistant that helps me overcome writer's block and produces quality starting points for my work.",
     rating: 5,
     image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -36,7 +36,7 @@ const testimonials = [
   {
     name: "Sarah Lee",
     role: "Digital Marketer",
-    content: "EverythingAITools helps me create campaigns that would normally take days in just hours. The multi-language support is amazing for our global marketing efforts.",
+    content: "oneaikit helps me create campaigns that would normally take days in just hours. The multi-language support is amazing for our global marketing efforts.",
     rating: 5,
     image: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -50,14 +50,14 @@ const testimonials = [
   {
     name: "Emily Grant",
     role: "Business Coach",
-    content: "I recommend EverythingAITools to all my clients. It's an incredible resource for small business owners who need to create professional content without hiring a full marketing team.",
+    content: "I recommend oneaikit to all my clients. It's an incredible resource for small business owners who need to create professional content without hiring a full marketing team.",
     rating: 5,
     image: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     name: "Alex Morgan",
     role: "Content Strategist",
-    content: "I’ve tried every tool in EverythingAITools — from article and code generation to text-to-speech and image generation. The suite covers all my creative and technical needs in one place. It’s like having a full AI-powered team at your fingertips!",
+    content: "I’ve tried every tool in oneaikit — from article and code generation to text-to-speech and image generation. The suite covers all my creative and technical needs in one place. It’s like having a full AI-powered team at your fingertips!",
     rating: 5,
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -71,7 +71,7 @@ const testimonials = [
   {
     name: "Carlos Ramirez",
     role: "SEO Specialist",
-    content: "EverythingAITools helps me generate SEO-friendly articles in minutes. The keyword relevance and structure are spot on.",
+    content: "oneaikit helps me generate SEO-friendly articles in minutes. The keyword relevance and structure are spot on.",
     rating: 5,
     image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -92,7 +92,7 @@ const testimonials = [
   {
     name: "Mina Haq",
     role: "Voice Over Artist",
-    content: "The text-to-speech voices from EverythingAITools rival professional studio recordings. Great for fast delivery gigs.",
+    content: "The text-to-speech voices from oneaikit rival professional studio recordings. Great for fast delivery gigs.",
     rating: 4,
     image: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
@@ -106,7 +106,7 @@ const testimonials = [
   {
     name: "Priya Mehta",
     role: "Blogger",
-    content: "With AI writing assistance from EverythingAITools, my blog schedule has become consistent and stress-free.",
+    content: "With AI writing assistance from oneaikit, my blog schedule has become consistent and stress-free.",
     rating: 5,
     image: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },

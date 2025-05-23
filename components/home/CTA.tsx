@@ -9,10 +9,10 @@ const CTA = () => {
           ALL-IN-ONE AI TOOLS
         </p>
         <h2 className="text-3xl md:text-5xl font-bold text-white mb-4">
-          Build with <span className="rainbow">EverythingAITools</span> — <i>Your Ultimate AI Suite</i>
+          Build with <span className="rainbow">oneaikit</span> — <i>Your Ultimate AI Suite</i>
         </h2>
         <p className="text-white/70 text-lg max-w-2xl mx-auto mb-8">
-          Access 20+ AI features in one subscription — from writing and chat to image generation, automation, voice, SEO, and more.
+          Access 1000+ AI features in one subscription — from writing and chat to image generation, automation, voice, SEO, and more.
         </p>
         <div className="flex flex-wrap justify-center gap-6 text-white text-sm font-medium mb-12">
           <div className="flex items-center gap-2">

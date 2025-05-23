@@ -10,6 +10,7 @@ import Pricing from '@/components/home/Pricing';
 import Faq from '@/components/home/Faq';
 import CTA from '@/components/home/CTA';
 import ArticleGenerator from '@/components/home/ArticleGenerators';
+import PricingTable from '@/components/PricingTable';
 
 export default function Home() {
   return (
@@ -23,7 +24,7 @@ export default function Home() {
       <UseCases />
       <Dashboard />
       <Testimonials />
-      <Pricing />
+      <PricingTable />
       <Faq />
       <CTA />
     </main>

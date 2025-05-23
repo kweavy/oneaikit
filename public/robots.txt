@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://everythingaitools.com
+Host: https://oneaikit.com
 
 # Sitemaps
-Sitemap: https://everythingaitools.com/sitemap.xml
+Sitemap: https://oneaikit.com/sitemap.xml

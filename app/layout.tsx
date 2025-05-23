@@ -8,16 +8,29 @@ import { ThemeProvider } from '@/components/providers/ThemeProvider';
 const outfit = Outfit({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://everythingaitools.com'),
+  metadataBase: new URL('https://oneaikit.com'),
   title: {
-    default: 'Free All in One AI Tools - Text to Speech, Image Generator & More',
-    template: '%s | Free AI Tools'
+    default: 'Best All in One AI Tools Website Free - OneAIKit',
+    template: '%s | Free All in One AI Tools'
   },
-  description: 'Free all in one AI tools platform. Generate articles, convert text to speech, create images, transform YouTube videos to articles, chat with professionals, and generate code - all for free.',
-  keywords: ['free all in one ai tools', 'ai article generator free', 'text to speech ai free', 'text to image generator free', 'youtube to article free', 'ai generate code free', 'chat with professionals'],
-  authors: [{ name: 'EverythingAITools' }],
-  creator: 'EverythingAITools',
-  publisher: 'EverythingAITools',
+  description: 'All in one AI tools website to generate content, convert text to speech, create images, summarize YouTube videos, chat with AI, and more — completely free.',
+  keywords: [
+    'all in one ai tools',
+    'all in one ai tools free',
+    'all in one ai tools website',
+    'best all in one ai tool',
+    'free ai tools website',
+    'ai tools for students and researchers',
+    'aigen all in one ai generation tool',
+    'all ai tools in one website free',
+    'text to speech ai free',
+    'ai image generator free',
+    'ai code generator free',
+    'youtube to article ai'
+  ],
+  authors: [{ name: 'oneaikit' }],
+  creator: 'oneaikit',
+  publisher: 'oneaikit',
   formatDetection: {
     email: false,
     address: false,
@@ -26,16 +39,16 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://everythingaitools.com',
-    title: 'Free All in One AI Tools - Text to Speech, Image Generator & More',
-    description: 'Free all in one AI tools platform. Generate articles, convert text to speech, create images, transform YouTube videos to articles, chat with professionals, and generate code - all for free.',
-    siteName: 'EverythingAITools',
+    url: 'https://oneaikit.com',
+    title: 'Best All in One AI Tools Website Free - OneAIKit',
+    description: 'Free all in one AI tools platform to create content, convert text to speech, generate images, and more in one place.',
+    siteName: 'oneaikit',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Free All in One AI Tools - Text to Speech, Image Generator & More',
-    description: 'Free all in one AI tools platform. Generate articles, convert text to speech, create images, transform YouTube videos to articles, chat with professionals, and generate code - all for free.',
-    creator: '@everythingaitools',
+    title: 'Best All in One AI Tools Website Free - OneAIKit',
+    description: 'Free all in one AI tools platform for students, creators, and developers. Use AI to write, speak, draw, code, and chat — all in one site.',
+    creator: '@oneaikit',
   },
   robots: {
     index: true,
@@ -62,7 +75,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="canonical" href="https://everythingaitools.com" />
+        <link rel="canonical" href="https://oneaikit.com" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-SCGSQESBX9"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -80,12 +93,12 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "name": "EverythingAITools",
+              "name": "oneaikit",
               "description": "Free all in one AI tools platform for content creation, text to speech, image generation, and code generation.",
-              "url": "https://everythingaitools.com",
+              "url": "https://oneaikit.com",
               "potentialAction": {
                 "@type": "SearchAction",
-                "target": "https://everythingaitools.com/search?q={search_term_string}",
+                "target": "https://oneaikit.com/search?q={search_term_string}",
                 "query-input": "required name=search_term_string"
               }
             })
@@ -97,7 +110,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
-              "name": "EverythingAITools",
+              "name": "oneaikit",
               "applicationCategory": "AIApplication",
               "operatingSystem": "Web",
               "offers": {

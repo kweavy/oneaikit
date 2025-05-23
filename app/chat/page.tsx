@@ -17,19 +17,19 @@ interface Persona {
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: 'Chat with AI Personalities, Celebrities & Experts | EverythingAITools',
+    title: 'Chat with AI Personalities, Celebrities & Experts | oneaikit',
     description:
       'Explore our collection of AI-powered personalities, including celebrities, experts, and fictional characters. Chat with your favorite AI persona instantly!',
     openGraph: {
-      title: 'Chat with AI Personalities, Celebrities & Experts | EverythingAITools',
+      title: 'Chat with AI Personalities, Celebrities & Experts | oneaikit',
       description:
         'Explore our collection of AI-powered personalities, including celebrities, experts, and fictional characters. Chat with your favorite AI persona instantly!',
-      url: 'https://everythingaitools.com/chat',
+      url: 'https://oneaikit.com/chat',
       type: 'website',
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Chat with AI Personalities, Celebrities & Experts | EverythingAITools',
+      title: 'Chat with AI Personalities, Celebrities & Experts | oneaikit',
       description:
         'Explore our collection of AI-powered personalities, including celebrities, experts, and fictional characters. Chat with your favorite AI persona instantly!',
     },

@@ -11,51 +11,51 @@ import {
 
 const faqs = [
   {
-    question: "Do I need to pay monthly to use EverythingAITools?",
-    answer: "Yes, EverythingAITools is a subscription-based service. We offer monthly and annual subscription plans, with annual plans providing a significant discount. All plans include a free trial period so you can test the tools before committing."
+    question: "Do I need to pay monthly to use oneaikit?",
+    answer: "Yes, oneaikit is a subscription-based service. We offer monthly and annual subscription plans, with annual plans providing a significant discount. All plans include a free trial period so you can test the tools before committing."
   },
   {
-    question: "Can I try EverythingAITools before subscribing?",
+    question: "Can I try oneaikit before subscribing?",
     answer: "Absolutely! We offer a 7-day free trial that gives you access to all features. No credit card required to start your trial. You can explore the platform and test all AI tools to see if they meet your needs."
   },
   {
-    question: "Is EverythingAITools suitable for beginners?",
-    answer: "Yes, EverythingAITools is designed with user-friendliness in mind. Our interface is intuitive, and we provide comprehensive tutorials and guides to help you get started. No technical expertise required – simply describe what you want, and the AI will generate it."
+    question: "Is oneaikit suitable for beginners?",
+    answer: "Yes, oneaikit is designed with user-friendliness in mind. Our interface is intuitive, and we provide comprehensive tutorials and guides to help you get started. No technical expertise required – simply describe what you want, and the AI will generate it."
   },
   {
-    question: "What types of content can I create with EverythingAITools?",
-    answer: "EverythingAITools allows you to create a wide variety of content including blog posts, social media content, marketing copy, product descriptions, emails, images, code, videos, audio content, and much more. Our versatile AI tools can handle virtually any content creation task."
+    question: "What types of content can I create with oneaikit?",
+    answer: "oneaikit allows you to create a wide variety of content including blog posts, social media content, marketing copy, product descriptions, emails, images, code, videos, audio content, and much more. Our versatile AI tools can handle virtually any content creation task."
   },
   {
     question: "Can I create my own templates or custom AI prompts?",
-    answer: "Yes! EverythingAITools allows you to create and save custom templates and AI prompts. This is perfect for standardizing your brand voice or creating workflows for repetitive content creation tasks."
+    answer: "Yes! oneaikit allows you to create and save custom templates and AI prompts. This is perfect for standardizing your brand voice or creating workflows for repetitive content creation tasks."
   },
   {
-    question: "Is EverythingAITools available in multiple languages?",
-    answer: "Yes, EverythingAITools supports content generation in multiple languages. Our AI can create and translate content across major world languages, making it perfect for global businesses and international marketing campaigns."
+    question: "Is oneaikit available in multiple languages?",
+    answer: "Yes, oneaikit supports content generation in multiple languages. Our AI can create and translate content across major world languages, making it perfect for global businesses and international marketing campaigns."
   },
   {
-    question: "Does EverythingAITools have a mobile app?",
-    answer: "Currently, EverythingAITools is optimized as a web application that works seamlessly across all devices including desktops, tablets, and mobile phones. A dedicated mobile app is on our roadmap for future development."
+    question: "Does oneaikit have a mobile app?",
+    answer: "Currently, oneaikit is optimized as a web application that works seamlessly across all devices including desktops, tablets, and mobile phones. A dedicated mobile app is on our roadmap for future development."
   },
   {
     question: "Can I export the generated content?",
-    answer: "Yes, all content created with EverythingAITools can be easily exported in various formats including PDF, DOCX, HTML, plain text, MP3 (for audio), and MP4 (for video), making it simple to use your content wherever you need it."
+    answer: "Yes, all content created with oneaikit can be easily exported in various formats including PDF, DOCX, HTML, plain text, MP3 (for audio), and MP4 (for video), making it simple to use your content wherever you need it."
   },
   {
     question: "What payment methods are accepted?",
     answer: "We accept all major credit cards (Visa, Mastercard, American Express, Discover) as well as PayPal. All payments are securely processed through Stripe, ensuring your payment information is always protected."
   },
   {
-    question: "Can I integrate EverythingAITools with other platforms?",
-    answer: "Yes. EverythingAITools provides API access for developers, allowing seamless integration with your existing websites, apps, or third-party platforms."
+    question: "Can I integrate oneaikit with other platforms?",
+    answer: "Yes. oneaikit provides API access for developers, allowing seamless integration with your existing websites, apps, or third-party platforms."
   },
   {
-    question: "How is EverythingAITools different from other AI platforms?",
-    answer: "EverythingAITools stands out by offering a comprehensive suite of AI tools in one platform. While other services might specialize in one area (text, image, code, etc.), we provide all these capabilities with a unified experience, consistent quality, and at a competitive price point. Our platform is also continuously updated with the latest AI advancements."
+    question: "How is oneaikit different from other AI platforms?",
+    answer: "oneaikit stands out by offering a comprehensive suite of AI tools in one platform. While other services might specialize in one area (text, image, code, etc.), we provide all these capabilities with a unified experience, consistent quality, and at a competitive price point. Our platform is also continuously updated with the latest AI advancements."
   },
   {
-    question: "Does EverythingAITools provide support if I have issues?",
+    question: "Does oneaikit provide support if I have issues?",
     answer: "Absolutely! We offer dedicated customer support via email, live chat, and comprehensive documentation. Professional and Enterprise plan subscribers also get priority support with faster response times."
   },
 ];

@@ -230,7 +230,7 @@ const Tools = () => {
             {/* Image */}
             <div className="flex justify-center">
               <img
-                src="https://oneaikit.com/login//public/uploads/mascot_small.png"
+                src="https://oneaikit.com/uploads/mascot_small.png"
                 alt="All in one ai tools API Integration"
                 className="rounded-xl shadow-lg w-full max-w-[600px]"
               />

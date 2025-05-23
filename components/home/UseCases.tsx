@@ -9,7 +9,7 @@ const userCategories = [
     description:
       "Train AI-powered customer service agents for your business using websites, PDFs, Q&A, or plain text — no technical skills required.",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for customer service.png",
+      "https://oneaikit.com/uploads/all in one ai tools for customer service.png",
     features: [
       "Train chatbot using websites, PDFs, or text",
       "Automatically answer customer questions",
@@ -23,7 +23,7 @@ const userCategories = [
     description:
       "Preview, publish, and schedule social media posts effortlessly with AI-powered workflows — including LinkedIn and X (Twitter).",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for social media agency.png",
+      "https://oneaikit.com/uploads/all in one ai tools for social media agency.png",
     features: [
       "AI to generate LinkedIn and Twitter posts",
       "Schedule and publish directly",
@@ -37,7 +37,7 @@ const userCategories = [
     description:
       "Create compelling copy that converts prospects into customers with AI-powered assistance.",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for copywriters.png",
+      "https://oneaikit.com/uploads/all in one ai tools for copywriters.png",
     features: [
       "AI to write product descriptions",
       "Generate blog intros, conclusions, and sections",
@@ -51,7 +51,7 @@ const userCategories = [
     description:
       "Generate high-converting marketing copy, social posts, and ad campaigns in seconds.",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for digital marketing.png",
+      "https://oneaikit.com/uploads/all in one ai tools for digital marketing.png",
     features: [
       "Create Facebook and Google ads with AI",
       "Generate email campaigns and newsletters",
@@ -65,7 +65,7 @@ const userCategories = [
     description:
       "Create business plans, marketing materials, and customer communications in minutes.",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for entrepreuners.png",
+      "https://oneaikit.com/uploads/all in one ai tools for entrepreuners.png",
     features: [
       "Generate business posts and brand names",
       "AI to write testimonials and pros & cons",
@@ -79,7 +79,7 @@ const userCategories = [
     description:
       "Scale your content creation and serve more clients with AI-powered workflows.",
     image:
-      "https://oneaikit.com/login/public/uploads/all in one ai tools for Digital Agencies.png",
+      "https://oneaikit.com/uploads/all in one ai tools for Digital Agencies.png",
     features: [
       "Scale content with custom AI generators",
       "Use AI to handle multiple client workflows",

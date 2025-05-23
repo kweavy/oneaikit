@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     .single();
 
   if (!data) return {
-    title: 'Not Found | EverythingAITools',
+    title: 'Not Found | oneaikit',
     description: 'Persona AI not found.',
   };
 
@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     openGraph: {
       title: `Chat with ${data.title} AI | ${data.description}`,
       description: data.description,
-      url: `https://everythingaitools.com/chat/${params.slug}`,
+      url: `https://oneaikit.com/chat/${params.slug}`,
       type: 'website',
     },
     twitter: {

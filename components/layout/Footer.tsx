@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link href="/" className="inline-block">
               <span className="uai-700  font-bold text-2xl">
-                Everything<span className="text-blue-500">AI</span>Tools
+                ONE<span className="text-blue-500">AI</span>KIT.COM
               </span>
             </Link>
             <p className="text-muted-foreground text-sm max-w-xs">
@@ -32,26 +32,46 @@ const Footer = () => {
           </div>
 
           <div>
-            <h3 className="font-semibold text-lg mb-4">Product</h3>
+           <h3 className="font-semibold text-lg mb-4">Products</h3>
             <ul className="space-y-2">
-              <li>
-                <Link href="#features" className="text-muted-foreground hover:text-primary transition-colors">
-                  Features
+                 <li>
+                <Link href="/ai-product-photography" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Product Photography
+                </Link>
+              </li>
+               <li>
+                <Link href="/ai-combine-photo" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Combine Photos
+                </Link>
+              </li>
+               <li>
+                <Link href="/ai-image-to-video" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Image to Video Generator
+                </Link>
+              </li>
+               <li>
+                <Link href="/ai-video-generator" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Video Generator
                 </Link>
               </li>
               <li>
-                <Link href="#how-it-works" className="text-muted-foreground hover:text-primary transition-colors">
-                  How it Works
+                <Link href="/ai-text-to-images" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Text to Image
                 </Link>
               </li>
               <li>
-                <Link href="#pricing" className="text-muted-foreground hover:text-primary transition-colors">
-                  Pricing
+                <Link href="/ai-article-generator-free" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Article Generator
                 </Link>
               </li>
-              <li>
-                <Link href="#testimonials" className="text-muted-foreground hover:text-primary transition-colors">
-                  Testimonials
+                <li>
+                <Link href="/ai-photo-filters" className="text-muted-foreground hover:text-primary transition-colors">
+                  AI Photo Filters
+                </Link>
+              </li>
+               <li>
+                <Link href="/chat" className="text-muted-foreground hover:text-primary transition-colors">
+                  Chat with AI Personalities
                 </Link>
               </li>
             </ul>
@@ -112,7 +132,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground">
-            © 2025 EverythingAITools. All rights reserved.
+            © 2025 oneaikit. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground mt-4 md:mt-0">
             All images are for demo purposes.
