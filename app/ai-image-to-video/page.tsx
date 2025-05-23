@@ -6,102 +6,98 @@ import DynamicHowItWorks from '@/components/DynamicHowitsWorks';
 import WhyUseArticleGenerator from '@/components/Benefit';
 import DynamicUseCases from '@/components/UseCase';
 import { Button } from '@/components/ui/button';
-import ImageGenerator from '@/components/home/ImageGenerator';
 import DynamicHero from '@/components/DynamicHero';
-import ImageToImageGenerator from '@/components/ImagetoImagegenerator';
 import ImageToVideoGenerator from '@/components/ImagetoVideo';
 
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: 'AI Photo Filter Generator Free – Ghibli, Anime, and More | OneAIKit',
-  description: 'Apply AI photo filters like Ghibli, anime, realistic, cartoon, and more. 100% free, no login needed. Enhance and stylize your photos instantly with AI.',
+  title: 'AI Image to Video Generator – Free, No Login, With Prompt | OneAIKit',
+  description: 'Convert any image to video using AI. No sign-up, no watermark, no restrictions. Free online image-to-video generator with prompt support.',
   metadataBase: new URL('https://oneaikit.com'),
   alternates: {
-    canonical: 'https://oneaikit.com/ai-photo-filter',
+    canonical: 'https://oneaikit.com/ai-image-to-video',
   },
   openGraph: {
-    title: 'Free AI Photo Filter – Ghibli, Anime, Cartoon, Realistic | OneAIKit',
-    description: 'Transform your photos using Ghibli, anime, cartoon, and more AI photo filters. No signup. Fast and free online image filter generator.',
-    url: 'https://oneaikit.com/ai-photo-filter',
+    title: 'Free AI Image to Video Generator – No Signup Needed',
+    description: 'Generate AI videos from images. Fast, free, and easy to use. Perfect for content creators and animators. Prompt-based, no login required.',
+    url: 'https://oneaikit.com/ai-image-to-video',
     siteName: 'OneAIKit',
     type: 'website',
     images: [
       {
-        url: 'https://oneaikit.com/og-image-photo-filter.png',
-        alt: 'AI Photo Filter Generator Free - OneAIKit',
+        url: 'https://oneaikit.com/og-image-image-to-video.png',
+        alt: 'AI Image to Video Generator - OneAIKit',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AI Photo Filter – Anime, Ghibli, Cartoon | Free Online Tool',
-    description: 'Use AI to stylize your photos in seconds. Try anime, ghibli, cartoon, and many more filters. Free and unlimited.',
-    images: ['https://oneaikit.com/og-image-photo-filter.png'],
+    title: 'AI Image to Video – Free Online Generator with Prompt',
+    description: 'Turn any image into a short video with AI. 100% free, no sign-up. Use text prompts or animations. Fast, mobile-friendly.',
+    images: ['https://oneaikit.com/og-image-image-to-video.png'],
   },
   keywords: [
-    'ai photo filter',
-    'ai photo filter online free',
-    'ai photo filter ghibli',
-    'ai photo filter anime',
-    'ai photo filter free',
-    'ai photo filter app',
-    'ai photo filter remover',
-    'ai photo filter editor',
-    'ai photo filter generator',
-    'ai photo filter enhancer'
+    'ai image to video',
+    'ai image to video generator',
+    'ai image to video free',
+    'ai image to video generator no sign up',
+    'ai image to video generator with prompt',
+    'ai video maker from image',
+    'image to animation ai',
+    'ai convert image to video online',
+    'ai video generator from photo',
   ],
 };
 
-export default function AIPhotoFilterPage() {
+export default function AIImageToVideoPage() {
   const faqContent: FaqItem[] = [
-    { question: 'Is this AI photo filter tool free?', answer: 'Yes. This AI filter is completely free and requires no login.' },
-    { question: 'What styles can I apply to my photo?', answer: 'You can apply styles like Ghibli, anime, cartoon, pixel art, realistic, and more.' },
-    { question: 'Do I need to install anything?', answer: 'No, the tool works directly in your browser.' },
-    { question: 'Can I upload my own photo?', answer: 'Yes. You can upload your own image and apply any filter style you choose.' },
-    { question: 'Where is the result saved?', answer: 'The generated photo will be displayed and downloadable instantly.' },
-    { question: 'Does it work on mobile?', answer: 'Yes, the AI photo filter tool works on both desktop and mobile devices.' },
+    { question: 'Is this AI image to video generator free?', answer: 'Yes, it’s 100% free. No sign-up, no watermark, and no credit card required.' },
+    { question: 'Can I use a prompt to guide the video generation?', answer: 'Yes. You can enter a custom prompt to control the video output style or theme.' },
+    { question: 'How long is the video generated?', answer: 'Typically between 2–6 seconds per image, but it may vary depending on the AI model.' },
+    { question: 'Can I use my own image?', answer: 'Absolutely. Upload your photo, enter a prompt, and get a video animation in seconds.' },
+    { question: 'What file format is the result?', answer: 'The result is a downloadable MP4 file, playable on all devices.' },
   ];
 
   const testimonials: TestimonialItem[] = [
     {
-      name: 'Amanda',
-      role: 'Content Creator',
-      content: 'I transformed my boring selfies into anime art! Amazing free photo filter tool with tons of styles!',
+      name: 'Liam N.',
+      role: 'Motion Designer',
+      content: 'This AI tool is magic. I uploaded a portrait and got a smooth looping video in seconds!',
       rating: 5,
+      image: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg',
+    },
+    {
+      name: 'Sophie R.',
+      role: 'YouTube Editor',
+      content: 'Love that I can animate stills with just a prompt. Perfect for short intros and reels!',
+      rating: 4,
       image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg',
     },
     {
-      name: 'Leo',
-      role: 'Streamer',
-      content: 'The Ghibli filter is my favorite. It gives my photos that dreamy vibe. Highly recommend!',
+      name: 'Darren K.',
+      role: 'TikTok Creator',
+      content: 'Fastest image-to-video AI I’ve used. No login, no ads, and video quality is great.',
       rating: 5,
       image: 'https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg',
-    },
-    {
-      name: 'Jenny',
-      role: 'Designer',
-      content: 'Perfect for quick concept art. Upload a photo, apply a filter, done. No signup needed!',
-      rating: 4,
-      image: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg',
     },
   ];
 
   const stepsHow = [
     {
       number: '1',
-      title: 'Upload a photo',
-      description: 'Choose any JPG or PNG file you want to stylize.',
+      title: 'Upload an Image',
+      description: 'Choose any image (JPG, PNG, or WEBP) to convert into video.',
     },
     {
       number: '2',
-      title: 'Choose a filter style',
-      description: 'Pick from anime, ghibli, cartoon, realistic, and many more styles.',
+      title: 'Enter a Prompt (Optional)',
+      description: 'You can enter a prompt to animate the image in a specific style or mood.',
     },
     {
       number: '3',
-      title: 'Download your image',
-      description: 'Get your transformed image instantly and use it anywhere you want.',
+      title: 'Generate the Video',
+      description: 'Click generate to create your AI-powered video. Download it instantly.',
     },
   ];
 
@@ -111,7 +107,7 @@ export default function AIPhotoFilterPage() {
         {JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'SoftwareApplication',
-          name: 'OneAIKit - Free AI Photo Filter Generator',
+          name: 'OneAIKit - AI Image to Video Generator',
           operatingSystem: 'Web',
           applicationCategory: 'WebApplication',
           offers: {
@@ -121,16 +117,17 @@ export default function AIPhotoFilterPage() {
           },
           aggregateRating: {
             '@type': 'AggregateRating',
-            ratingValue: '4.8',
-            reviewCount: '183',
+            ratingValue: '4.9',
+            reviewCount: '275',
           },
         })}
       </Script>
+
       <DynamicHero
-        title="AI Photo Filter Generator – Ghibli, Anime, Cartoon & More"
-        subtitle="Stylize your photo using AI for free"
-        description="Upload your image and apply stunning filters like Ghibli, Anime, Pixel Art, Cartoon, and more. Free forever, no login."
-        badgeText="Now Supports 15+ Styles"
+        title="AI Image to Video – Free Generator with Prompt Support"
+        subtitle="Create stunning AI videos from a single image"
+        description="Upload any image and turn it into a video using AI. Add prompt guidance. No login, no watermark, 100% free."
+        badgeText="Free Image-to-Video AI Generator"
         badgeImage="/avatar.png"
       />
 
@@ -138,44 +135,28 @@ export default function AIPhotoFilterPage() {
         <ImageToVideoGenerator />
 
         <DynamicUseCases
-          title="Who Can Use This AI Photo Filter Tool?"
+          title="Who Can Use This AI Image to Video Tool?"
           items={[
-            {
-              icon: '🎨',
-              title: 'Artists & Hobbyists',
-              description: 'Quickly turn your photos into art with styles like Ghibli, Oil Painting, and more.',
-            },
-            {
-              icon: '📷',
-              title: 'Instagram & Social Media Users',
-              description: 'Make your selfies stand out with anime and cartoon filters.',
-            },
-            {
-              icon: '🧠',
-              title: 'AI Explorers & Designers',
-              description: 'Test image-to-image AI models and visualize new art forms with one click.',
-            },
+            { icon: '🎥', title: 'Content Creators', description: 'Generate unique intro/outro visuals with just one image.' },
+            { icon: '👨‍🎨', title: 'AI Artists', description: 'Turn still artworks into cinematic clips or animations.' },
+            { icon: '📱', title: 'Social Media Marketers', description: 'Boost engagement with AI-generated motion visuals.' },
           ]}
         />
 
         <WhyUseArticleGenerator
-          title="Why Use Our AI Photo Filter Generator?"
-          subtitle="Free, instant, and stunning transformation."
+          title="Why Use Our Image-to-Video Generator?"
+          subtitle="Fast, creative, and no login required."
           benefits={[
-            { text: 'Use 15+ visual filter styles like Ghibli and Cartoon' },
-            { text: 'No signup or credit card needed' },
-            { text: 'Optimized for mobile & desktop' },
-            { text: 'Get base64 or downloadable images' },
+            { text: 'Generate video from image in seconds' },
+            { text: 'Prompt control for style & animation' },
+            { text: 'Free with no watermark or restrictions' },
+            { text: 'Works on desktop & mobile' },
           ]}
         />
 
         <DynamicHowItWorks steps={stepsHow} />
         <DynamicFaq content={faqContent} />
-        <DynamicTestimonials
-          data={testimonials}
-          title="What Users Are Saying"
-          subtitle="Loved by creators, designers, and photo filter fans"
-        />
+        <DynamicTestimonials data={testimonials} title="What People Are Saying" subtitle="Loved by creators, marketers, and animators" />
       </div>
     </>
   );
