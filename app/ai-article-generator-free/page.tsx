@@ -1,12 +1,12 @@
 import { Metadata } from 'next';
 import Script from 'next/script';
-import ArticleWizard from '@/components/ArticleWizard';
 import DynamicFaq, { FaqItem } from '@/components/DynamicFAQ';
 import DynamicTestimonials, { TestimonialItem } from '@/components/DynamicTestimonials';
 import DynamicHowItWorks from '@/components/DynamicHowitsWorks';
 import WhyUseArticleGenerator from '@/components/Benefit';
 import DynamicUseCases from '@/components/UseCase';
 import DynamicHero from '@/components/DynamicHero';
+import ArticleGenerator from '@/components/home/ArticleGenerators';
 
 export const dynamic = 'force-static';
 
@@ -155,7 +155,7 @@ export default function AiArticleGeneratorFreePage() {
       />
 
       <div className="max-w-5xl mx-auto px-4 py-10 space-y-16">
-        <ArticleWizard />
+       <ArticleGenerator />
 
         <DynamicUseCases
           title="Who Can Use This Tool?"
