@@ -3,7 +3,7 @@
 import React from 'react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { FileText, Mic, ImageIcon, Youtube, Code, MessageSquare } from 'lucide-react';
-import ArticleWizard from './ArticleWizard';
+import ArticleWizard from './ArticleWizardGenerator';
 import TextToSpeechGenerator from './TextToSpeechGenerator';
 import ImageGenerator from './ImageGenerator';
 import YouTubeToArticle from './YoutubetoArticle';
