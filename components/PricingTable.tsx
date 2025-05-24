@@ -3,7 +3,6 @@ import { Check, Star, Zap, Sparkles } from 'lucide-react';
 import PricingPage from '@/components/home/FeaturesPlan';
 import Image from 'next/image';
 import FaqPricing from '@/components/FaqPricing';
-import { Button } from "@/components/ui/button";
 
 const PricingTable = () => {
   const plans = [
@@ -242,10 +241,14 @@ const ModelBadge = ({ model, isDark = false }: { model: string; isDark?: boolean
                   )}
                 </div>
 
-                {/* CTA Button */}
-                <button className={`w-full py-3 px-6 rounded-lg font-medium transition-colors ${plan.buttonStyle} mb-8`}>
-                  Sign in to subscribe
-                </button>
+              {/* CTA Button */}
+<a
+  href="https://app.oneaikit.com/login"
+  className={`w-full py-3 px-6 rounded-lg font-medium transition-colors ${plan.buttonStyle} mb-8 text-center block`}
+>
+  Sign in to subscribe
+</a>
+
 
                 {/* Features */}
                 <div className="space-y-6">
