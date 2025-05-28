@@ -1,14 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // output: 'export', ❌ HAPUS baris ini
+  experimental: {
+    appDir: true,
+  },
+  images: {
+    unoptimized: true,
+  },
   eslint: {
     ignoreDuringBuilds: true,
   },
-  images: {
-    unoptimized: true, // tetap boleh
-  },
-  experimental: {
-    appDir: true,
+  i18n: {
+    locales: ['en', 'id'],
+    defaultLocale: 'en',
+    localeDetection: false,
   },
 };
 
