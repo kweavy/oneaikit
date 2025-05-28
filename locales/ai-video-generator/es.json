@@ -1,0 +1,140 @@
+{
+  "title": "Generador de Video AI Gratis – Desde Texto o Imagen, Sin Marca de Agua | OneAIKit",
+  "subtitle": "Crea videos AI instantáneamente desde tus ideas",
+  "description": "Genera videos AI en línea a partir de texto o imágenes usando modelos potentes como Kling AI y Stable Diffusion. 100% gratis, sin marca de agua, sin necesidad de iniciar sesión.",
+  "badgeText": "De Texto a Video y De Imagen a Video con AI",
+  "whoCanUse": "¿Quién puede usar este Generador de Video AI?",
+  "whyUseTitle": "¿Por qué usar el Generador de Video AI de OneAIKit?",
+  "whyUseSubtitle": "Gratis, sin marca de agua y diseñado para la creatividad.",
+  "benefits": [
+    "Crea videos a partir de texto o imágenes.",
+    "Soporta Kling AI y Stability Diffusion.",
+    "Sin marca de agua, uso ilimitado.",
+    "Interfaz fácil de usar para todos los niveles."
+  ],
+  "howItWorks": [
+    {
+      "title": "Ingresa un texto o sube una imagen",
+      "description": "Elige si quieres escribir una idea de video o subir una imagen para animar."
+    },
+    {
+      "title": "Selecciona el estilo y la relación de aspecto",
+      "description": "Personaliza la animación con estilos cinematográficos, ghibli o pixel y elige el formato de video."
+    },
+    {
+      "title": "Genera y descarga el MP4",
+      "description": "Haz clic en generar y espera unos segundos. Tu video AI estará listo para guardar y compartir."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Es gratis este generador de videos AI?",
+      "answer": "Sí, OneAIKit ofrece una herramienta de generación de videos AI 100% gratuita. No requiere tarjeta de crédito ni inicio de sesión."
+    },
+    {
+      "question": "¿Puedo generar videos tanto de texto como de imágenes?",
+      "answer": "¡Claro! Puedes crear videos a partir de textos o imágenes subidas con descripciones opcionales de estilo."
+    },
+    {
+      "question": "¿Los videos generados tienen marca de agua?",
+      "answer": "No. Todos los videos generados con esta herramienta están libres de marcas de agua y pueden usarse comercialmente."
+    },
+    {
+      "question": "¿Necesito instalar alguna aplicación?",
+      "answer": "No se requiere instalación. Todo funciona en tu navegador para generar videos AI instantáneamente."
+    },
+    {
+      "question": "¿Qué modelos se usan para la generación de videos?",
+      "answer": "Soportamos Kling AI para texto a video y Stability AI para imagen a video con movimiento realista."
+    },
+    {
+      "question": "¿Puedo usar este generador para contenido de YouTube o TikTok?",
+      "answer": "Sí. Nuestra herramienta soporta formatos adecuados para redes sociales, contenido corto y narración creativa."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Creador de YouTube",
+      "content": "¡Sorprendentemente fácil de usar! Generé un video AI cinematográfico con solo una frase.",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animadora",
+      "content": "Probé otras herramientas pero este generador ofrece la salida más limpia sin marcas de agua.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Especialista en Marketing Digital",
+      "content": "Gran herramienta para crear contenido de video rápidamente para anuncios y redes sociales. ¡Gratis y flexible!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Generador de Video AI Gratis – Desde Texto o Imagen, Sin Marca de Agua | OneAIKit",
+    "description": "Genera videos AI en línea a partir de texto o imágenes usando modelos potentes como Kling AI y Stable Diffusion. 100% gratis, sin marca de agua, sin necesidad de iniciar sesión.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Generador de Video AI Gratis – Desde Texto o Imagen | OneAIKit",
+      "description": "Crea videos generados por AI desde texto o imágenes con nuestra herramienta en línea. Sin inicio de sesión, sin marca de agua, y completamente gratis.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Generador de Video AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generador de Video AI Gratis en Línea – Sin Necesidad de Iniciar Sesión",
+      "description": "Genera videos AI desde textos o fotos. 100% gratis, sin marca de agua, impulsado por Kling y Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "generador de video ai",
+      "generador de video ai gratis",
+      "generador de video ai de texto gratis",
+      "generador de video ai sin marca de agua",
+      "generador de video ai de imagen",
+      "generar video ai de texto",
+      "texto a video ai",
+      "generador de texto a video ai",
+      "generar video ai gratis",
+      "mejor herramienta ai para generar video de texto"
+    ]
+  },
+  "hero": {
+    "title": "Generador de Video AI – Desde Texto o Imagen, Gratis y Sin Marca de Agua",
+    "subtitle": "Crea videos AI instantáneamente desde tus ideas",
+    "description": "Genera videos AI online a partir de texto o imágenes usando la última tecnología. No se requiere inicio de sesión.",
+    "badgeText": "Texto a Video y Imagen a Video impulsados por AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generador de Video AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

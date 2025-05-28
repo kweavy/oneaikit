@@ -1,0 +1,98 @@
+{
+  "title": "Gerador de Vídeo a partir de Imagem com IA – Grátis, Sem Login, com Suporte a Prompt",
+  "subtitle": "Crie vídeos impressionantes com IA a partir de uma única imagem",
+  "description": "Envie qualquer imagem e transforme-a em vídeo usando IA. Adicione um prompt para guiar o estilo ou animação. Sem login, sem marca d’água, 100% gratuito.",
+  "badgeText": "Gerador de Vídeo de Imagem IA Gratuito",
+  "whoCanUse": "Quem pode usar esta ferramenta de vídeo a partir de imagem com IA?",
+  "whyUseTitle": "Por que usar nosso gerador de vídeo a partir de imagem com IA?",
+  "whyUseSubtitle": "Rápido, criativo e sem necessidade de login.",
+  "benefits": [
+    "Gere vídeos a partir de imagens em segundos",
+    "Controle o estilo e animação com prompts",
+    "Grátis, sem marca d’água ou restrições",
+    "Funciona em desktop e dispositivos móveis"
+  ],
+  "howItWorks": [
+    {
+      "title": "Envie uma Imagem",
+      "description": "Escolha qualquer imagem (JPG, PNG ou WEBP) para converter em vídeo."
+    },
+    {
+      "title": "Digite um Prompt (Opcional)",
+      "description": "Você pode digitar um prompt para animar a imagem com um estilo ou clima específico."
+    },
+    {
+      "title": "Gere o Vídeo",
+      "description": "Clique em gerar para criar seu vídeo com IA. Baixe instantaneamente."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Este gerador de vídeo a partir de imagem com IA é realmente gratuito?",
+      "answer": "Sim, é 100% gratuito. Sem necessidade de cadastro, sem marca d’água e sem cartão de crédito."
+    },
+    {
+      "question": "Posso usar um prompt para guiar a criação do vídeo?",
+      "answer": "Sim. Você pode digitar um prompt personalizado para controlar o estilo ou tema do vídeo."
+    },
+    {
+      "question": "Qual a duração do vídeo gerado?",
+      "answer": "Normalmente entre 2 a 6 segundos por imagem, dependendo do modelo de IA."
+    },
+    {
+      "question": "Posso usar minha própria imagem?",
+      "answer": "Claro. Envie sua foto, insira um prompt e obtenha um vídeo animado em segundos."
+    },
+    {
+      "question": "Em que formato o vídeo é entregue?",
+      "answer": "O resultado é um arquivo MP4 para download, que pode ser reproduzido em todos os dispositivos."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Designer de Motion",
+      "content": "Esta ferramenta de IA é mágica. Enviei um retrato e em segundos tive um vídeo em loop suave!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Editora do YouTube",
+      "content": "Adoro poder animar imagens estáticas com apenas um prompt. Perfeito para intros curtos e reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Criador TikTok",
+      "content": "O gerador AI de imagem para vídeo mais rápido que já usei. Sem login, sem anúncios e com ótima qualidade de vídeo.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "Gerador de Vídeo de Imagem AI – Gratuito com Suporte a Prompt",
+    "subtitle": "Crie vídeos impressionantes com IA a partir de uma única imagem",
+    "description": "Envie qualquer imagem e transforme-a em vídeo com IA. Adicione prompt para controlar estilo ou animação. Sem login, sem marca d’água, 100% gratuito.",
+    "badgeText": "Gerador de Vídeo AI Gratuito",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gerador de Vídeo de Imagem AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

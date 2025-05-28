@@ -1,0 +1,140 @@
+{
+  "title": "Trình Tạo Video AI Miễn Phí – Từ Văn Bản hoặc Hình Ảnh, Không Dấu Nước | OneAIKit",
+  "subtitle": "Tạo video AI ngay lập tức từ ý tưởng của bạn",
+  "description": "Tạo video AI trực tuyến từ văn bản hoặc hình ảnh bằng các mô hình mạnh mẽ như Kling AI và Stable Diffusion. Hoàn toàn miễn phí, không dấu nước, không cần đăng nhập.",
+  "badgeText": "Chuyển Văn Bản Thành Video & Hình Ảnh Thành Video Bằng AI",
+  "whoCanUse": "Ai có thể sử dụng Trình tạo Video AI này?",
+  "whyUseTitle": "Tại sao nên sử dụng Trình tạo Video AI của OneAIKit?",
+  "whyUseSubtitle": "Miễn phí, không dấu nước và được thiết kế cho sự sáng tạo.",
+  "benefits": [
+    "Tạo video từ văn bản hoặc hình ảnh.",
+    "Hỗ trợ Kling AI và Stability Diffusion.",
+    "Không dấu nước, sử dụng không giới hạn.",
+    "Giao diện dễ sử dụng phù hợp mọi trình độ."
+  ],
+  "howItWorks": [
+    {
+      "title": "Nhập yêu cầu hoặc tải ảnh lên",
+      "description": "Chọn nhập ý tưởng video hoặc tải hình ảnh để tạo hiệu ứng hoạt hình."
+    },
+    {
+      "title": "Chọn phong cách và tỷ lệ khung hình",
+      "description": "Tùy chỉnh hoạt ảnh với phong cách điện ảnh, Ghibli hoặc pixel và chọn định dạng video."
+    },
+    {
+      "title": "Tạo và tải xuống MP4",
+      "description": "Nhấn Tạo và chờ vài giây. Video AI của bạn sẽ sẵn sàng để lưu và chia sẻ."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Trình tạo video AI này có miễn phí không?",
+      "answer": "Có, OneAIKit cung cấp công cụ tạo video AI miễn phí 100%. Không cần thẻ tín dụng hay đăng nhập."
+    },
+    {
+      "question": "Tôi có thể tạo video từ cả văn bản và hình ảnh không?",
+      "answer": "Chắc chắn rồi! Bạn có thể tạo video từ yêu cầu văn bản hoặc tải ảnh lên kèm mô tả phong cách."
+    },
+    {
+      "question": "Video tạo ra có dấu nước không?",
+      "answer": "Không. Tất cả video được tạo bằng công cụ này đều không có dấu nước và có thể sử dụng thương mại."
+    },
+    {
+      "question": "Tôi có cần cài đặt ứng dụng không?",
+      "answer": "Không cần. Mọi thứ hoạt động trên trình duyệt của bạn để tạo video AI ngay lập tức."
+    },
+    {
+      "question": "Mô hình nào được sử dụng để tạo video?",
+      "answer": "Chúng tôi hỗ trợ Kling AI cho chuyển văn bản thành video và Stability AI cho chuyển hình ảnh thành video với chuyển động chân thực."
+    },
+    {
+      "question": "Tôi có thể dùng trình tạo video AI này cho nội dung YouTube hoặc TikTok không?",
+      "answer": "Có. Công cụ hỗ trợ các định dạng phù hợp với mạng xã hội, video ngắn và kể chuyện sáng tạo."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Người tạo nội dung YouTube",
+      "content": "Dễ sử dụng tuyệt vời. Tôi tạo được video AI mang phong cách điện ảnh chỉ với một câu!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Nhà làm phim hoạt hình",
+      "content": "Tôi đã thử nhiều công cụ khác, nhưng trình tạo video AI này cho chất lượng tốt nhất mà không có dấu nước.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Chuyên gia tiếp thị kỹ thuật số",
+      "content": "Công cụ tuyệt vời để tạo nhanh nội dung video cho quảng cáo và bài đăng trên mạng xã hội. Miễn phí và linh hoạt!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Trình Tạo Video AI Miễn Phí – Từ Văn Bản hoặc Hình Ảnh, Không Dấu Nước | OneAIKit",
+    "description": "Tạo video AI trực tuyến từ văn bản hoặc hình ảnh bằng các mô hình mạnh mẽ như Kling AI và Stable Diffusion. Hoàn toàn miễn phí, không dấu nước, không cần đăng nhập.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Trình Tạo Video AI Miễn Phí – Từ Văn Bản hoặc Hình Ảnh | OneAIKit",
+      "description": "Tạo video được tạo bởi AI từ văn bản hoặc hình ảnh với công cụ trực tuyến của chúng tôi. Không cần đăng nhập, không có dấu nước và hoàn toàn miễn phí.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Trình Tạo Video AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trình Tạo Video AI Miễn Phí Trực Tuyến – Không Cần Đăng Nhập",
+      "description": "Tạo video AI từ văn bản hoặc hình ảnh. 100% miễn phí, không dấu nước, được hỗ trợ bởi Kling và Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "trình tạo video ai",
+      "trình tạo video ai miễn phí",
+      "tạo video ai từ văn bản miễn phí",
+      "trình tạo video ai không dấu nước",
+      "tạo video ai từ hình ảnh",
+      "tạo video từ văn bản bằng ai",
+      "ai văn bản thành video",
+      "trình tạo văn bản thành video ai",
+      "tạo video ai miễn phí",
+      "công cụ ai tốt nhất để tạo video từ văn bản"
+    ]
+  },
+  "hero": {
+    "title": "Trình Tạo Video AI – Từ Văn Bản hoặc Hình Ảnh, Miễn Phí & Không Dấu Nước",
+    "subtitle": "Tạo video AI ngay từ ý tưởng của bạn",
+    "description": "Tạo video AI trực tuyến từ văn bản hoặc hình ảnh với công nghệ mới nhất. Không cần đăng nhập.",
+    "badgeText": "Chuyển Văn Bản Thành Video & Hình Ảnh Thành Video Bằng AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Trình Tạo Video AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

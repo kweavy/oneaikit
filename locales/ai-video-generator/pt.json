@@ -1,0 +1,140 @@
+{
+  "title": "Gerador de Vídeo AI Gratuito – De Texto ou Imagem, Sem Marca d'Água | OneAIKit",
+  "subtitle": "Crie vídeos AI instantaneamente a partir das suas ideias",
+  "description": "Gere vídeos AI online a partir de prompts de texto ou imagens usando modelos poderosos como Kling AI e Stable Diffusion. 100% grátis, sem marca d'água, sem necessidade de login.",
+  "badgeText": "Texto para Vídeo & Imagem para Vídeo Alimentados por AI",
+  "whoCanUse": "Quem pode usar este Gerador de Vídeo AI?",
+  "whyUseTitle": "Por que usar o Gerador de Vídeo AI do OneAIKit?",
+  "whyUseSubtitle": "Grátis, sem marca d'água e projetado para criatividade.",
+  "benefits": [
+    "Crie vídeos a partir de prompts de texto ou imagem.",
+    "Suporta Kling AI e Stability Diffusion.",
+    "Sem marca d'água, uso ilimitado.",
+    "Interface fácil de usar para todos os níveis de habilidade."
+  ],
+  "howItWorks": [
+    {
+      "title": "Digite o prompt ou envie uma imagem",
+      "description": "Escolha digitar uma ideia de vídeo ou enviar uma imagem para animar."
+    },
+    {
+      "title": "Selecione o estilo e a proporção",
+      "description": "Personalize a animação usando estilos cinematográficos, ghibli ou pixel e escolha o formato do vídeo."
+    },
+    {
+      "title": "Gere e baixe o MP4",
+      "description": "Clique em Gerar e aguarde alguns segundos. Seu vídeo AI estará pronto para salvar e compartilhar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Este gerador de vídeo AI é gratuito?",
+      "answer": "Sim, o OneAIKit oferece uma ferramenta de geração de vídeo AI 100% gratuita. Nenhum cartão de crédito ou login é necessário."
+    },
+    {
+      "question": "Posso gerar vídeo a partir de texto e imagem?",
+      "answer": "Absolutamente! Você pode gerar vídeos a partir de prompts de texto ou envio de imagens com descrições de estilo opcionais."
+    },
+    {
+      "question": "Os vídeos gerados têm marca d'água?",
+      "answer": "Não. Todos os vídeos gerados com esta ferramenta são livres de marca d'água e podem ser usados comercialmente."
+    },
+    {
+      "question": "Preciso instalar algum aplicativo?",
+      "answer": "Nenhuma instalação é necessária. Tudo funciona no seu navegador para geração instantânea de vídeo AI."
+    },
+    {
+      "question": "Quais modelos são usados para a geração de vídeo?",
+      "answer": "Suportamos Kling AI para texto para vídeo e Stability AI para geração de vídeo a partir de imagens com movimento realista."
+    },
+    {
+      "question": "Posso usar este gerador de vídeo AI para conteúdo do YouTube ou TikTok?",
+      "answer": "Sim. Nossa ferramenta suporta formatos adequados para redes sociais, conteúdo curto e narrativa criativa."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Criador do YouTube",
+      "content": "Incrivelmente fácil de usar. Gere um vídeo AI cinematográfico com apenas uma frase!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animadora",
+      "content": "Já testei outras ferramentas, mas este gerador de vídeo AI oferece a saída mais limpa, sem marcas d'água.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Especialista em Marketing Digital",
+      "content": "Ótima ferramenta para criar rapidamente conteúdo de vídeo para anúncios e posts sociais. Gratuito e flexível!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Gerador de Vídeo AI Gratuito – De Texto ou Imagem, Sem Marca d'Água | OneAIKit",
+    "description": "Gere vídeos AI online a partir de prompts de texto ou imagens usando modelos poderosos como Kling AI e Stable Diffusion. 100% grátis, sem marca d'água, sem necessidade de login.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Gerador de Vídeo AI Gratuito – De Texto ou Imagem | OneAIKit",
+      "description": "Crie vídeos gerados por AI a partir de texto ou imagens com nossa ferramenta online. Sem login, sem marca d'água e totalmente gratuito.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Gerador de Vídeo AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gerador de Vídeo AI Gratuito Online – Sem Necessidade de Login",
+      "description": "Gere vídeos AI a partir de prompts de texto ou fotos. 100% gratuito, sem marca d'água, alimentado por Kling e Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "gerador de vídeo ai",
+      "gerador de vídeo ai gratuito",
+      "gerador de vídeo ai a partir de texto gratuito",
+      "gerador de vídeo ai sem marca d'água",
+      "gerador de vídeo ai a partir de imagem",
+      "gerar vídeo ai a partir de texto",
+      "texto para vídeo ai",
+      "gerador de texto para vídeo ai",
+      "gerar vídeo ai grátis",
+      "melhor ferramenta ai para gerar vídeo a partir de texto"
+    ]
+  },
+  "hero": {
+    "title": "Gerador de Vídeo AI – De Texto ou Imagem, Grátis & Sem Marca d'Água",
+    "subtitle": "Crie vídeos AI instantaneamente a partir das suas ideias",
+    "description": "Gere vídeos AI online a partir de prompts de texto ou imagem usando a tecnologia mais recente. Sem necessidade de login.",
+    "badgeText": "Texto para Vídeo & Imagem para Vídeo alimentados por AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gerador de Vídeo AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

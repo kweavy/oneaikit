@@ -1,0 +1,140 @@
+{
+  "title": "Générateur de Vidéo IA Gratuit – Depuis Texte ou Image, Sans Filigrane | OneAIKit",
+  "subtitle": "Créez des vidéos IA instantanément à partir de vos idées",
+  "description": "Générez des vidéos IA en ligne à partir de textes ou d’images en utilisant des modèles puissants comme Kling AI et Stable Diffusion. 100 % gratuit, sans filigrane, sans inscription requise.",
+  "badgeText": "Texte en Vidéo & Image en Vidéo propulsés par IA",
+  "whoCanUse": "Qui peut utiliser ce générateur de vidéo IA ?",
+  "whyUseTitle": "Pourquoi utiliser le générateur de vidéo IA de OneAIKit ?",
+  "whyUseSubtitle": "Gratuit, sans filigrane et conçu pour la créativité.",
+  "benefits": [
+    "Créez des vidéos à partir de textes ou d’images.",
+    "Prend en charge Kling AI & Stability Diffusion.",
+    "Sans filigrane, utilisation illimitée.",
+    "Interface facile à utiliser pour tous les niveaux."
+  ],
+  "howItWorks": [
+    {
+      "title": "Entrez une requête ou téléchargez une image",
+      "description": "Choisissez de taper une idée de vidéo ou de télécharger une image à animer."
+    },
+    {
+      "title": "Sélectionnez le style et le ratio d’aspect",
+      "description": "Personnalisez l’animation avec des styles cinématographiques, ghibli ou pixel et choisissez le format vidéo."
+    },
+    {
+      "title": "Générez et téléchargez le MP4",
+      "description": "Cliquez sur Générer et patientez quelques secondes. Votre vidéo IA sera prête à être sauvegardée et partagée."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ce générateur de vidéo IA est-il gratuit ?",
+      "answer": "Oui, OneAIKit offre un outil de génération vidéo IA 100 % gratuit. Aucune carte de crédit ni inscription requise."
+    },
+    {
+      "question": "Puis-je générer des vidéos à partir de texte et d’image ?",
+      "answer": "Absolument ! Vous pouvez créer des vidéos à partir de requêtes textuelles ou de téléchargements d’images avec descriptions de style optionnelles."
+    },
+    {
+      "question": "Les vidéos générées comportent-elles un filigrane ?",
+      "answer": "Non. Toutes les vidéos générées avec cet outil sont exemptes de filigrane et peuvent être utilisées commercialement."
+    },
+    {
+      "question": "Dois-je installer une application ?",
+      "answer": "Aucune installation n’est requise. Tout fonctionne dans votre navigateur pour une génération instantanée de vidéos IA."
+    },
+    {
+      "question": "Quels modèles sont utilisés pour la génération vidéo ?",
+      "answer": "Nous utilisons Kling AI pour le texte en vidéo et Stability AI pour la génération d’image en vidéo avec un mouvement réaliste."
+    },
+    {
+      "question": "Puis-je utiliser ce générateur pour du contenu YouTube ou TikTok ?",
+      "answer": "Oui. Notre outil prend en charge les formats adaptés aux réseaux sociaux, aux contenus courts et au storytelling créatif."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Créateur YouTube",
+      "content": "Incroyablement facile à utiliser. J’ai généré une vidéo cinématographique IA avec une seule phrase !",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animatrice",
+      "content": "J’ai essayé d’autres outils, mais ce générateur IA donne la sortie la plus propre sans filigrane.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Marketeur digital",
+      "content": "Excellent outil pour créer rapidement du contenu vidéo pour les publicités et les posts sociaux. Gratuit et flexible !",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Générateur de Vidéo IA Gratuit – Depuis Texte ou Image, Sans Filigrane | OneAIKit",
+    "description": "Générez des vidéos IA en ligne à partir de textes ou d’images en utilisant des modèles puissants comme Kling AI et Stable Diffusion. 100 % gratuit, sans filigrane, sans inscription requise.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Générateur de Vidéo IA Gratuit – Depuis Texte ou Image | OneAIKit",
+      "description": "Créez des vidéos générées par IA à partir de textes ou d’images avec notre outil en ligne. Sans inscription, sans filigrane, et totalement gratuit.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Générateur de Vidéo IA - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Générateur de Vidéo IA Gratuit en Ligne – Sans Inscription",
+      "description": "Générez des vidéos IA à partir de textes ou photos. 100 % gratuit, sans filigrane, propulsé par Kling et Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "générateur vidéo ia",
+      "générateur vidéo ia gratuit",
+      "générateur vidéo ia texte gratuit",
+      "générateur vidéo ia sans filigrane",
+      "générateur vidéo ia image",
+      "générer vidéo ia texte",
+      "texte à vidéo ia",
+      "générateur texte à vidéo ia",
+      "générer vidéo ia gratuit",
+      "meilleur outil ia pour générer vidéo depuis texte"
+    ]
+  },
+  "hero": {
+    "title": "Générateur de Vidéo IA – Depuis Texte ou Image, Gratuit & Sans Filigrane",
+    "subtitle": "Créez des vidéos IA instantanément à partir de vos idées",
+    "description": "Générez des vidéos IA en ligne à partir de textes ou d’images avec la dernière technologie. Pas besoin de connexion.",
+    "badgeText": "Texte en Vidéo & Image en Vidéo propulsés par IA",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Générateur de Vidéo IA",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

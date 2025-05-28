@@ -1,0 +1,98 @@
+{
+  "title": "KI Bild-zu-Video Generator – Kostenlos, Kein Login, Mit Texteingabe",
+  "subtitle": "Erstelle beeindruckende KI-Videos aus nur einem Bild",
+  "description": "Lade ein Bild hoch und verwandle es mit KI in ein Video. Nutze Texteingaben zur Steuerung des Stils. Kein Login, kein Wasserzeichen, 100% kostenlos.",
+  "badgeText": "Kostenloser KI Bild-zu-Video Generator",
+  "whoCanUse": "Wer kann dieses KI Bild-zu-Video Tool nutzen?",
+  "whyUseTitle": "Warum unseren Bild-zu-Video Generator verwenden?",
+  "whyUseSubtitle": "Schnell, kreativ und ohne Login.",
+  "benefits": [
+    "Erstelle Videos aus Bildern in Sekunden",
+    "Steuere Stil & Animation per Texteingabe",
+    "Kostenlos, ohne Wasserzeichen oder Einschränkungen",
+    "Funktioniert auf Desktop und Mobilgeräten"
+  ],
+  "howItWorks": [
+    {
+      "title": "Bild hochladen",
+      "description": "Wähle ein Bild (JPG, PNG oder WEBP), das du in ein Video verwandeln möchtest."
+    },
+    {
+      "title": "Optional: Texteingabe eingeben",
+      "description": "Gib eine Texteingabe ein, um das Bild in einem bestimmten Stil oder mit einer Stimmung zu animieren."
+    },
+    {
+      "title": "Video generieren",
+      "description": "Klicke auf 'Generieren', um dein KI-Video zu erstellen. Sofort herunterladen."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ist dieser KI Bild-zu-Video Generator kostenlos?",
+      "answer": "Ja, er ist zu 100% kostenlos. Keine Anmeldung, kein Wasserzeichen, keine Kreditkarte nötig."
+    },
+    {
+      "question": "Kann ich eine Texteingabe verwenden, um die Videogestaltung zu steuern?",
+      "answer": "Ja. Du kannst eine individuelle Texteingabe eingeben, um den Stil oder das Thema des Videos zu bestimmen."
+    },
+    {
+      "question": "Wie lang ist das generierte Video?",
+      "answer": "In der Regel 2 bis 6 Sekunden pro Bild, abhängig vom KI-Modell."
+    },
+    {
+      "question": "Kann ich mein eigenes Bild verwenden?",
+      "answer": "Absolut. Lade dein Foto hoch, gib eine Texteingabe ein und erhalte innerhalb von Sekunden ein animiertes Video."
+    },
+    {
+      "question": "In welchem Format wird das Ergebnis ausgegeben?",
+      "answer": "Das Ergebnis ist eine herunterladbare MP4-Datei, die auf allen Geräten abgespielt werden kann."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Motion Designer",
+      "content": "Dieses KI-Tool ist magisch. Ich habe ein Porträt hochgeladen und in Sekunden ein nahtloses, sich wiederholendes Video erhalten!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "YouTube-Editorin",
+      "content": "Ich liebe es, dass ich Standbilder einfach mit einer Texteingabe animieren kann. Perfekt für kurze Intros und Reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "TikTok Creator",
+      "content": "Der schnellste KI-Bild-zu-Video-Generator, den ich kenne. Kein Login, keine Werbung, super Videoqualität.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "KI Bild-zu-Video – Kostenloser Generator mit Texteingabe",
+    "subtitle": "Erstelle beeindruckende KI-Videos aus nur einem Bild",
+    "description": "Lade ein beliebiges Bild hoch und verwandle es mit KI in ein Video. Füge Texteingaben hinzu. Kein Login, kein Wasserzeichen, 100% kostenlos.",
+    "badgeText": "Kostenloser KI Bild-zu-Video Generator",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - KI Bild-zu-Video Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

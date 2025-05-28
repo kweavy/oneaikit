@@ -1,0 +1,98 @@
+{
+  "title": "AI Image to Video Generator – Free, No Login, With Prompt",
+  "subtitle": "Create stunning AI videos from a single image",
+  "description": "Upload any image and turn it into a video using AI. Add prompt guidance. No login, no watermark, 100% free.",
+  "badgeText": "Free Image-to-Video AI Generator",
+  "whoCanUse": "Who Can Use This AI Image to Video Tool?",
+  "whyUseTitle": "Why Use Our AI Image to Video Generator?",
+  "whyUseSubtitle": "Fast, creative, and no login required.",
+  "benefits": [
+    "Generate video from image in seconds",
+    "Prompt control for style & animation",
+    "Free with no watermark or restrictions",
+    "Works on desktop & mobile"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload an Image",
+      "description": "Choose any image (JPG, PNG, or WEBP) to convert into video."
+    },
+    {
+      "title": "Enter a Prompt (Optional)",
+      "description": "You can enter a prompt to animate the image in a specific style or mood."
+    },
+    {
+      "title": "Generate the Video",
+      "description": "Click generate to create your AI-powered video. Download it instantly."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is this AI image to video generator free?",
+      "answer": "Yes, it’s 100% free. No sign-up, no watermark, and no credit card required."
+    },
+    {
+      "question": "Can I use a prompt to guide the video generation?",
+      "answer": "Yes. You can enter a custom prompt to control the video output style or theme."
+    },
+    {
+      "question": "How long is the video generated?",
+      "answer": "Typically between 2–6 seconds per image, but it may vary depending on the AI model."
+    },
+    {
+      "question": "Can I use my own image?",
+      "answer": "Absolutely. Upload your photo, enter a prompt, and get a video animation in seconds."
+    },
+    {
+      "question": "What file format is the result?",
+      "answer": "The result is a downloadable MP4 file, playable on all devices."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Motion Designer",
+      "content": "This AI tool is magic. I uploaded a portrait and got a smooth looping video in seconds!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "YouTube Editor",
+      "content": "Love that I can animate stills with just a prompt. Perfect for short intros and reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "TikTok Creator",
+      "content": "Fastest image-to-video AI I’ve used. No login, no ads, and video quality is great.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Image to Video – Free Generator with Prompt Support",
+    "subtitle": "Create stunning AI videos from a single image",
+    "description": "Upload any image and turn it into a video using AI. Add prompt guidance. No login, no watermark, 100% free.",
+    "badgeText": "Free Image-to-Video AI Generator",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Image to Video Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

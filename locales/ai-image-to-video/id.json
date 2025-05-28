@@ -1,0 +1,98 @@
+{
+  "title": "Gambar ke Video Generator AI – Gratis, Tanpa Login, dengan Dukungan Prompt",
+  "subtitle": "Buat video AI menakjubkan dari satu gambar saja",
+  "description": "Unggah gambar apa saja dan ubah menjadi video menggunakan AI. Tambahkan prompt untuk mengarahkan gaya atau animasi. Tanpa login, tanpa watermark, 100% gratis.",
+  "badgeText": "Generator AI Video dari Gambar Gratis",
+  "whoCanUse": "Siapa yang Bisa Menggunakan Gambar ke Video Generator AI Ini?",
+  "whyUseTitle": "Mengapa Menggunakan Gambar ke Video Generator AI Kami?",
+  "whyUseSubtitle": "Cepat, kreatif, dan tanpa perlu login.",
+  "benefits": [
+    "Mengubah gambar menjadi video dalam hitungan detik",
+    "Kontrol gaya dan animasi dengan prompt teks",
+    "Gratis tanpa watermark dan tanpa batasan",
+    "Bisa digunakan di desktop maupun ponsel"
+  ],
+  "howItWorks": [
+    {
+      "title": "Unggah Gambar",
+      "description": "Pilih gambar (JPG, PNG, atau WEBP) yang ingin kamu ubah menjadi video."
+    },
+    {
+      "title": "Masukkan Prompt (Opsional)",
+      "description": "Berikan perintah teks untuk mengarahkan gaya atau suasana video."
+    },
+    {
+      "title": "Hasilkan Video",
+      "description": "Klik generate dan video AI kamu akan langsung tersedia untuk diunduh."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apakah generator video dari gambar ini benar-benar gratis?",
+      "answer": "Ya, 100% gratis. Tanpa perlu daftar, tanpa watermark, dan tanpa kartu kredit."
+    },
+    {
+      "question": "Bisakah saya menggunakan prompt untuk mengontrol video?",
+      "answer": "Bisa. Kamu dapat memasukkan prompt untuk menentukan gaya dan tema video."
+    },
+    {
+      "question": "Berapa lama durasi video yang dihasilkan?",
+      "answer": "Umumnya antara 2 sampai 6 detik per gambar, tergantung model AI yang digunakan."
+    },
+    {
+      "question": "Bolehkah saya menggunakan gambar saya sendiri?",
+      "answer": "Tentu saja. Unggah gambarmu, masukkan prompt, dan dapatkan video animasi dalam hitungan detik."
+    },
+    {
+      "question": "Dalam format apa video akan diunduh?",
+      "answer": "Video diunduh dalam format MP4 yang dapat diputar di semua perangkat."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Desainer Motion",
+      "content": "Alat AI ini luar biasa! Saya mengunggah foto potret dan dalam hitungan detik mendapatkan video yang halus dan berulang.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Editor YouTube",
+      "content": "Saya suka bisa menghidupkan gambar diam hanya dengan memasukkan prompt. Sempurna untuk intro pendek dan reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Creator TikTok",
+      "content": "Generator gambar-ke-video AI tercepat yang pernah saya gunakan. Tanpa login, tanpa iklan, dan kualitas videonya hebat.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "Gambar ke Video Generator AI – Gratis dan Mudah",
+    "subtitle": "Buat video menakjubkan hanya dari satu gambar",
+    "description": "Unggah gambar, tambahkan prompt, dan buat video AI dengan cepat dan gratis tanpa perlu login.",
+    "badgeText": "Generator Video AI Gratis",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gambar ke Video Generator AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

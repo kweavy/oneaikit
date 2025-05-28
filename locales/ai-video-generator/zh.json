@@ -1,0 +1,139 @@
+{
+  "title": "免费AI视频生成器 – 支持文本或图片，无水印 | OneAIKit",
+  "subtitle": "即时从您的创意生成AI视频",
+  "description": "使用强大的Kling AI和Stable Diffusion模型，在线从文本提示或图片生成AI视频。100%免费，无水印，无需登录。",
+  "badgeText": "AI文本转视频 & 图片转视频",
+  "whoCanUse": "谁可以使用此AI视频生成器？",
+  "whyUseTitle": "为什么选择OneAIKit的AI视频生成器？",
+  "whyUseSubtitle": "免费，无水印，专为创造力设计。",
+  "benefits": [
+    "从文本或图片生成视频。",
+    "支持Kling AI和Stable Diffusion。",
+    "无水印，无限使用。",
+    "适合所有技能水平的易用界面。"
+  ],
+  "howItWorks": [
+    {
+      "title": "输入提示或上传图片",
+      "description": "选择输入视频创意或上传图片进行动画制作。"
+    },
+    {
+      "title": "选择风格和宽高比",
+      "description": "使用电影风格、吉卜力或像素风格定制动画，并选择视频格式。"
+    },
+    {
+      "title": "生成并下载MP4",
+      "description": "点击生成，稍等片刻。您的AI视频将准备好保存和分享。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "此AI视频生成器免费吗？",
+      "answer": "是的，OneAIKit提供100%免费的AI视频生成工具，无需信用卡或登录。"
+    },
+    {
+      "question": "我可以用文本和图片生成视频吗？",
+      "answer": "当然可以！您可以使用文本提示或上传带有风格描述的图片生成视频。"
+    },
+    {
+      "question": "生成的视频有水印吗？",
+      "answer": "没有。使用此工具生成的所有视频均无水印，可用于商业用途。"
+    },
+    {
+      "question": "需要安装应用程序吗？",
+      "answer": "不需要，一切都在您的浏览器中运行，支持即时AI视频生成。"
+    },
+    {
+      "question": "视频生成使用了哪些模型？",
+      "answer": "我们支持Kling AI用于文本转视频，Stability AI用于图片转视频，并实现逼真动作。"
+    },
+    {
+      "question": "我可以用此AI视频生成器制作YouTube或TikTok内容吗？",
+      "answer": "可以。该工具支持适合社交媒体、短视频和创意故事的格式。"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "YouTube内容创作者",
+      "content": "非常易用，我只用一句话就生成了电影风格的AI视频！",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "动画师",
+      "content": "我尝试过其他工具，但这个AI视频生成器提供了最干净的输出且无水印。",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "数字营销专家",
+      "content": "快速创建广告和社交帖子视频内容的好工具。免费且灵活！",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "免费AI视频生成器 – 支持文本或图片，无水印 | OneAIKit",
+    "description": "使用强大的Kling AI和Stable Diffusion模型，在线从文本提示或图片生成AI视频。100%免费，无水印，无需登录。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "免费AI视频生成器 – 支持文本或图片 | OneAIKit",
+      "description": "使用我们的在线工具从文本或图片创建AI生成的视频。无需登录，无水印，完全免费使用。",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "AI视频生成器 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "免费AI视频生成器在线 – 无需登录",
+      "description": "从文本提示或照片生成AI视频。100%免费，无水印，由Kling和Stability AI支持。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai视频生成器",
+      "免费ai视频生成器",
+      "文本到视频ai生成器",
+      "无水印ai视频生成器",
+      "图片生成视频ai",
+      "文本生成视频ai",
+      "ai文本转视频",
+      "免费ai视频生成工具",
+      "最佳文本转视频ai工具"
+    ]
+  },
+  "hero": {
+    "title": "AI视频生成器 – 支持文本或图片，免费且无水印",
+    "subtitle": "立即从您的创意生成AI视频",
+    "description": "使用最新技术从文本或图片提示生成AI视频。无需登录。",
+    "badgeText": "文本转视频 & 图片转视频 AI驱动",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI视频生成器",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

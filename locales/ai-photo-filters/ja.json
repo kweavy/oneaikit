@@ -1,0 +1,139 @@
+{
+  "title": "AIフォトフィルタージェネレーター無料 – ジブリ、アニメなど | OneAIKit",
+  "subtitle": "ジブリ、アニメ、リアリスティック、カートゥーンなどのAIフォトフィルターを適用。100%無料でログイン不要。AIで写真を瞬時に美しくスタイリング。",
+  "description": "画像をアップロードして、ジブリ、アニメ、ピクセルアート、カートゥーンなどの素晴らしいフィルターを適用。永遠に無料で登録不要。",
+  "badgeText": "15以上のスタイルをサポート",
+  "whoCanUse": "このAIフォトフィルターツールは誰が使えますか？",
+  "whyUseTitle": "なぜ私たちのAIフォトフィルタージェネレーターを使うのか？",
+  "whyUseSubtitle": "無料で即時、驚くべき変換を実現。",
+  "benefits": [
+    "ジブリやカートゥーンなど15以上のビジュアルフィルタースタイルを使用可能",
+    "サインアップやクレジットカード不要",
+    "モバイル・デスクトップに最適化",
+    "base64画像やダウンロード可能な画像が取得可能"
+  ],
+  "howItWorks": [
+    {
+      "title": "写真をアップロード",
+      "description": "スタイリングしたいJPGまたはPNGファイルを選択してください。"
+    },
+    {
+      "title": "フィルタースタイルを選択",
+      "description": "アニメ、ジブリ、カートゥーン、リアリスティックなど多様なスタイルから選べます。"
+    },
+    {
+      "title": "画像をダウンロード",
+      "description": "変換された画像をすぐに取得して、どこでも使用できます。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAIフォトフィルターツールは無料ですか？",
+      "answer": "はい！完全無料でログインは不要です。"
+    },
+    {
+      "question": "どんなスタイルを写真に適用できますか？",
+      "answer": "ジブリ、アニメ、カートゥーン、ピクセルアート、リアリスティックなどのスタイルを適用できます。"
+    },
+    {
+      "question": "何かインストールが必要ですか？",
+      "answer": "いいえ、ブラウザで直接動作します。"
+    },
+    {
+      "question": "自分の写真をアップロードできますか？",
+      "answer": "はい。自分の画像をアップロードして好きなフィルタースタイルを適用できます。"
+    },
+    {
+      "question": "結果はどこに保存されますか？",
+      "answer": "生成された画像はすぐに表示され、ダウンロード可能です。"
+    },
+    {
+      "question": "モバイルでも使えますか？",
+      "answer": "はい、デスクトップとモバイル両方で使えます。"
+    }
+  ],
+  "metadata": {
+    "title": "無料AIフォトフィルタージェネレーター – ジブリ、アニメ、カートゥーンなど | OneAIKit",
+    "description": "ジブリ、アニメ、カートゥーンなどのAIフォトフィルターで写真を変換。高速、無料、登録不要。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "無料AIフォトフィルター – ジブリ、アニメ、カートゥーン、リアリスティック | OneAIKit",
+      "description": "ジブリ、アニメ、カートゥーンなどのAIフォトフィルターで写真を変換。高速、無料、登録不要。",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "無料AIフォトフィルタージェネレーター - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AIフォトフィルター – アニメ、ジブリ、カートゥーン | 無料オンラインツール",
+      "description": "AIを使って数秒で写真をスタイリング。アニメ、ジブリ、カートゥーンなど多彩なフィルターを無料で利用可能。",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "aiフォトフィルター",
+      "無料aiフォトフィルター",
+      "ジブリフォトフィルター",
+      "アニメフォトフィルター",
+      "フォトフィルターアプリ",
+      "フォトフィルターリムーバー",
+      "フォトフィルターエディター",
+      "フォトフィルタージェネレーター",
+      "フォトフィルターエンハンサー"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "アマンダ",
+      "role": "コンテンツクリエイター",
+      "content": "つまらないセルフィーをアニメアートに変身！無料で使える素晴らしいフォトフィルターで、多彩なスタイルがあります！",
+      "rating": 5
+    },
+    {
+      "name": "レオ",
+      "role": "ストリーマー",
+      "content": "ジブリフィルターは私のお気に入り。写真に夢のような雰囲気を与えます。強くおすすめします！",
+      "rating": 5
+    },
+    {
+      "name": "ジェニー",
+      "role": "デザイナー",
+      "content": "クイックコンセプトアートに最適。写真をアップロードし、フィルターを適用するだけ。登録不要！",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AIフォトフィルタージェネレーター – ジブリ、アニメ、カートゥーンなど",
+    "subtitle": "AIで写真を無料でスタイリング",
+    "description": "画像をアップロードして、ジブリ、アニメ、ピクセルアート、カートゥーンなどの素晴らしいフィルターを適用。永遠に無料、ログイン不要。",
+    "badgeText": "15以上のスタイルをサポート",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - 無料AIフォトフィルタージェネレーター",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": "Darmowy Generator Artykułów AI Online z Obrazami – Bez Logowania",
+  "subtitle": "Generuj zoptymalizowane pod SEO artykuły blogowe za pomocą AI",
+  "description": "Twórz treści z obrazami, tytułami, konspektami i HTML – całkowicie za darmo i bez konieczności rejestracji.",
+  "badgeText": "Teraz możesz pisać artykuły z AI",
+  "whoCanUse": "Kto może korzystać z tego narzędzia?",
+  "whyUseTitle": "Dlaczego warto wybrać nasz darmowy Generator Artykułów AI?",
+  "whyUseSubtitle": "Tworzenie treści wspomagane przez AI bez żadnych trudności.",
+  "benefits": [
+    "Generuj pełne artykuły w kilka sekund.",
+    "100% darmowe, bez logowania.",
+    "Zawiera obrazy generowane przez AI.",
+    "Treści zoptymalizowane pod SEO z możliwością eksportu do HTML."
+  ],
+  "howItWorks": [
+    {
+      "title": "Wybierz temat",
+      "description": "Rozpocznij od tematu, a nasza AI wygeneruje najlepsze słowa kluczowe pod SEO."
+    },
+    {
+      "title": "Generuj treść krok po kroku",
+      "description": "Wybierz słowa kluczowe, tytuły, konspekty i obrazy dzięki naszemu kreatorowi artykułów AI."
+    },
+    {
+      "title": "Eksportuj artykuł natychmiast",
+      "description": "Eksportuj gotowe artykuły HTML – gotowe do publikacji. Bez potrzeby logowania."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy ten Generator Artykułów AI naprawdę jest darmowy?",
+      "answer": "Tak, jest całkowicie darmowy. Nie wymaga logowania, rejestracji ani karty kredytowej."
+    },
+    {
+      "question": "Czy muszę się logować lub rejestrować?",
+      "answer": "Nie. Nasze narzędzie działa natychmiast bez logowania."
+    },
+    {
+      "question": "Czy mogę generować artykuły z obrazami?",
+      "answer": "Tak. To narzędzie zawiera obrazy generowane przez AI wspierające wizualnie treść."
+    },
+    {
+      "question": "W jakim formacie mogę eksportować artykuł?",
+      "answer": "Możesz eksportować artykuły w czystym formacie HTML, idealnym dla blogów i CMS."
+    },
+    {
+      "question": "Czy mogę używać tego narzędzia do streszczeń?",
+      "answer": "To narzędzie koncentruje się na pełnym tworzeniu artykułów, ale funkcja streszczeń jest w drodze."
+    },
+    {
+      "question": "Czy to narzędzie nadaje się do treści SEO?",
+      "answer": "Oczywiście. Nasze AI generuje zoptymalizowaną treść z odpowiednimi słowami kluczowymi i strukturą."
+    },
+    {
+      "question": "Czy mogę pisać recenzje produktów lub artykuły instruktażowe?",
+      "answer": "Tak. Możesz tworzyć struktury i treści dla recenzji, poradników i więcej."
+    },
+    {
+      "question": "Czy narzędzie wspiera parafrazowanie?",
+      "answer": "Jeszcze nie, ale pracujemy nad funkcją parafrazowania i streszczania w przyszłych aktualizacjach."
+    },
+    {
+      "question": "Czy mogę używać tego narzędzia do pisania akademickiego?",
+      "answer": "Nie zastępuje ono badań, ale może pomóc w tworzeniu konspektów i wstępnej treści."
+    },
+    {
+      "question": "Czy to narzędzie działa na telefonach?",
+      "answer": "Tak, jest responsywne i działa na wszystkich nowoczesnych przeglądarkach i urządzeniach."
+    }
+  ],
+  "testimonialsTitle": "Opinie użytkowników",
+  "testimonialsSubtitle": "Prawdziwe opinie naszych twórców",
+  "testimonials": [
+    {
+      "name": "Sara",
+      "role": "Specjalistka ds. Content Marketingu",
+      "content": "To najszybszy sposób, w jaki kiedykolwiek napisałam artykuł na bloga. Nie mogę uwierzyć, że to darmowe.",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "Specjalista SEO",
+      "content": "Używam tego narzędzia AI do tworzenia opisów i postów dla klientów. Ogromna oszczędność czasu!",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Freelancerka",
+      "content": "AI pomaga mi szybciej tworzyć szkice. Świetne dla blogów i pracy z klientami.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Student",
+      "content": "Użyłem tego darmowego narzędzia AI do wygenerowania pomysłów i konspektu do pracy naukowej. Świetne!",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogger",
+      "content": "W końcu AI generator artykułów, który wspiera obrazy i nie wymaga logowania!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "Darmowy Generator Artykułów AI z Obrazami – Bez Logowania | OneAIKit",
+    "description": "Użyj naszego generatora AI, aby tworzyć treści blogowe zoptymalizowane pod SEO z obrazami. Za darmo, bez logowania. Generuj tytuły, konspekty i pełne artykuły HTML natychmiast.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "Darmowy Generator Artykułów AI z Obrazami – Bez Logowania | OneAIKit",
+      "description": "Generuj artykuły w kilka sekund za pomocą darmowego generatora AI. Bez logowania. Zawiera obrazy i eksport HTML. Idealne dla blogerów, marketerów i studentów.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "Darmowy Generator Artykułów AI – OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Darmowy Generator Artykułów AI z Obrazami – Bez Logowania | OneAIKit",
+      "description": "Generuj artykuły za pomocą AI w kilka sekund. Obrazy i HTML w zestawie. Bez logowania.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "generator artykułów ai",
+      "darmowy generator treści",
+      "tworzenie treści ai",
+      "blog ai generator",
+      "ai z obrazami",
+      "seo generator artykułów",
+      "narzędzie pisania ai"
+    ]
+  },
+  "hero": {
+    "title": "Darmowy Generator Artykułów AI – Bez Logowania",
+    "subtitle": "Generuj SEO zoptymalizowane artykuły blogowe z AI. Treść z obrazami, tytułami, konspektami i HTML – wszystko za darmo.",
+    "description": "Twórz treści blogowe w kilka sekund z naszym potężnym darmowym generatorem AI. Eksportuj HTML i obrazy natychmiast.",
+    "badgeText": "Teraz możesz pisać artykuły z AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generator Artykułów AI",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "免费使用 AI 合并产品照片",
+  "subtitle": "使用 AI 将多张照片合并为一个画面",
+  "description": "上传产品照片，通过 AI 合并，并下载高分辨率合成图像——无水印，永久免费使用。",
+  "badgeText": "使用 AI 合并并增强产品图像",
+  "whoCanUse": "谁适合使用这个图片合并工具？",
+  "whyUseTitle": "为什么选择我们的 AI 图片合并工具？",
+  "whyUseSubtitle": "快速且免费的专业产品图像合并解决方案。",
+  "benefits": [
+    "将两张或多张产品照片合并为一个画面",
+    "非常适合珠宝、时尚和创意机构",
+    "无需设计技能或软件",
+    "完全免费，无水印"
+  ],
+  "howItWorks": [
+    {
+      "title": "上传多张照片",
+      "description": "上传两张或更多不同角度或场景的产品照片。"
+    },
+    {
+      "title": "选择合并样式",
+      "description": "选择您想要的合并方式——布局、对齐或场景组合。"
+    },
+    {
+      "title": "生成并下载",
+      "description": "让 AI 生成合成图像。立即下载，无水印。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "我可以将两张或多张产品照片合并为一张吗？",
+      "answer": "可以，只需上传您的照片，AI 会自动将它们合并成一个画面。"
+    },
+    {
+      "question": "这个工具适合用于机构或目录拍摄吗？",
+      "answer": "当然适合！它专为需要高质量合成图的机构而设计。"
+    },
+    {
+      "question": "我需要登录或付费吗？",
+      "answer": "不需要。该工具完全免费，无需登录，也没有水印。"
+    }
+  ],
+  "metadata": {
+    "title": "AI 合并产品照片 – 免费工具适用于电商与创意机构 | OneAIKit",
+    "description": "使用 AI 将多张产品照片合并为一张。非常适合机构、电商和产品目录拍摄。永久免费，无需登录，无水印。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI 合并照片 – 免费产品合成工具",
+      "description": "使用 AI 将多张产品照片合成一张图像。非常适合珠宝、时尚和电商场景。无水印，100% 免费。",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI 合并产品照片 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "使用 AI 合并产品照片 – 适用于创作者与品牌的免费工具",
+      "description": "通过 AI 将两张或多张产品照片合并为一张。适用于摄影师、机构和设计师。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "AI 合并照片为一张",
+      "AI 将两张照片合并在一个画面",
+      "AI 免费合成照片",
+      "AI 用于产品拍摄",
+      "AI 合并产品图像",
+      "产品照片合成工具",
+      "电商合并图片工具",
+      "AI 合成珠宝拍摄照片"
+    ]
+  },
+  "testimonialsTitle": "用户评价",
+  "testimonialsSubtitle": "深受创意机构与产品专业人士信赖",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "产品摄影师",
+      "content": "终于有一个不需要 Photoshop 的合并工具，节省了我大量时间！",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "创意总监",
+      "content": "我们的客户非常喜欢这些合成图。OneAIKit 让图像构图变得简单高效。",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "免费使用 AI 合并产品照片",
+    "subtitle": "使用 AI 将多张照片合并为一个画面",
+    "description": "上传产品照片，通过 AI 合并，并下载高分辨率合成图像——无水印，永久免费使用。",
+    "badgeText": "使用 AI 合并并增强产品图像",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI 合并照片工具",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

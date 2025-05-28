@@ -1,0 +1,170 @@
+{
+  "title": "AI Article Generator Free Online with Images – No Login",
+  "subtitle": "Generate SEO-optimized blog posts and articles using AI",
+  "description": "Create content with images, titles, outlines, and HTML – all for free and with no sign-up.",
+  "badgeText": "Now You Can Write Articles with AI",
+  "whoCanUse": "Who Can Use This Tool?",
+  "whyUseTitle": "Why Choose Our Free AI Article Generator?",
+  "whyUseSubtitle": "AI-powered content creation without hassle.",
+  "benefits": [
+    "Generate full articles in seconds.",
+    "100% free with no login required.",
+    "Includes AI-generated images.",
+    "SEO-optimized content with exportable HTML."
+  ],
+  "howItWorks": [
+    {
+      "title": "Choose your topic",
+      "description": "Start with a topic and let our AI generate the best keywords for SEO."
+    },
+    {
+      "title": "Generate content step-by-step",
+      "description": "Select keywords, titles, outlines, and even images using our AI article builder."
+    },
+    {
+      "title": "Export your article instantly",
+      "description": "Export full HTML blog articles, ready to publish. No login or account required."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is this AI article generator really free?",
+      "answer": "Yes, it’s 100% free to use. No login, sign-up, or credit card required."
+    },
+    {
+      "question": "Do I need to register or log in?",
+      "answer": "No. Our AI article writer works instantly without requiring any login."
+    },
+    {
+      "question": "Can I generate articles with images?",
+      "answer": "Yes. This tool includes AI-generated images to visually support your content."
+    },
+    {
+      "question": "What formats can I export the article to?",
+      "answer": "You can export the article in clean HTML format, ideal for blogs or CMS platforms."
+    },
+    {
+      "question": "Can I use this AI tool for article summaries?",
+      "answer": "This tool focuses on full article generation, but upcoming features will support summaries."
+    },
+    {
+      "question": "Is this tool suitable for SEO content?",
+      "answer": "Absolutely. Our AI generates SEO-optimized content with relevant keywords and structure."
+    },
+    {
+      "question": "Can I write product reviews or how-to articles?",
+      "answer": "Yes. You can generate structured outlines and articles for reviews, tutorials, and more."
+    },
+    {
+      "question": "Does this support article rewriting or paraphrasing?",
+      "answer": "Not yet, but we’re working on an AI article rewriter and summarizer for future updates."
+    },
+    {
+      "question": "Can I use this for academic writing?",
+      "answer": "While not a replacement for research, it can help draft outlines and base content for essays or papers."
+    },
+    {
+      "question": "Does this AI article tool work on mobile?",
+      "answer": "Yes, our tool is mobile-responsive and works on all modern browsers and devices."
+    }
+  ],
+  "testimonialsTitle": "What Users Say",
+  "testimonialsSubtitle": "Real feedback from our creators",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "Content Marketer",
+      "content": "This is the fastest way I’ve ever written articles for my blog. I can’t believe it’s free.",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "SEO Specialist",
+      "content": "I use this AI article tool to generate descriptions and posts for my clients. Huge time-saver!",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Freelance Writer",
+      "content": "The AI article writer helps me create drafts faster. Great for client content and blogging.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Student",
+      "content": "I used this free AI tool to outline and generate ideas for my research paper. It’s amazing!",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogger",
+      "content": "Finally, an AI article generator that includes image support and works without logging in!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "AI Article Generator Free Online with Images – No Login | OneAIKit",
+    "description": "Use our AI Article Generator to create SEO-optimized blog content with images. Free, no login required. Generate titles, outlines, and full HTML articles instantly.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "AI Article Generator Free Online with Images – No Login | OneAIKit",
+      "description": "Create blog articles in seconds using our free AI article generator. No login required. Includes image generation and export to HTML. Perfect for bloggers, marketers, and students.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "AI Article Generator Free with Images - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI Article Generator Free Online with Images – No Login | OneAIKit",
+      "description": "Create blog articles in seconds using our free AI article generator. No login required. Includes image generation and export to HTML. Perfect for bloggers, marketers, and students.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai article generator",
+      "ai article generator free",
+      "ai article generator free online",
+      "ai article generator no login",
+      "ai article generator with images",
+      "ai article generator tool",
+      "ai article generator github",
+      "ai article gen",
+      "ai article generator bored humans",
+      "ai article generator grammarly"
+    ]
+  },
+  "hero": {
+    "title": "Free AI Article Generator Online – No Login Required",
+    "subtitle": "Generate SEO-optimized blog posts and articles using AI. Create content with images, titles, outlines, and HTML – all for free and with no sign-up.",
+    "description": "Create blog content in seconds using our powerful free AI article generator. Export HTML and images instantly.",
+    "badgeText": "Now You Can Write Articles with AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Article Generator",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

@@ -5,14 +5,10 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+    domains: ['images.pexels.com', 'oneaikit.com', 'files.monica-cdn.im', 'assets.monica.im'],
   },
   eslint: {
     ignoreDuringBuilds: true,
-  },
-  i18n: {
-    locales: ['en', 'id'],
-    defaultLocale: 'en',
-    localeDetection: false,
   },
 };
 

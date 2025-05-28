@@ -1,0 +1,140 @@
+{
+  "title": "Kostenloser KI-Video-Generator – Aus Text oder Bild, ohne Wasserzeichen | OneAIKit",
+  "subtitle": "Erstellen Sie sofort KI-Videos aus Ihren Ideen",
+  "description": "Generieren Sie KI-Videos online aus Texteingaben oder Bildern mit leistungsstarken Modellen wie Kling AI und Stable Diffusion. 100 % kostenlos, ohne Wasserzeichen, keine Anmeldung erforderlich.",
+  "badgeText": "Text-zu-Video & Bild-zu-Video powered by KI",
+  "whoCanUse": "Wer kann diesen KI-Video-Generator verwenden?",
+  "whyUseTitle": "Warum den KI-Video-Generator von OneAIKit verwenden?",
+  "whyUseSubtitle": "Kostenlos, ohne Wasserzeichen und für Kreativität entwickelt.",
+  "benefits": [
+    "Erstellen Sie Videos aus Text- oder Bildvorgaben.",
+    "Unterstützt Kling AI & Stability Diffusion.",
+    "Ohne Wasserzeichen, unbegrenzte Nutzung.",
+    "Einfache Bedienoberfläche für alle Erfahrungsstufen."
+  ],
+  "howItWorks": [
+    {
+      "title": "Geben Sie Eingabeaufforderung ein oder laden Sie ein Bild hoch",
+      "description": "Wählen Sie, ob Sie eine Videoidee eingeben oder ein Bild zum Animieren hochladen möchten."
+    },
+    {
+      "title": "Wählen Sie Stil und Seitenverhältnis",
+      "description": "Passen Sie die Animation mit filmischen, Ghibli- oder Pixel-Stilen an und wählen Sie das Videoformat."
+    },
+    {
+      "title": "Generieren und MP4 herunterladen",
+      "description": "Klicken Sie auf Generieren und warten Sie einige Sekunden. Ihr KI-Video ist bereit zum Speichern und Teilen."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ist dieser KI-Video-Generator kostenlos?",
+      "answer": "Ja, OneAIKit bietet ein 100% kostenloses KI-Video-Tool an. Keine Kreditkarte oder Anmeldung erforderlich."
+    },
+    {
+      "question": "Kann ich Videos sowohl aus Text als auch aus Bildern erstellen?",
+      "answer": "Absolut! Sie können Videos aus Texteingaben oder Bild-Uploads mit optionalen Stilbeschreibungen erstellen."
+    },
+    {
+      "question": "Sind die generierten Videos mit Wasserzeichen versehen?",
+      "answer": "Nein. Alle mit diesem Tool generierten Videos sind frei von Wasserzeichen und können kommerziell genutzt werden."
+    },
+    {
+      "question": "Muss ich eine App installieren?",
+      "answer": "Es ist keine Installation erforderlich. Alles läuft in Ihrem Browser für sofortige KI-Videoerstellung."
+    },
+    {
+      "question": "Welche Modelle werden zur Videoerstellung verwendet?",
+      "answer": "Wir unterstützen Kling AI für Text-zu-Video und Stability AI für Bild-zu-Video-Generierung mit realistischer Bewegung."
+    },
+    {
+      "question": "Kann ich diesen KI-Video-Generator für YouTube- oder TikTok-Inhalte verwenden?",
+      "answer": "Ja. Unser Tool unterstützt Formate, die für soziale Medien, Kurzvideos und kreatives Storytelling geeignet sind."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "YouTube-Ersteller",
+      "content": "Unglaublich einfach zu bedienen. Ich habe ein kinoreifes KI-Video aus nur einem Satz erstellt!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animatorin",
+      "content": "Ich habe andere Tools ausprobiert, aber dieser KI-Video-Generator liefert die sauberste Ausgabe ohne Wasserzeichen.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Digitaler Marketer",
+      "content": "Tolles Tool, um schnell Videoinhalte für Anzeigen und soziale Beiträge zu erstellen. Kostenlos und flexibel!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Kostenloser KI-Video-Generator – Aus Text oder Bild, ohne Wasserzeichen | OneAIKit",
+    "description": "Generieren Sie KI-Videos online aus Texteingaben oder Bildern mit leistungsstarken Modellen wie Kling AI und Stable Diffusion. 100 % kostenlos, ohne Wasserzeichen, keine Anmeldung erforderlich.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Kostenloser KI-Video-Generator – Aus Text oder Bild | OneAIKit",
+      "description": "Erstellen Sie KI-generierte Videos aus Text oder Bildern mit unserem Online-Tool. Keine Anmeldung, ohne Wasserzeichen, und völlig kostenlos.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "KI-Video-Generator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kostenloser KI-Video-Generator online – keine Anmeldung erforderlich",
+      "description": "Generieren Sie KI-Videos aus Texteingaben oder Fotos. 100 % kostenlos, ohne Wasserzeichen, betrieben von Kling und Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "ki video generator",
+      "ki video generator kostenlos",
+      "ki video generator aus text kostenlos",
+      "ki video generator ohne wasserzeichen",
+      "ki video generator aus bild",
+      "ki video aus text generieren",
+      "ki text zu video",
+      "ki text zu video generator",
+      "kostenloses ki video erstellen",
+      "bestes ki tool zur videoerstellung aus text"
+    ]
+  },
+  "hero": {
+    "title": "KI-Video-Generator – Aus Text oder Bild, kostenlos & ohne Wasserzeichen",
+    "subtitle": "Erstellen Sie sofort KI-Videos aus Ihren Ideen",
+    "description": "Generieren Sie KI-Videos online aus Texteingaben oder Bildvorgaben mit modernster Technologie. Keine Anmeldung erforderlich.",
+    "badgeText": "Text-zu-Video & Bild-zu-Video powered by KI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - KI-Video-Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

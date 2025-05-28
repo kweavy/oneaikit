@@ -1,0 +1,140 @@
+{
+  "title": "Darmowy generator filtrów do zdjęć AI – Ghibli, Anime i inne | OneAIKit",
+  "subtitle": "Zastosuj filtry AI do zdjęć takie jak Ghibli, anime, realistyczne, kreskówka i więcej. 100% darmowe, bez logowania. Natychmiast ulepsz i stylizuj swoje zdjęcia za pomocą AI.",
+  "description": "Prześlij swoje zdjęcie i zastosuj niesamowite filtry takie jak Ghibli, Anime, Pixel Art, Kreskówka i inne. Na zawsze za darmo, bez rejestracji.",
+  "badgeText": "Obsługa ponad 15 stylów",
+  "whoCanUse": "Kto może korzystać z tego narzędzia do filtrów zdjęć AI?",
+  "whyUseTitle": "Dlaczego warto korzystać z naszego generatora filtrów do zdjęć AI?",
+  "whyUseSubtitle": "Darmowe, natychmiastowe i zdumiewające transformacje.",
+  "benefits": [
+    "Korzystaj z ponad 15 wizualnych stylów filtrów, takich jak Ghibli i kreskówka",
+    "Brak konieczności rejestracji czy podawania karty kredytowej",
+    "Optymalizacja pod kątem urządzeń mobilnych i komputerów stacjonarnych",
+    "Pobieraj obrazy w formacie base64 lub do pobrania"
+  ],
+  "howItWorks": [
+    {
+      "title": "Prześlij zdjęcie",
+      "description": "Wybierz dowolny plik JPG lub PNG, który chcesz wystylizować."
+    },
+    {
+      "title": "Wybierz styl filtra",
+      "description": "Wybierz spośród anime, ghibli, kreskówki, realistycznych i wielu innych stylów."
+    },
+    {
+      "title": "Pobierz swoje zdjęcie",
+      "description": "Natychmiast odbierz przetworzone zdjęcie i używaj go gdzie tylko chcesz."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy to narzędzie do filtrów zdjęć AI jest darmowe?",
+      "answer": "Tak! To narzędzie jest całkowicie darmowe i nie wymaga logowania."
+    },
+    {
+      "question": "Jakie style mogę zastosować do mojego zdjęcia?",
+      "answer": "Możesz zastosować style takie jak Ghibli, anime, kreskówka, pixel art, realistyczne i inne."
+    },
+    {
+      "question": "Czy muszę coś instalować?",
+      "answer": "Nie, narzędzie działa bezpośrednio w Twojej przeglądarce."
+    },
+    {
+      "question": "Czy mogę przesłać własne zdjęcie?",
+      "answer": "Tak. Możesz przesłać własny obraz i zastosować dowolny wybrany styl filtra."
+    },
+    {
+      "question": "Gdzie zapisuje się wynik?",
+      "answer": "Wygenerowane zdjęcie jest natychmiast wyświetlane i można je pobrać."
+    },
+    {
+      "question": "Czy działa na urządzeniach mobilnych?",
+      "answer": "Tak, narzędzie działa zarówno na komputerach, jak i urządzeniach mobilnych."
+    }
+  ],
+  "metadata": {
+    "title": "Darmowy generator filtrów do zdjęć AI – Ghibli, Anime, Kreskówka i inne | OneAIKit",
+    "description": "Przekształć swoje zdjęcia za pomocą filtrów AI takich jak Ghibli, anime, kreskówka i inne. Szybko, za darmo i bez rejestracji.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Darmowy filtr do zdjęć AI – Ghibli, Anime, Kreskówka, Realistyczne | OneAIKit",
+      "description": "Przekształć swoje zdjęcia za pomocą filtrów AI takich jak Ghibli, anime, kreskówka i inne. Szybko, za darmo i bez rejestracji.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Darmowy generator filtrów do zdjęć AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Filtr do zdjęć AI – Anime, Ghibli, Kreskówka | Darmowe narzędzie online",
+      "description": "Użyj AI, aby stylizować swoje zdjęcia w kilka sekund. Wypróbuj anime, ghibli, kreskówkę i wiele innych filtrów. Za darmo i bez ograniczeń.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "filtr do zdjęć ai",
+      "darmowy filtr do zdjęć ai",
+      "filtr do zdjęć ai ghibli",
+      "filtr do zdjęć ai anime",
+      "filtr do zdjęć ai online",
+      "aplikacja filtr do zdjęć ai",
+      "usuwacz filtrów do zdjęć ai",
+      "edytor filtrów do zdjęć ai",
+      "generator filtrów do zdjęć ai",
+      "poprawiacz filtrów do zdjęć ai"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Twórczyni treści",
+      "content": "Przekształciłam swoje nudne selfie w anime! Niesamowite darmowe narzędzie z wieloma stylami!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "Filtr Ghibli to mój ulubiony. Nadaje moim zdjęciom marzycielską atmosferę. Gorąco polecam!",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Projektantka",
+      "content": "Idealne do szybkich koncepcji artystycznych. Prześlij zdjęcie, zastosuj filtr, gotowe. Bez rejestracji!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Generator filtrów do zdjęć AI – Ghibli, Anime, Kreskówka i więcej",
+    "subtitle": "Stylizuj swoje zdjęcia za darmo z AI",
+    "description": "Prześlij obraz i zastosuj niesamowite filtry takie jak Ghibli, Anime, Pixel Art, Kreskówka i więcej. Na zawsze darmowe, bez logowania.",
+    "badgeText": "Teraz obsługuje ponad 15 stylów",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Darmowy generator filtrów do zdjęć AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

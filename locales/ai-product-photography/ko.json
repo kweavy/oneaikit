@@ -1,0 +1,136 @@
+{
+  "title": "AI 제품 사진 생성기 – 모델 및 편집 도구 포함 무료 사용",
+  "subtitle": "AI로 스튜디오급 제품 사진을 즉시 생성하세요",
+  "description": "제품 이미지를 업로드하거나 설명을 입력하세요. 모델을 추가하고 스타일을 선택하여 워터마크 없는 상업용 사진을 생성하세요.",
+  "badgeText": "텍스트 → 이미지 & AI 편집기로 향상",
+  "whoCanUse": "이 AI 제품 사진 도구는 누가 사용할 수 있나요?",
+  "whyUseTitle": "왜 우리의 AI 제품 사진 편집기를 사용해야 하나요?",
+  "whyUseSubtitle": "모델과 함께 고품질 제품 사진을 무료로 생성할 수 있는 완벽한 솔루션입니다.",
+  "benefits": [
+    "AI로 몇 초 만에 제품 사진 생성",
+    "모델, 소품, 그림자 자동 추가",
+    "쥬얼리 및 소형 제품의 디테일도 완벽 지원",
+    "무료 제공, 워터마크 없음, 로그인 필요 없음"
+  ],
+  "howItWorks": [
+    {
+      "title": "제품 업로드 또는 설명 입력",
+      "description": "기본 제품 이미지를 업로드하거나 제품의 외형을 설명하세요."
+    },
+    {
+      "title": "모델 및 편집 스타일 선택",
+      "description": "모델, 배경, 이미지 향상 스타일을 선택하세요."
+    },
+    {
+      "title": "즉시 생성 및 다운로드",
+      "description": "‘생성’ 버튼을 클릭하면 고해상도 워터마크 없는 이미지를 즉시 받을 수 있습니다."
+    }
+  ],
+  "faq": [
+    {
+      "question": "이 AI 사진 생성 도구는 무료인가요?",
+      "answer": "네! 100% 무료이며, 워터마크나 로그인도 필요 없습니다."
+    },
+    {
+      "question": "제품 사진에 모델을 추가할 수 있나요?",
+      "answer": "네, 실제 라이프스타일 배경 속 모델을 포함한 이미지를 생성할 수 있습니다."
+    },
+    {
+      "question": "쥬얼리 제품에도 사용 가능한가요?",
+      "answer": "물론입니다. 본 도구는 쥬얼리, 소형 제품, 섬세한 디테일에 최적화되어 있습니다."
+    },
+    {
+      "question": "Canva나 편집기 같은 도구인가요?",
+      "answer": "비슷하지만 AI 기반입니다. 배경 편집, 이미지 향상, 모델 배치를 자동으로 처리합니다."
+    },
+    {
+      "question": "Reddit 또는 콘텐츠 제작에 사용할 수 있나요?",
+      "answer": "물론입니다. Reddit 리뷰나 Canva 목업 제작에 매우 적합합니다."
+    }
+  ],
+  "metadata": {
+    "title": "무료 AI 제품 사진 생성기 – 모델, 편집기 및 도구 포함 | OneAIKit",
+    "description": "AI로 고품질 제품 사진을 무료로 생성하세요. 모델 추가, 시각 향상, 쥬얼리 편집 가능 – 로그인 없음, 워터마크 없음.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI 제품 사진 도구 – 무료 생성기, 편집기 및 향상 기능 포함",
+      "description": "AI로 멋진 제품 이미지를 생성하세요. 모델 추가, 배경 편집, 쥬얼리 이미지 향상 지원. 100% 무료, 워터마크 없음.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI 제품 사진 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "무료 AI 제품 사진 생성기 – 모델 추가, 쥬얼리 편집 가능",
+      "description": "AI 기반 제품 사진 생성기. 전자상거래, 쥬얼리, 디자이너에게 적합. 무료 제공, 워터마크 없음, 로그인 불필요.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "AI 제품 사진",
+      "AI 제품 사진 무료",
+      "모델 포함 AI 제품 사진",
+      "AI 사진 생성기 무료",
+      "AI 제품 사진 편집기",
+      "AI 이미지 향상 도구",
+      "AI 쥬얼리 사진",
+      "AI 제품 사진 도구",
+      "Canva용 AI 제품 사진",
+      "Reddit용 AI 제품 사진 무료"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "쥬얼리 판매자",
+      "content": "최고의 AI 사진 생성 도구예요. 제 반지 사진이 스튜디오에서 찍은 것처럼 보입니다!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "온라인 스토어 운영자",
+      "content": "AI가 옷 사진에 완벽한 모델을 추가해줘요. 더 이상 사진작가는 필요 없어요.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva 디자이너",
+      "content": "템플릿용 제품 목업 생성에 사용하고 있어요. 시간도 절약돼요!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI 제품 사진 생성기 – 모델 및 편집 도구 포함 무료 사용",
+    "subtitle": "AI로 스튜디오급 제품 사진을 즉시 생성하세요",
+    "description": "제품 이미지를 업로드하거나 설명을 입력하세요. 모델을 추가하고 스타일을 선택하여 워터마크 없는 상업용 사진을 생성하세요.",
+    "badgeText": "텍스트 → 이미지 & AI 편집기로 향상",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI 제품 사진",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

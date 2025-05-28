@@ -1,0 +1,120 @@
+{
+  "title": "AIで商品写真を無料で合成",
+  "subtitle": "複数の写真をAIで1枚に合成",
+  "description": "商品写真をアップロードし、AIで合成して高解像度の合成画像をダウンロードできます。透かしなし・完全無料。",
+  "badgeText": "AIで商品画像を合成・強化",
+  "whoCanUse": "この写真合成ツールは誰のため？",
+  "whyUseTitle": "なぜ私たちのAI写真合成ツールを使うべき？",
+  "whyUseSubtitle": "プロ並みの合成ができる、迅速かつ無料のソリューション。",
+  "benefits": [
+    "2枚以上の商品写真を1つの画像に合成",
+    "ジュエリー・ファッション・クリエイティブエージェンシーに最適",
+    "デザインスキルやソフト不要",
+    "完全無料で透かしなし"
+  ],
+  "howItWorks": [
+    {
+      "title": "複数の写真をアップロード",
+      "description": "異なる角度やセットアップの2枚以上の商品写真をアップロードします。"
+    },
+    {
+      "title": "合成スタイルを選択",
+      "description": "画像の合成方法（レイアウト・整列・構成）を選びます。"
+    },
+    {
+      "title": "生成してダウンロード",
+      "description": "AIが写真を合成し、すぐに透かしなしでダウンロードできます。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "2枚以上の写真を1つにまとめられますか？",
+      "answer": "はい。画像をアップロードするだけで、AIが1つのフレームに合成します。"
+    },
+    {
+      "question": "このツールはエージェンシーやカタログ撮影に使えますか？",
+      "answer": "もちろんです！迅速かつ高品質な合成画像を求めるエージェンシーに最適です。"
+    },
+    {
+      "question": "ログインや支払いは必要ですか？",
+      "answer": "いいえ。このツールは100%無料で使用でき、ログインも透かしも不要です。"
+    }
+  ],
+  "metadata": {
+    "title": "AI写真合成ツール – 商品やエージェンシー向け無料ツール | OneAIKit",
+    "description": "複数の商品写真をAIで1枚に合成。エージェンシー・EC・カタログに最適。無料・ログイン不要・透かしなし。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AIで写真合成 – 商品撮影・エージェンシー向け無料ツール",
+      "description": "AIで複数の商品写真を1つのフレームに合成。ジュエリー・ファッション・EC撮影に最適。透かしなし・完全無料。",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AIで商品写真合成 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AIで商品写真を合成 – クリエイターやブランド向け無料ツール",
+      "description": "2枚以上の商品写真をAIで1つに合成。商品撮影・エージェンシー・デザイナーに最適。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "AI 写真 合成 無料",
+      "2枚の写真を1つに合成 AI",
+      "商品写真 合成ツール",
+      "エージェンシー撮影用 AI",
+      "ジュエリー 写真 AI合成",
+      "EC 商品 合成"
+    ]
+  },
+  "testimonialsTitle": "ユーザーの声",
+  "testimonialsSubtitle": "プロの現場でも信頼されています",
+  "testimonials": [
+    {
+      "name": "アリア・K",
+      "role": "商品フォトグラファー",
+      "content": "Photoshopなしで写真を合成できるツール。大幅な時間短縮になります！",
+      "rating": 5
+    },
+    {
+      "name": "レオ・W",
+      "role": "クリエイティブディレクター",
+      "content": "クライアントはこの合成ビジュアルを気に入っています。OneAIKitで写真編集がとても簡単に。",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "AIで商品写真を無料で合成",
+    "subtitle": "複数の写真をAIで1枚に合成",
+    "description": "商品写真をアップロードし、AIで合成して高解像度の合成画像をダウンロードできます。透かしなし・完全無料。",
+    "badgeText": "AIで商品画像を合成・強化",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Combine Photos",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

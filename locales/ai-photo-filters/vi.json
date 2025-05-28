@@ -1,0 +1,139 @@
+{
+  "title": "Trình tạo bộ lọc ảnh AI miễn phí – Ghibli, Anime và nhiều hơn nữa | OneAIKit",
+  "subtitle": "Áp dụng bộ lọc ảnh AI như Ghibli, anime, chân thực, hoạt hình và nhiều hơn nữa. 100% miễn phí, không cần đăng nhập. Nâng cao và tạo phong cách cho ảnh của bạn ngay lập tức bằng AI.",
+  "description": "Tải ảnh lên và áp dụng các bộ lọc tuyệt đẹp như Ghibli, Anime, Pixel Art, Hoạt hình và nhiều hơn nữa. Miễn phí vĩnh viễn, không cần đăng ký.",
+  "badgeText": "Hỗ trợ hơn 15 phong cách",
+  "whoCanUse": "Ai có thể sử dụng công cụ bộ lọc ảnh AI này?",
+  "whyUseTitle": "Tại sao nên sử dụng trình tạo bộ lọc ảnh AI của chúng tôi?",
+  "whyUseSubtitle": "Miễn phí, nhanh chóng và biến đổi tuyệt vời.",
+  "benefits": [
+    "Sử dụng hơn 15 phong cách bộ lọc hình ảnh như Ghibli và Hoạt hình",
+    "Không cần đăng ký hoặc thẻ tín dụng",
+    "Tối ưu cho thiết bị di động và máy tính để bàn",
+    "Nhận hình ảnh dạng base64 hoặc tải xuống"
+  ],
+  "howItWorks": [
+    {
+      "title": "Tải ảnh lên",
+      "description": "Chọn bất kỳ tệp JPG hoặc PNG nào bạn muốn tạo phong cách."
+    },
+    {
+      "title": "Chọn kiểu bộ lọc",
+      "description": "Chọn từ anime, ghibli, hoạt hình, chân thực và nhiều kiểu khác."
+    },
+    {
+      "title": "Tải ảnh của bạn xuống",
+      "description": "Nhận ảnh đã được biến đổi ngay lập tức và sử dụng ở bất cứ đâu bạn muốn."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Công cụ bộ lọc ảnh AI này có miễn phí không?",
+      "answer": "Có! Công cụ bộ lọc AI này hoàn toàn miễn phí và không yêu cầu đăng nhập."
+    },
+    {
+      "question": "Tôi có thể áp dụng những kiểu nào cho ảnh của mình?",
+      "answer": "Bạn có thể áp dụng các kiểu như Ghibli, anime, hoạt hình, pixel art, chân thực và nhiều kiểu khác."
+    },
+    {
+      "question": "Tôi có cần cài đặt gì không?",
+      "answer": "Không, công cụ hoạt động trực tiếp trong trình duyệt của bạn."
+    },
+    {
+      "question": "Tôi có thể tải ảnh của riêng mình lên không?",
+      "answer": "Có. Bạn có thể tải lên hình ảnh của mình và áp dụng bất kỳ kiểu bộ lọc nào bạn chọn."
+    },
+    {
+      "question": "Kết quả được lưu ở đâu?",
+      "answer": "Ảnh được tạo sẽ hiển thị và có thể tải xuống ngay lập tức."
+    },
+    {
+      "question": "Công cụ có hoạt động trên thiết bị di động không?",
+      "answer": "Có, công cụ bộ lọc ảnh AI hoạt động trên cả thiết bị máy tính để bàn và di động."
+    }
+  ],
+  "metadata": {
+    "title": "Trình tạo bộ lọc ảnh AI miễn phí – Ghibli, Anime, Hoạt hình và nhiều hơn nữa | OneAIKit",
+    "description": "Biến đổi ảnh của bạn với các bộ lọc AI như Ghibli, anime, hoạt hình và nhiều hơn nữa. Nhanh chóng, miễn phí và không cần đăng ký.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Bộ lọc ảnh AI miễn phí – Ghibli, Anime, Hoạt hình, Chân thực | OneAIKit",
+      "description": "Biến đổi ảnh của bạn với các bộ lọc AI như Ghibli, anime, hoạt hình và nhiều hơn nữa. Nhanh chóng, miễn phí và không cần đăng ký.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Trình tạo bộ lọc ảnh AI miễn phí - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Bộ lọc ảnh AI – Anime, Ghibli, Hoạt hình | Công cụ trực tuyến miễn phí",
+      "description": "Sử dụng AI để tạo phong cách cho ảnh của bạn trong vài giây. Thử các bộ lọc anime, ghibli, hoạt hình và nhiều hơn nữa. Miễn phí và không giới hạn.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "bộ lọc ảnh ai",
+      "bộ lọc ảnh ai miễn phí",
+      "bộ lọc ảnh ghibli",
+      "bộ lọc ảnh anime",
+      "ứng dụng bộ lọc ảnh ai",
+      "công cụ gỡ bộ lọc ảnh ai",
+      "trình chỉnh sửa bộ lọc ảnh ai",
+      "trình tạo bộ lọc ảnh ai",
+      "công cụ tăng cường bộ lọc ảnh ai"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Người sáng tạo nội dung",
+      "content": "Tôi đã biến những bức ảnh selfie nhàm chán thành nghệ thuật anime! Công cụ bộ lọc ảnh miễn phí tuyệt vời với nhiều kiểu dáng!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Người phát trực tiếp",
+      "content": "Bộ lọc Ghibli là yêu thích của tôi. Nó mang lại cho ảnh tôi một cảm giác mơ màng. Rất khuyên dùng!",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Nhà thiết kế",
+      "content": "Hoàn hảo cho nghệ thuật ý tưởng nhanh. Tải ảnh lên, áp dụng bộ lọc, xong. Không cần đăng ký!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Trình tạo bộ lọc ảnh AI – Ghibli, Anime, Hoạt hình và nhiều hơn nữa",
+    "subtitle": "Tạo phong cách cho ảnh của bạn miễn phí với AI",
+    "description": "Tải ảnh lên và áp dụng các bộ lọc tuyệt đẹp như Ghibli, Anime, Pixel Art, Hoạt hình và nhiều hơn nữa. Miễn phí vĩnh viễn, không cần đăng nhập.",
+    "badgeText": "Hỗ trợ hơn 15 phong cách",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Trình tạo bộ lọc ảnh AI miễn phí",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

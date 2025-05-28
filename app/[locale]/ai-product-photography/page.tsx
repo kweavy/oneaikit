@@ -1,44 +1,67 @@
 import { Metadata } from 'next';
 import Script from 'next/script';
-import { getMessages } from '@/i18n';
+import { getMessages, Locale } from '@/i18n';
+
 import type { FaqItem } from '@/components/DynamicFAQ';
 import type { TestimonialItem } from '@/components/DynamicTestimonials';
 import type { StepItem } from '@/components/DynamicHowitsWorks';
 import type { UseCaseItem } from '@/components/UseCase';
 
-import DynamicFaq from '@/components/DynamicFAQ';
-import DynamicTestimonials from '@/components/DynamicTestimonials';
-import DynamicHowItWorks from '@/components/DynamicHowitsWorks';
-import WhyUseArticleGenerator from '@/components/Benefit';
-import DynamicUseCases from '@/components/UseCase';
-import DynamicHero from '@/components/DynamicHero';
-import AIProductPhotography from '@/components/ProductPhotography';
+import dynamicImport from 'next/dynamic'; // ✅ avoid name conflict
 
 export const dynamic = 'force-static';
 
+const DynamicHero = dynamicImport(() => import('@/components/DynamicHero'), {
+  ssr: false,
+});
+
+
+import DynamicFaq from '@/components/DynamicFaq.client';
+import DynamicTestimonials from '@/components/DynamicTestimonials.client';
+import DynamicHowItWorks from '@/components/DynamicHowitsWorks';
+import WhyUseArticleGenerator from '@/components/Benefit';
+import DynamicUseCases from '@/components/UseCase';
+import AIProductPhotography from '@/components/ProductPhotography';
+import { locales } from '@/i18n';
+import { localizedSlugs } from '@/i18n-slug';
+
+export async function generateStaticParams() {
+  const params = [];
+
+  for (const baseSlug in localizedSlugs) {
+    for (const locale of locales) {
+      const translatedSlug = localizedSlugs[baseSlug]?.[locale];
+      if (translatedSlug) {
+        params.push({ locale, slug: translatedSlug });
+      }
+    }
+  }
+
+  return params;
+}
+
+
 type PageProps = {
   params: {
-    locale: string;
+    locale: Locale;
   };
 };
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const messages = await getMessages(params.locale as 'en' | 'id');
+  const messages = await getMessages(params.locale, 'ai-product-photography');
   return messages.metadata;
 }
 
-export async function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'id' }];
-}
 
 export default async function AiProductPhotographyPage({ params }: PageProps) {
-  const messages = await getMessages(params.locale as 'en' | 'id');
+  const messages = await getMessages(params.locale, 'ai-product-photography');
 
   const faqContent = messages.faq as FaqItem[];
   const testimonials = messages.testimonials as TestimonialItem[];
   const stepsHow = messages.howItWorks as StepItem[];
   const benefits = messages.benefits as string[];
-  const useCases = messages.useCases as UseCaseItem[];
+  const useCases = (messages.useCases as UseCaseItem[]) || [];
+
   const hero = messages.hero;
   const ldJson = messages.ldJson;
 

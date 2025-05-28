@@ -1,0 +1,136 @@
+{
+  "title": "Fotografi Produk AI – Generator Gratis dengan Model & Editor",
+  "subtitle": "Buat foto produk berkualitas studio secara instan dengan AI",
+  "description": "Unggah gambar produk atau deskripsikan barang Anda. Tambahkan model, pilih gaya, dan hasilkan visual siap komersial tanpa watermark.",
+  "badgeText": "Ubah Teks ke Foto & Tingkatkan Kualitas dengan Editor AI",
+  "whoCanUse": "Siapa yang Bisa Menggunakan Alat Fotografi Produk AI Ini?",
+  "whyUseTitle": "Mengapa Menggunakan Editor Foto Produk AI Kami?",
+  "whyUseSubtitle": "Solusi gratis Anda untuk foto produk siap model yang lebih profesional.",
+  "benefits": [
+    "Buat foto produk dengan AI dalam hitungan detik",
+    "Tambahkan model, properti, dan bayangan secara otomatis",
+    "Dukungan detail tinggi untuk perhiasan & benda kecil",
+    "Gratis digunakan, tanpa watermark, tanpa login"
+  ],
+  "howItWorks": [
+    {
+      "title": "Unggah Produk atau Ketik Prompt",
+      "description": "Unggah foto dasar produk atau ketik deskripsi barang Anda."
+    },
+    {
+      "title": "Pilih Model & Gaya Pengeditan",
+      "description": "Pilih model, latar belakang, dan opsi peningkatan gambar."
+    },
+    {
+      "title": "Hasilkan & Unduh Secara Instan",
+      "description": "Klik hasilkan dan dapatkan foto produk resolusi tinggi tanpa watermark."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apakah alat fotografi produk AI ini gratis?",
+      "answer": "Ya! 100% gratis tanpa watermark dan tanpa perlu login."
+    },
+    {
+      "question": "Bisakah saya menambahkan model ke foto produk?",
+      "answer": "Bisa. Anda dapat menghasilkan gambar produk dengan model gaya hidup dalam pengaturan realistis."
+    },
+    {
+      "question": "Apakah alat ini cocok untuk produk perhiasan?",
+      "answer": "Tentu saja. Alat ini dioptimalkan untuk perhiasan, benda kecil, dan detail halus."
+    },
+    {
+      "question": "Apakah ini seperti Canva atau editor gambar?",
+      "answer": "Ya, tapi menggunakan AI. Alat ini mengotomatiskan pengeditan latar belakang, peningkatan visual, dan penempatan model."
+    },
+    {
+      "question": "Bisakah saya gunakan untuk Reddit atau konten kreator?",
+      "answer": "Tentu. Sangat cocok untuk konten visual cepat, ulasan produk di Reddit, atau mockup Canva."
+    }
+  ],
+  "metadata": {
+    "title": "Fotografi Produk AI Gratis – Generator dengan Model, Editor & Tools | OneAIKit",
+    "description": "Hasilkan foto produk berkualitas tinggi dengan AI secara gratis. Tambahkan model, tingkatkan tampilan, edit gambar perhiasan – tanpa login, tanpa watermark.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "Alat Fotografi Produk AI – Generator Gratis dengan Editor dan Peningkat",
+      "description": "Buat foto produk yang memukau dengan AI. Tambahkan model, edit latar belakang, tingkatkan gambar perhiasan. 100% gratis tanpa watermark.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "Fotografi Produk AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generator Fotografi Produk AI Gratis – Tambah Model, Edit Perhiasan",
+      "description": "Generator foto produk bertenaga AI. Cocok untuk ecommerce, perhiasan, dan editor kreatif. Gratis, tanpa watermark, tanpa login.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "fotografi produk ai",
+      "fotografi produk ai gratis",
+      "fotografi produk ai dengan model",
+      "generator fotografi produk ai gratis",
+      "editor foto produk ai",
+      "peningkat foto produk ai",
+      "fotografi produk ai perhiasan",
+      "alat fotografi produk ai",
+      "fotografi produk ai canva",
+      "fotografi produk ai gratis reddit"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Penjual Perhiasan",
+      "content": "Alat fotografi produk AI terbaik! Foto cincinku terlihat seperti hasil studio!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Pemilik Toko Online",
+      "content": "AI-nya menambahkan model yang sempurna ke foto pakaianku. Tidak perlu fotografer lagi.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Desainer Canva",
+      "content": "Saya pakai ini untuk membuat mockup produk di template saya. Menghemat banyak waktu.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Fotografi Produk AI – Generator Gratis dengan Model & Editor",
+    "subtitle": "Buat foto produk berkualitas studio secara instan dengan AI",
+    "description": "Unggah gambar produk atau deskripsikan barang Anda. Tambahkan model, pilih gaya, dan hasilkan visual siap komersial tanpa watermark.",
+    "badgeText": "Ubah Teks ke Foto & Tingkatkan Kualitas dengan Editor AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Fotografi Produk AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

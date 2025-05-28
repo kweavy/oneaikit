@@ -1,0 +1,167 @@
+{
+  "title": "AI記事ジェネレーター 無料オンライン - 画像付き・ログイン不要",
+  "subtitle": "SEOに最適化されたブログ記事をAIで生成",
+  "description": "画像、タイトル、アウトライン、HTMLを含むコンテンツを無料で作成。登録もログインも不要です。",
+  "badgeText": "今すぐAIで記事を書こう",
+  "whoCanUse": "このツールを使えるのは誰ですか？",
+  "whyUseTitle": "なぜこの無料AI記事ジェネレーターを使うのか？",
+  "whyUseSubtitle": "面倒なくAIでコンテンツを生成しましょう。",
+  "benefits": [
+    "数秒で完全な記事を生成。",
+    "100%無料、ログイン不要。",
+    "AI生成の画像付き。",
+    "SEO最適化されたHTML形式でエクスポート可能。"
+  ],
+  "howItWorks": [
+    {
+      "title": "トピックを選ぶ",
+      "description": "まずトピックを入力すると、AIがSEOに最適なキーワードを生成します。"
+    },
+    {
+      "title": "ステップごとに記事を生成",
+      "description": "キーワード、タイトル、アウトライン、画像を選択してAIで記事を構築します。"
+    },
+    {
+      "title": "すぐに記事をエクスポート",
+      "description": "HTML形式の完全なブログ記事をエクスポートできます。ログイン不要です。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAI記事ジェネレーターは本当に無料ですか？",
+      "answer": "はい、完全に無料で利用できます。ログインやクレジットカードは必要ありません。"
+    },
+    {
+      "question": "登録やログインは必要ですか？",
+      "answer": "必要ありません。このツールは即座に使用できます。"
+    },
+    {
+      "question": "画像付きの記事は生成できますか？",
+      "answer": "はい、AIが生成した画像がコンテンツに自動的に含まれます。"
+    },
+    {
+      "question": "どの形式で記事をエクスポートできますか？",
+      "answer": "HTML形式でエクスポートでき、ブログやCMSで簡単に使用できます。"
+    },
+    {
+      "question": "記事の要約もできますか？",
+      "answer": "現在はフル記事生成に特化していますが、今後要約機能も追加予定です。"
+    },
+    {
+      "question": "SEOに対応していますか？",
+      "answer": "はい、関連するキーワードと構造でSEO最適化されたコンテンツを生成します。"
+    },
+    {
+      "question": "商品レビューやハウツー記事にも使えますか？",
+      "answer": "もちろんです。レビューやチュートリアルなど、さまざまなタイプの構造化された記事に対応しています。"
+    },
+    {
+      "question": "文章の言い換えは可能ですか？",
+      "answer": "現時点では未対応ですが、AIによるリライト機能は将来的に追加される予定です。"
+    },
+    {
+      "question": "学術的なライティングにも使えますか？",
+      "answer": "研究そのものの代わりにはなりませんが、構成や下書きを作成するのに役立ちます。"
+    },
+    {
+      "question": "スマートフォンでも使えますか？",
+      "answer": "はい、モバイル対応しており、すべての現代的なブラウザやデバイスで使用できます。"
+    }
+  ],
+  "testimonialsTitle": "ユーザーの声",
+  "testimonialsSubtitle": "本物のフィードバック",
+  "testimonials": [
+    {
+      "name": "サラ",
+      "role": "コンテンツマーケター",
+      "content": "これまでで一番速くブログ記事を書けました。しかも無料なんて信じられません！",
+      "rating": 5
+    },
+    {
+      "name": "リズキ",
+      "role": "SEOスペシャリスト",
+      "content": "クライアント向けの投稿や説明文を生成するのに重宝しています。とても効率的です！",
+      "rating": 5
+    },
+    {
+      "name": "ディナ",
+      "role": "フリーライター",
+      "content": "記事の下書き作成がスピーディーになりました。クライアント向けにもブログにも最適です。",
+      "rating": 4
+    },
+    {
+      "name": "アンディ",
+      "role": "学生",
+      "content": "この無料AIツールでレポートのアイデアと構成が簡単に作れました！",
+      "rating": 5
+    },
+    {
+      "name": "ジェームズ",
+      "role": "ブロガー",
+      "content": "画像付きで、しかもログイン不要なAI記事ジェネレーターは初めてです！",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "AI記事ジェネレーター無料 - 画像付き・ログイン不要 | OneAIKit",
+    "description": "AIでSEO最適化されたブログ記事を作成。無料・ログイン不要。タイトル、アウトライン、HTML記事をすぐに生成できます。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "AI記事ジェネレーター無料 - 画像付き・ログイン不要 | OneAIKit",
+      "description": "数秒でブログ記事を作成。無料のAIジェネレーター。画像生成とHTMLエクスポート対応。ブログ、マーケティング、学習に最適。",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "AI記事ジェネレーター無料 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI記事ジェネレーター無料 - 画像付き・ログイン不要 | OneAIKit",
+      "description": "AIでブログ記事を簡単生成。画像とHTMLエクスポートも可能。ログイン不要の無料ツール。",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai 記事ジェネレーター",
+      "ai 記事自動生成",
+      "ai ブログ記事 作成",
+      "無料 記事ジェネレーター",
+      "画像付き ai 記事ツール",
+      "SEO記事 AIツール",
+      "ログイン不要 aiライター"
+    ]
+  },
+  "hero": {
+    "title": "無料AI記事ジェネレーター - ログイン不要",
+    "subtitle": "AIでSEO最適化された記事を作成。画像、タイトル、構成、HTMLを含むコンテンツを完全無料で。",
+    "description": "強力な無料AI記事ジェネレーターで数秒でブログコンテンツを作成。HTMLと画像もすぐにエクスポート可能。",
+    "badgeText": "今すぐAIで記事を書こう",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI記事ジェネレーター",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

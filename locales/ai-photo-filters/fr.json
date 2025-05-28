@@ -1,0 +1,140 @@
+{
+  "title": "Générateur de filtres photo IA – Ghibli, Anime et plus | OneAIKit",
+  "subtitle": "Appliquez des filtres photo IA comme Ghibli, anime, réaliste, cartoon et plus encore. 100 % gratuit, sans connexion requise. Améliorez et stylisez vos photos instantanément avec l’IA.",
+  "description": "Téléchargez votre image et appliquez des filtres impressionnants comme Ghibli, Anime, Pixel Art, Cartoon et plus. Gratuit pour toujours, sans inscription.",
+  "badgeText": "Prise en charge de plus de 15 styles",
+  "whoCanUse": "Qui peut utiliser cet outil de filtre photo IA ?",
+  "whyUseTitle": "Pourquoi utiliser notre générateur de filtres photo IA ?",
+  "whyUseSubtitle": "Gratuit, instantané et transformation impressionnante.",
+  "benefits": [
+    "Utilisez plus de 15 styles visuels tels que Ghibli et Cartoon",
+    "Aucune inscription ni carte bancaire nécessaire",
+    "Optimisé pour mobile et bureau",
+    "Obtenez des images base64 ou téléchargeables"
+  ],
+  "howItWorks": [
+    {
+      "title": "Téléchargez une photo",
+      "description": "Choisissez un fichier JPG ou PNG que vous souhaitez styliser."
+    },
+    {
+      "title": "Choisissez un style de filtre",
+      "description": "Choisissez parmi anime, ghibli, cartoon, réaliste et bien d’autres styles."
+    },
+    {
+      "title": "Téléchargez votre image",
+      "description": "Obtenez instantanément votre image transformée et utilisez-la où vous le souhaitez."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Cet outil de filtre photo IA est-il gratuit ?",
+      "answer": "Oui! Ce filtre IA est totalement gratuit et ne nécessite aucune connexion."
+    },
+    {
+      "question": "Quels styles puis-je appliquer à ma photo ?",
+      "answer": "Vous pouvez appliquer des styles tels que Ghibli, anime, cartoon, pixel art, réaliste et plus encore."
+    },
+    {
+      "question": "Dois-je installer quelque chose ?",
+      "answer": "Non, l’outil fonctionne directement dans votre navigateur."
+    },
+    {
+      "question": "Puis-je télécharger ma propre photo ?",
+      "answer": "Oui. Vous pouvez télécharger votre propre image et appliquer n’importe quel style de filtre."
+    },
+    {
+      "question": "Où est sauvegardé le résultat ?",
+      "answer": "La photo générée sera affichée et téléchargeable instantanément."
+    },
+    {
+      "question": "Est-ce que ça fonctionne sur mobile ?",
+      "answer": "Oui, l’outil de filtre photo IA fonctionne sur ordinateurs et appareils mobiles."
+    }
+  ],
+  "metadata": {
+    "title": "Générateur gratuit de filtres photo IA – Ghibli, Anime, Cartoon et plus | OneAIKit",
+    "description": "Transformez vos photos avec des filtres IA tels que Ghibli, anime, cartoon et plus encore. Rapide, gratuit et sans inscription.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Filtre photo IA gratuit – Ghibli, Anime, Cartoon, Réaliste | OneAIKit",
+      "description": "Transformez vos photos avec des filtres IA tels que Ghibli, anime, cartoon et plus encore. Rapide, gratuit et sans inscription.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Générateur de filtres photo IA gratuit - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Filtre photo IA – Anime, Ghibli, Cartoon | Outil gratuit en ligne",
+      "description": "Utilisez l’IA pour styliser vos photos en quelques secondes. Essayez anime, ghibli, cartoon et bien plus encore. Gratuit et illimité.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "filtre photo ia",
+      "filtre photo ia gratuit",
+      "filtre photo ia ghibli",
+      "filtre photo ia anime",
+      "filtre photo ia en ligne",
+      "application filtre photo ia",
+      "retirer filtre photo ia",
+      "éditeur filtre photo ia",
+      "générateur filtre photo ia",
+      "améliorateur filtre photo ia"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Créatrice de contenu",
+      "content": "J’ai transformé mes selfies ennuyeux en art anime ! Un outil de filtre photo gratuit incroyable avec de nombreux styles !",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "Le filtre Ghibli est mon préféré. Il donne à mes photos une ambiance de rêve. Je le recommande vivement !",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Designer",
+      "content": "Parfait pour un art conceptuel rapide. Téléchargez une photo, appliquez un filtre, c’est fait. Pas besoin de s’inscrire !",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Générateur de filtres photo IA – Ghibli, Anime, Cartoon et plus",
+    "subtitle": "Stylisez votre photo gratuitement avec l’IA",
+    "description": "Téléchargez votre image et appliquez des filtres impressionnants comme Ghibli, Anime, Pixel Art, Cartoon et plus. Gratuit pour toujours, sans inscription.",
+    "badgeText": "Prise en charge de plus de 15 styles",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Générateur gratuit de filtres photo IA",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "AIテキストから画像ジェネレーター 無料・無制限 – ログイン不要 | OneAIKit",
+  "subtitle": "あなたの想像から画像を作成",
+  "description": "テキストをリアルまたはアーティスティックなAI画像に即座に変換します。無料、無制限、サインアップ不要。DALL·EとStable Diffusion搭載。",
+  "badgeText": "リアル＆アニメスタイル対応開始",
+  "whoCanUse": "このテキストから画像ツールは誰が使えますか？",
+  "whyUseTitle": "なぜ当社のAIテキストから画像ジェネレーターを使うのか？",
+  "whyUseSubtitle": "無制限で柔軟、ログイン不要。",
+  "benefits": [
+    "100%無料かつ無制限で使用可能。",
+    "ログインやサインアップは不要。",
+    "リアルなスタイルかアニメスタイルを選択可能。",
+    "高解像度画像をすぐにダウンロード可能。"
+  ],
+  "howItWorks": [
+    {
+      "title": "テキストを入力してください",
+      "description": "「夕焼けの未来都市」や「森の中のアニメ戦士」など、見たいものを入力します。"
+    },
+    {
+      "title": "モデルとスタイルを選択",
+      "description": "DALL·EかStable Diffusionを選択し、ムード、スタイル、解像度を調整します。"
+    },
+    {
+      "title": "無制限に画像を生成",
+      "description": "「生成」ボタンをクリックして画像を作成。ログイン不要で即プレビュー・ダウンロード可能。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAIテキストから画像ツールは無料ですか？",
+      "answer": "はい。このAIジェネレーターは100%無料で、ログインやサインアップ不要です。"
+    },
+    {
+      "question": "無制限に画像を生成できますか？",
+      "answer": "はい。クレジットなしで複数のAI画像を無制限に生成可能です。"
+    },
+    {
+      "question": "リアルな画像生成に対応していますか？",
+      "answer": "はい。リアル、アニメ、デジタルアートなど、ムードやライティングのオプション付きで選べます。"
+    },
+    {
+      "question": "利用可能なAIモデルは何ですか？",
+      "answer": "OpenAIのDALL·EかStable Diffusionを好みに応じて使用できます。"
+    },
+    {
+      "question": "アプリをダウンロードする必要がありますか？",
+      "answer": "いいえ。ブラウザベースのAIテキストから画像ジェネレーターなので、インストール不要です。"
+    },
+    {
+      "question": "生成した画像はどこに保存されますか？",
+      "answer": "OneAIKitのパブリックギャラリーに保存され、URL経由でアクセス可能です。"
+    }
+  ],
+  "metadata": {
+    "title": "AIテキストから画像ジェネレーター 無料・無制限 – ログイン不要 | OneAIKit",
+    "description": "テキストプロンプトから無制限にリアルまたはアーティスティックな画像を作成できるAIジェネレーターです。100%無料でログイン不要。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "無料のAIテキストから画像ジェネレーター – 無制限・ログイン不要 | OneAIKit",
+      "description": "DALL·EとStable Diffusion搭載のAIジェネレーターでテキストを画像に変換。無料でリアルかつサインアップ不要。",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "AIテキストから画像ジェネレーター 無料 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AIテキストから画像ジェネレーター – 無料、ログイン不要",
+      "description": "テキストプロンプトからオンラインでAI画像を生成。永遠に無料で無制限、サインアップ不要。",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai テキスト 画像",
+      "ai テキスト 画像 ジェネレーター",
+      "ai テキスト 画像 無料",
+      "テキスト 画像 ジェネレーター ai",
+      "ai 画像 ジェネレーター テキスト から",
+      "ai テキスト 画像 無料 無制限",
+      "ai テキスト 画像 コンバーター",
+      "リアルな ai 画像 ジェネレーター",
+      "ai 画像 ジェネレーター ログイン不要",
+      "テキスト 画像 ai オンライン 無料"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "アマンダ",
+      "role": "デジタルアーティスト",
+      "content": "これまで使った中で最高のAIテキストから画像ジェネレーターです。無料でとてもリアルな結果が得られます！",
+      "rating": 5
+    },
+    {
+      "name": "レオ",
+      "role": "コンテンツクリエイター",
+      "content": "SNS用のビジュアルに最適。どんなプロンプトからも瞬時に画像を生成できるのが気に入っています。",
+      "rating": 5
+    },
+    {
+      "name": "ジェニー",
+      "role": "マーケティングスペシャリスト",
+      "content": "ついに無料でログイン不要、完全な品質でエクスポートできるAI画像ジェネレーターが登場！",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "無料のAIテキストから画像ジェネレーター – ログイン不要",
+    "subtitle": "想像から画像を作成",
+    "description": "テキストを即座にリアルまたはアーティスティックなAI画像に変換。無料で無制限、サインアップ不要。DALL·EとStable Diffusion搭載。",
+    "badgeText": "リアル＆アニメスタイル対応開始",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - 無料テキストから画像ジェネレーター",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

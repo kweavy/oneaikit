@@ -1,0 +1,121 @@
+{
+  "title": "Combina Fotos de Producto con IA Gratis",
+  "subtitle": "Fusiona múltiples tomas en un solo marco con IA",
+  "description": "Sube fotos de productos, combínalas con IA y descarga una imagen compuesta en alta resolución — sin marca de agua y totalmente gratis.",
+  "badgeText": "Fusiona Imágenes de Producto y Mejora con IA",
+  "whoCanUse": "¿Quién Puede Usar Esta Herramienta de Combinación de Fotos?",
+  "whyUseTitle": "¿Por Qué Usar Nuestra Herramienta de Combinación con IA?",
+  "whyUseSubtitle": "Solución rápida y gratuita para fusionar imágenes de productos como un profesional.",
+  "benefits": [
+    "Combina dos o más fotos de productos en un solo marco",
+    "Ideal para joyería, moda y agencias creativas",
+    "No se necesitan habilidades de diseño ni software",
+    "Totalmente gratis y sin marca de agua"
+  ],
+  "howItWorks": [
+    {
+      "title": "Sube Múltiples Fotos",
+      "description": "Sube dos o más fotos de productos desde diferentes ángulos o configuraciones."
+    },
+    {
+      "title": "Elige el Estilo de Combinación",
+      "description": "Selecciona cómo deseas que se combinen las imágenes — diseño, alineación o composición de escena."
+    },
+    {
+      "title": "Genera y Descarga",
+      "description": "Deja que la IA genere una sola imagen combinada. Descárgala al instante, sin marca de agua."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Puedo combinar dos o más fotos de producto en una?",
+      "answer": "Sí, simplemente sube tus imágenes y deja que la IA las fusione en un solo marco."
+    },
+    {
+      "question": "¿Esta herramienta sirve para sesiones de agencia o catálogo?",
+      "answer": "¡Absolutamente! Está diseñada para agencias que necesitan imágenes de productos combinadas rápida y profesionalmente."
+    },
+    {
+      "question": "¿Necesito iniciar sesión o pagar?",
+      "answer": "No. Esta herramienta es 100% gratuita, sin necesidad de iniciar sesión y sin marcas de agua."
+    }
+  ],
+  "metadata": {
+    "title": "Combina Fotos con IA – Herramienta Gratuita para Productos y Agencias | OneAIKit",
+    "description": "Combina múltiples fotos de productos en una sola imagen con IA. Perfecta para agencias, comercio electrónico y catálogos. Gratis, sin inicio de sesión ni marca de agua.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "IA para Combinar Fotos – Herramienta Gratis para Marcas y Creativos",
+      "description": "Fusiona múltiples fotos de productos en un solo marco con IA. Ideal para joyería, moda y ecommerce. Sin marca de agua, 100% gratuita.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "Combina Fotos con IA - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Combina Fotos de Producto con IA – Herramienta Gratuita para Agencias",
+      "description": "Usa IA para fusionar dos o más fotos de productos en una. Diseñada para fotógrafos, agencias y diseñadores.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "combinar fotos con IA",
+      "fusionar dos fotos con IA gratis",
+      "herramienta gratis para combinar imágenes",
+      "ia para sesiones de productos",
+      "fusionar imágenes de producto ia",
+      "combinar fotos de ecommerce",
+      "combinar sesión de fotos de joyería ia"
+    ]
+  },
+  "testimonialsTitle": "Lo Que Dicen los Usuarios",
+  "testimonialsSubtitle": "Confiado por agencias y profesionales de productos",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Fotógrafa de Producto",
+      "content": "Finalmente, una herramienta para combinar fotos sin Photoshop. ¡Me ahorra horas!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Director Creativo de Agencia",
+      "content": "A nuestros clientes les encantan las imágenes fusionadas. OneAIKit hace que la composición sea sencilla.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Combina Fotos de Producto con IA Gratis",
+    "subtitle": "Fusiona múltiples tomas en un solo marco con IA",
+    "description": "Sube fotos de productos, combínalas con IA y descarga una imagen compuesta en alta resolución — sin marca de agua y totalmente gratis.",
+    "badgeText": "Fusiona Imágenes de Producto y Mejora con IA",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - IA para Combinar Fotos",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

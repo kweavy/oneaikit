@@ -1,0 +1,140 @@
+{
+  "title": "AIビデオジェネレーター無料 – テキストまたは画像から、透かしなし | OneAIKit",
+  "subtitle": "アイデアから瞬時にAIビデオを作成",
+  "description": "Kling AIやStable Diffusionなどの強力なモデルを使用して、テキストプロンプトや画像からオンラインでAIビデオを生成します。100％無料、透かしなし、ログイン不要。",
+  "badgeText": "テキストからビデオ & 画像からビデオ AIによる生成",
+  "whoCanUse": "このAIビデオジェネレーターは誰が使えますか？",
+  "whyUseTitle": "なぜOneAIKitのAIビデオジェネレーターを使うのか？",
+  "whyUseSubtitle": "無料で透かしなし、クリエイティビティのために設計されています。",
+  "benefits": [
+    "テキストまたは画像のプロンプトからビデオを作成。",
+    "Kling AIとStability Diffusionに対応。",
+    "透かしなし、無制限の利用。",
+    "初心者から上級者まで使いやすいインターフェース。"
+  ],
+  "howItWorks": [
+    {
+      "title": "プロンプトを入力するか画像をアップロード",
+      "description": "動画のアイデアを入力するか、アニメーション化する画像をアップロードします。"
+    },
+    {
+      "title": "スタイルとアスペクト比を選択",
+      "description": "シネマティック、ジブリ、ピクセルスタイルを使ってアニメーションをカスタマイズし、動画フォーマットを選びます。"
+    },
+    {
+      "title": "生成してMP4をダウンロード",
+      "description": "生成ボタンをクリックして数秒待ちます。AI動画が保存・共有の準備完了になります。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAIビデオジェネレーターは無料ですか？",
+      "answer": "はい、OneAIKitは100％無料のAIビデオ生成ツールを提供しています。クレジットカードやログインは不要です。"
+    },
+    {
+      "question": "テキストと画像の両方から動画を生成できますか？",
+      "answer": "はい！テキストプロンプトまたは画像アップロードから、オプションでスタイルの説明を付けて動画を生成できます。"
+    },
+    {
+      "question": "生成された動画には透かしがありますか？",
+      "answer": "いいえ。このツールで生成されたすべての動画は透かしなしで、商用利用も可能です。"
+    },
+    {
+      "question": "アプリをインストールする必要はありますか？",
+      "answer": "いいえ。インストールは不要で、すべてブラウザ上で即時にAI動画生成が可能です。"
+    },
+    {
+      "question": "動画生成に使われているモデルは何ですか？",
+      "answer": "テキストから動画へはKling AI、画像から動画へはリアルな動きを表現するStability AIをサポートしています。"
+    },
+    {
+      "question": "YouTubeやTikTokのコンテンツ用に使えますか？",
+      "answer": "はい。当ツールはソーシャルメディアやショートフォームコンテンツ、クリエイティブなストーリーテリングに適したフォーマットをサポートしています。"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "リズキー",
+      "role": "YouTubeクリエイター",
+      "content": "とても簡単に使えました。一文だけでシネマティックなAI動画が作れました！",
+      "rating": 5
+    },
+    {
+      "name": "クロエ",
+      "role": "アニメーター",
+      "content": "他のツールも試しましたが、このAIビデオジェネレーターは透かしなしで最もきれいな出力をしてくれます。",
+      "rating": 5
+    },
+    {
+      "name": "ダニエル",
+      "role": "デジタルマーケター",
+      "content": "広告やソーシャル投稿用の動画コンテンツを素早く作れる素晴らしいツールです。無料で柔軟に使えます！",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "AIビデオジェネレーター無料 – テキストまたは画像から、透かしなし | OneAIKit",
+    "description": "Kling AIやStable Diffusionなどの強力なモデルを使用して、テキストプロンプトや画像からオンラインでAIビデオを生成します。100％無料、透かしなし、ログイン不要。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "無料AIビデオジェネレーター – テキストまたは画像から | OneAIKit",
+      "description": "オンラインツールでテキストや画像からAI生成ビデオを作成。ログイン不要、透かしなし、完全無料。",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "AIビデオジェネレーター - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "無料AIビデオジェネレーターオンライン – ログイン不要",
+      "description": "テキストプロンプトや写真からAIビデオを生成。100％無料、透かしなし、KlingとStability AI対応。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "aiビデオジェネレーター",
+      "無料aiビデオジェネレーター",
+      "テキストから動画生成ai",
+      "画像から動画生成ai",
+      "動画生成ツールai",
+      "無料動画作成ai",
+      "ai動画制作",
+      "動画生成サービス",
+      "動画生成プラットフォーム",
+      "ai動画生成"
+    ]
+  },
+  "hero": {
+    "title": "AIビデオジェネレーター – テキストまたは画像から、無料＆透かしなし",
+    "subtitle": "あなたのアイデアから即座にAI動画を作成",
+    "description": "最新技術を使用してテキストや画像プロンプトからオンラインでAI動画を生成。ログイン不要。",
+    "badgeText": "テキストから動画＆画像から動画 AI搭載",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AIビデオジェネレーター",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "title": "KI-Produktfotografie – Kostenloser Generator mit Models & Bearbeitungstools",
+  "subtitle": "Erstellen Sie sofort Studio-Qualität Produktfotos mit KI",
+  "description": "Laden Sie ein Produktbild hoch oder beschreiben Sie Ihr Objekt. Fügen Sie Models hinzu, wählen Sie Stile und generieren Sie kommerzielle Bilder ohne Wasserzeichen.",
+  "badgeText": "Text-zu-Foto & Bildverbesserer mit KI-Editor",
+  "whoCanUse": "Wer kann dieses KI-Produktfotografie-Tool verwenden?",
+  "whyUseTitle": "Warum unser KI-Produktfoto-Editor?",
+  "whyUseSubtitle": "Ihre kostenlose Lösung für verbesserte Produktbilder mit Models.",
+  "benefits": [
+    "Erstellen Sie Produktfotos mit KI in Sekunden",
+    "Fügen Sie automatisch Models, Requisiten und Schatten hinzu",
+    "Unterstützt Schmuck & kleine Objekte mit hoher Detailtreue",
+    "Kostenlos, ohne Wasserzeichen, ohne Anmeldung"
+  ],
+  "howItWorks": [
+    {
+      "title": "Produkt hochladen oder Beschreibung eingeben",
+      "description": "Laden Sie ein einfaches Produktfoto hoch oder geben Sie die Beschreibung Ihres Objekts ein."
+    },
+    {
+      "title": "Modelle & Bearbeitungsstil auswählen",
+      "description": "Wählen Sie optionale Models, Hintergründe und Bildverbesserungsoptionen."
+    },
+    {
+      "title": "Sofort generieren & herunterladen",
+      "description": "Klicken Sie auf Generieren und erhalten Sie hochauflösende Bilder ohne Wasserzeichen."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ist dieses KI-Fototool kostenlos?",
+      "answer": "Ja! 100% kostenlos, ohne Wasserzeichen und ohne Anmeldung."
+    },
+    {
+      "question": "Kann ich Models zu Produktbildern hinzufügen?",
+      "answer": "Ja. Sie können realistische Produktfotos mit Lifestyle-Models erstellen."
+    },
+    {
+      "question": "Funktioniert es auch für Schmuckprodukte?",
+      "answer": "Definitiv. Das Tool ist für Schmuck und feine Details optimiert."
+    },
+    {
+      "question": "Ist es wie Canva oder ein Editor?",
+      "answer": "Ja, aber mit KI. Es automatisiert Hintergründe, Verbesserungen und Modelplatzierungen."
+    },
+    {
+      "question": "Kann ich es für Reddit oder Content Creation verwenden?",
+      "answer": "Absolut. Perfekt für schnellen visuellen Content, Reddit-Posts oder Canva-Designs."
+    }
+  ],
+  "metadata": {
+    "title": "KI-Produktfotografie Kostenlos – Generator mit Models, Editor & Tools | OneAIKit",
+    "description": "Erstellen Sie hochwertige Produktbilder mit KI kostenlos. Models hinzufügen, Schmuck verbessern, bearbeiten – ohne Anmeldung, ohne Wasserzeichen.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "KI-Produktfotografie Tool – Kostenloser Generator mit Editor und Enhancer",
+      "description": "Erstellen Sie beeindruckende Produktfotos mit KI. Fügen Sie Models hinzu, bearbeiten Sie Hintergründe und verbessern Sie Schmuckbilder. 100% kostenlos, kein Wasserzeichen.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "KI-Produktfotografie - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kostenloser KI-Produktfotografie Generator – Mit Models, Schmuckbearbeitung",
+      "description": "KI-gestützter Produktfoto-Generator. Ideal für E-Commerce, Schmuck & kreative Designer. Kostenlos, ohne Wasserzeichen, ohne Anmeldung.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ki produktfotografie",
+      "ki produktfotografie kostenlos",
+      "ki produktfotografie mit models",
+      "ki produktfoto generator kostenlos",
+      "ki produktfoto editor",
+      "ki produktfoto enhancer",
+      "ki produktfotografie schmuck",
+      "ki produktfoto tools",
+      "ki produktfoto canva",
+      "ki produktfotografie reddit"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Schmuckverkäuferin",
+      "content": "Bestes KI-Tool für Produktfotos überhaupt. Meine Ringfotos sehen aus wie im Studio!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Online-Shop-Besitzer",
+      "content": "Die KI fügt perfekte Models zu meinen Kleidungsfotos hinzu. Kein Fotograf nötig.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva-Designerin",
+      "content": "Ich nutze es für Produkt-Mockups in meinen Templates. Spart Stunden an Arbeit.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "KI-Produktfotografie – Kostenloser Generator mit Models & Editor Tools",
+    "subtitle": "Erstellen Sie sofort Studio-Qualität Produktfotos mit KI",
+    "description": "Laden Sie ein Produktbild hoch oder beschreiben Sie Ihr Objekt. Fügen Sie Models hinzu, wählen Sie Stile und generieren Sie kommerzielle Bilder ohne Wasserzeichen.",
+    "badgeText": "Text-zu-Foto & Bildverbesserer mit KI-Editor",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - KI-Produktfotografie",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

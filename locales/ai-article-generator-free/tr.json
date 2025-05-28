@@ -1,0 +1,167 @@
+{
+  "title": "Ücretsiz AI Makale Oluşturucu – Görsellerle Online, Giriş Yapmadan",
+  "subtitle": "SEO uyumlu blog yazıları ve makaleleri yapay zeka ile oluşturun",
+  "description": "Görseller, başlıklar, taslaklar ve HTML ile içerik oluşturun – tamamen ücretsiz ve kaydolmadan.",
+  "badgeText": "Artık yapay zeka ile makale yazabilirsiniz",
+  "whoCanUse": "Bu aracı kimler kullanabilir?",
+  "whyUseTitle": "Neden ücretsiz AI makale oluşturucumuzu seçmelisiniz?",
+  "whyUseSubtitle": "Zahmetsizce yapay zeka destekli içerik üretimi.",
+  "benefits": [
+    "Saniyeler içinde tam makale oluşturun.",
+    "%100 ücretsiz, giriş yapmanız gerekmez.",
+    "AI tarafından üretilmiş görseller içerir.",
+    "SEO dostu içerikler HTML formatında dışa aktarılabilir."
+  ],
+  "howItWorks": [
+    {
+      "title": "Konu seçin",
+      "description": "Bir konu belirleyin, ardından yapay zeka sizin için en iyi SEO anahtar kelimelerini oluştursun."
+    },
+    {
+      "title": "Adım adım içerik oluşturun",
+      "description": "Anahtar kelimeleri, başlıkları, taslakları ve görselleri AI destekli makale oluşturucu ile seçin."
+    },
+    {
+      "title": "Makalenizi anında dışa aktarın",
+      "description": "Tam HTML makaleleri hemen dışa aktarın – yayınlamaya hazır. Kayıt gerektirmez."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu AI makale oluşturucu gerçekten ücretsiz mi?",
+      "answer": "Evet, %100 ücretsizdir. Giriş, kayıt veya kredi kartı gerekmez."
+    },
+    {
+      "question": "Giriş yapmam veya kayıt olmam gerekiyor mu?",
+      "answer": "Hayır. Araç doğrudan çalışır, giriş gerekmez."
+    },
+    {
+      "question": "Görsellerle birlikte makale oluşturabilir miyim?",
+      "answer": "Evet. Araç, içeriği görsel olarak destekleyen AI üretimli görseller sağlar."
+    },
+    {
+      "question": "Makale hangi formatta dışa aktarılır?",
+      "answer": "Temiz HTML formatında dışa aktarılabilir, bloglar ve CMS'ler için uygundur."
+    },
+    {
+      "question": "Özetleme için kullanabilir miyim?",
+      "answer": "Şu anda yalnızca tam makale üretimi destekleniyor, ancak özetleme özelliği yakında gelecek."
+    },
+    {
+      "question": "Bu araç SEO için uygun mu?",
+      "answer": "Kesinlikle. AI, SEO’ya uygun içerik üretir; doğru anahtar kelime ve yapı içerir."
+    },
+    {
+      "question": "Ürün inceleme veya rehber makaleleri oluşturabilir miyim?",
+      "answer": "Evet. İnceleme, kılavuz ve daha fazlası için yapılı içerikler oluşturabilirsiniz."
+    },
+    {
+      "question": "Yeniden yazma veya parafraz özelliği var mı?",
+      "answer": "Henüz yok, ancak AI destekli yeniden yazma ve özetleme özellikleri yakında eklenecek."
+    },
+    {
+      "question": "Akademik yazı için kullanabilir miyim?",
+      "answer": "Araştırmanın yerini tutmaz ama taslak ve yapı oluşturmakta yardımcı olur."
+    },
+    {
+      "question": "Mobilde çalışıyor mu?",
+      "answer": "Evet, tamamen mobil uyumludur ve tüm modern tarayıcılarda sorunsuz çalışır."
+    }
+  ],
+  "testimonialsTitle": "Kullanıcı Yorumları",
+  "testimonialsSubtitle": "Gerçek kullanıcı geri bildirimleri",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "İçerik Pazarlamacısı",
+      "content": "Blog yazısı yazmanın en hızlı yolu bu. Üstelik tamamen ücretsiz!",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "SEO Uzmanı",
+      "content": "Müşterilerim için açıklama ve gönderi üretmekte bu aracı kullanıyorum. Zaman kazandırıyor!",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Serbest Yazar",
+      "content": "Bu AI aracı taslak oluşturmamı hızlandırıyor. Müşteri işleri ve bloglar için harika.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Öğrenci",
+      "content": "Ücretsiz AI aracıyla ödevim için fikir ve taslak oluşturdum. Harika bir deneyim!",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogger",
+      "content": "Nihayet, görsel desteği olan ve giriş gerektirmeyen bir AI makale oluşturucu buldum!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "Ücretsiz AI Makale Oluşturucu – Görsellerle, Giriş Yapmadan | OneAIKit",
+    "description": "Görsellerle destekli SEO uyumlu içerikler oluşturun. Ücretsiz, kayıtsız. Başlık, taslak ve tam HTML makale üretimi artık çok kolay.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "Ücretsiz AI Makale Oluşturucu – Görsellerle, Giriş Yapmadan | OneAIKit",
+      "description": "Blog içeriklerinizi saniyeler içinde oluşturun. Görseller ve HTML ile birlikte. Giriş gerektirmez.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "AI Makale Oluşturucu Ücretsiz – OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ücretsiz AI Makale Oluşturucu – Görsellerle | OneAIKit",
+      "description": "Giriş gerekmeden saniyeler içinde AI destekli içerik oluşturun. Görseller ve HTML dahil.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai makale oluşturucu",
+      "ücretsiz içerik üretici",
+      "blog yazı aracı",
+      "ai ile içerik üretimi",
+      "seo uyumlu makale",
+      "girişsiz makale aracı",
+      "html blog üretici"
+    ]
+  },
+  "hero": {
+    "title": "Ücretsiz AI Makale Oluşturucu – Giriş Yapmadan",
+    "subtitle": "SEO uyumlu içerikleri AI ile oluşturun. Görseller, başlıklar, taslaklar ve HTML ile tamamen ücretsiz.",
+    "description": "Güçlü AI aracımızla saniyeler içinde içerik üretin. HTML ve görselleri hemen dışa aktarın.",
+    "badgeText": "Artık yapay zeka ile makale yazabilirsiniz",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Makale Oluşturucu",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "KI Text-zu-Bild Generator – Kostenlos & Unbegrenzt – Kein Login | OneAIKit",
+  "subtitle": "Erstelle Bilder aus deiner Fantasie",
+  "description": "Konvertiere Texte sofort in realistische oder künstlerische KI-Bilder. 100 % kostenlos, unbegrenzt und ohne Anmeldung. Angetrieben von DALL·E und Stable Diffusion.",
+  "badgeText": "Unterstützt jetzt realistische & Anime-Stile",
+  "whoCanUse": "Wer kann dieses Text-zu-Bild Werkzeug nutzen?",
+  "whyUseTitle": "Warum unseren KI Text-zu-Bild Generator verwenden?",
+  "whyUseSubtitle": "Unbegrenzt, flexibel und ohne Login.",
+  "benefits": [
+    "100 % kostenlos und unbegrenzt nutzbar.",
+    "Keine Anmeldung oder Registrierung erforderlich.",
+    "Wähle zwischen realistischen oder Anime-Stilen.",
+    "Lade hochauflösende Ergebnisse sofort herunter."
+  ],
+  "howItWorks": [
+    {
+      "title": "Gib deinen Text ein",
+      "description": "Tippe, was du sehen möchtest, z. B. „futuristische Stadt bei Sonnenuntergang“ oder „Anime-Krieger im Wald“."
+    },
+    {
+      "title": "Wähle Modell & Stil",
+      "description": "Wähle zwischen DALL·E oder Stable Diffusion. Passe Stimmung, Stil und Auflösung an."
+    },
+    {
+      "title": "Generiere unbegrenzt Bilder",
+      "description": "Klicke auf generieren, um deine Bilder zu erstellen. Vorschau und sofortiger Download – kein Login nötig."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ist dieses KI Text-zu-Bild Tool kostenlos?",
+      "answer": "Ja. Dieser KI Text-zu-Bild Generator ist 100 % kostenlos und erfordert keine Anmeldung."
+    },
+    {
+      "question": "Kann ich unbegrenzt Bilder generieren?",
+      "answer": "Ja, du kannst mehrere KI-Bilder ohne Einschränkungen oder Credits erstellen."
+    },
+    {
+      "question": "Unterstützt es realistische Bildgenerierung?",
+      "answer": "Ja, du kannst realistische, Anime- oder digitale Kunststile mit Stimmungs- und Lichtoptionen wählen."
+    },
+    {
+      "question": "Welche KI-Modelle stehen zur Verfügung?",
+      "answer": "Du kannst OpenAI DALL·E oder Stable Diffusion je nach deinen Vorlieben nutzen."
+    },
+    {
+      "question": "Muss ich eine App herunterladen?",
+      "answer": "Nein. Dies ist ein browserbasierter KI Text-zu-Bild Generator. Keine Installation notwendig."
+    },
+    {
+      "question": "Wo werden meine generierten Bilder gespeichert?",
+      "answer": "Die Bilder werden in der öffentlichen Galerie von OneAIKit gespeichert und können über URL aufgerufen werden."
+    }
+  ],
+  "metadata": {
+    "title": "KI Text-zu-Bild Generator Kostenlos & Unbegrenzt – Kein Login | OneAIKit",
+    "description": "Nutze unseren KI Text-zu-Bild Generator, um unbegrenzt realistische oder künstlerische Bilder aus Textbeschreibungen zu erstellen. 100 % kostenlos, kein Login erforderlich.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Kostenloser KI Text-zu-Bild Generator – Unbegrenzt & Kein Login | OneAIKit",
+      "description": "Wandle Text mit unserem KI-Generator, betrieben von DALL·E und Stable Diffusion, in Bilder um. Kostenlos, realistisch und ohne Anmeldung.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "KI Text-zu-Bild Generator Kostenlos - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "KI Text-zu-Bild Generator – Kostenlos, kein Login nötig",
+      "description": "Erstelle KI-Bilder online aus Textbeschreibungen. Für immer kostenlos, unbegrenzte Nutzung, keine Anmeldung.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ki text zu bild",
+      "ki text zu bild generator",
+      "ki text zu bild kostenlos",
+      "text zu bild generator ki",
+      "ki bild generator aus text",
+      "ki text zu bild unbegrenzt kostenlos",
+      "ki text zu bild konverter",
+      "realistischer ki bild generator",
+      "ki bild generator kein login",
+      "text zu bild ki online kostenlos"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Digitale Künstlerin",
+      "content": "Das ist der beste KI Text-zu-Bild Generator, den ich je benutzt habe. Er ist kostenlos und erzeugt sehr realistische Ergebnisse!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Content-Ersteller",
+      "content": "Perfekt für Social-Media-Visuals. Ich liebe es, wie ich Bilder aus jedem Prompt sofort generieren kann.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Marketing-Spezialistin",
+      "content": "Endlich ein kostenloser KI-Bildgenerator ohne Login und mit voller Qualitäts-Exportfunktion!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Kostenloser KI Text-zu-Bild Generator – Kein Login erforderlich",
+    "subtitle": "Erstelle Bilder aus deiner Fantasie",
+    "description": "Konvertiere Texte sofort in realistische oder künstlerische KI-Bilder. 100 % kostenlos, unbegrenzt und ohne Anmeldung. Angetrieben von DALL·E und Stable Diffusion.",
+    "badgeText": "Unterstützt jetzt realistische & Anime-Stile",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Kostenloser Text-zu-Bild Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

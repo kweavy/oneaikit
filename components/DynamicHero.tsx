@@ -1,5 +1,5 @@
 'use client';
-
+// Hapus 'use client'
 import Image from 'next/image';
 
 interface DynamicHeroProps {
@@ -25,8 +25,8 @@ export default function DynamicHero({
           <Image
             src={badgeImage}
             alt="Badge"
-            width={130}
-            height={130}
+            width={40}
+            height={40}
             className="rounded-full border-2 border-white"
           />
           <span className="text-sm font-semibold">{badgeText}</span>

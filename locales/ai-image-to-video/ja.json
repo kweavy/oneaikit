@@ -1,0 +1,98 @@
+{
+  "title": "AI画像から動画ジェネレーター – 無料、ログイン不要、プロンプト対応",
+  "subtitle": "1枚の画像から驚きのAI動画を作成",
+  "description": "任意の画像をアップロードしてAIで動画に変換。スタイルやアニメーションを指定するプロンプトも追加可能。ログイン不要、透かしなし、100％無料。",
+  "badgeText": "無料AI画像から動画ジェネレーター",
+  "whoCanUse": "このAI画像から動画ツールは誰が使えますか？",
+  "whyUseTitle": "なぜこの画像から動画ジェネレーターを使うべきか？",
+  "whyUseSubtitle": "高速でクリエイティブ、ログイン不要。",
+  "benefits": [
+    "画像から数秒で動画を生成",
+    "プロンプトでスタイル＆アニメーションをコントロール",
+    "無料で透かしや制限なし",
+    "デスクトップとモバイルで動作"
+  ],
+  "howItWorks": [
+    {
+      "title": "画像をアップロード",
+      "description": "動画に変換したい任意の画像（JPG、PNG、WEBP）を選択してください。"
+    },
+    {
+      "title": "プロンプトを入力（任意）",
+      "description": "画像を特定のスタイルやムードでアニメーションさせるためにプロンプトを入力できます。"
+    },
+    {
+      "title": "動画を生成",
+      "description": "「生成」ボタンを押してAI動画を作成。すぐにダウンロード可能です。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAI画像から動画ジェネレーターは本当に無料ですか？",
+      "answer": "はい、完全無料です。登録不要、透かしなし、クレジットカードも必要ありません。"
+    },
+    {
+      "question": "プロンプトを使って動画生成をコントロールできますか？",
+      "answer": "はい。動画のスタイルやテーマを制御するためにカスタムプロンプトを入力できます。"
+    },
+    {
+      "question": "生成される動画の長さはどのくらいですか？",
+      "answer": "通常は1画像あたり2～6秒ですが、AIモデルによって異なります。"
+    },
+    {
+      "question": "自分の画像を使えますか？",
+      "answer": "もちろんです。画像をアップロードし、プロンプトを入力すれば、数秒で動画アニメーションが生成されます。"
+    },
+    {
+      "question": "出力ファイルの形式は？",
+      "answer": "ダウンロード可能なMP4形式で、すべてのデバイスで再生可能です。"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "リアム・N",
+      "role": "モーションデザイナー",
+      "content": "このAIツールは魔法のようです。ポートレートをアップロードしたら、数秒で滑らかなループ動画ができました！",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "ソフィー・R",
+      "role": "YouTubeエディター",
+      "content": "プロンプトひとつで静止画をアニメーション化できるのが好きです。短いイントロやリールにぴったり！",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "ダレン・K",
+      "role": "TikTokクリエイター",
+      "content": "使った中で最速のAI画像から動画ジェネレーターです。ログイン不要、広告なし、動画の品質も素晴らしい。",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI画像から動画ジェネレーター – プロンプト対応の無料ツール",
+    "subtitle": "たった1枚の画像から驚きのAI動画を作成",
+    "description": "好きな画像をアップロードし、AIで動画に変換。プロンプトでスタイルやアニメーションを指定可能。ログイン不要、透かしなし、完全無料。",
+    "badgeText": "無料AI画像から動画ジェネレーター",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI画像から動画ジェネレーター",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

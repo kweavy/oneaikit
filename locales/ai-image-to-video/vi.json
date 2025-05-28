@@ -1,0 +1,98 @@
+{
+  "title": "Trình tạo video từ hình ảnh AI – Miễn phí, không cần đăng nhập, hỗ trợ lệnh Prompt",
+  "subtitle": "Tạo video AI ấn tượng từ một hình ảnh duy nhất",
+  "description": "Tải lên bất kỳ hình ảnh nào và chuyển đổi thành video bằng AI. Thêm lệnh prompt để điều chỉnh phong cách hoặc hoạt ảnh. Không cần đăng nhập, không dấu bản quyền, hoàn toàn miễn phí.",
+  "badgeText": "Trình tạo video từ hình ảnh AI miễn phí",
+  "whoCanUse": "Ai có thể sử dụng công cụ AI chuyển hình ảnh thành video này?",
+  "whyUseTitle": "Tại sao nên sử dụng trình tạo video từ hình ảnh AI của chúng tôi?",
+  "whyUseSubtitle": "Nhanh chóng, sáng tạo và không cần đăng nhập.",
+  "benefits": [
+    "Tạo video từ hình ảnh trong vài giây",
+    "Kiểm soát phong cách và hoạt ảnh bằng lệnh prompt",
+    "Miễn phí, không dấu bản quyền và không giới hạn",
+    "Hoạt động trên máy tính và thiết bị di động"
+  ],
+  "howItWorks": [
+    {
+      "title": "Tải lên hình ảnh",
+      "description": "Chọn bất kỳ hình ảnh nào (JPG, PNG hoặc WEBP) để chuyển đổi thành video."
+    },
+    {
+      "title": "Nhập lệnh Prompt (Tùy chọn)",
+      "description": "Bạn có thể nhập lệnh để tạo hoạt ảnh cho hình ảnh theo phong cách hoặc bầu không khí cụ thể."
+    },
+    {
+      "title": "Tạo video",
+      "description": "Nhấn nút tạo để tạo video AI của bạn. Tải xuống ngay lập tức."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Trình tạo video từ hình ảnh AI này có thực sự miễn phí không?",
+      "answer": "Có, hoàn toàn miễn phí 100%. Không cần đăng ký, không dấu bản quyền và không yêu cầu thẻ tín dụng."
+    },
+    {
+      "question": "Tôi có thể sử dụng lệnh prompt để điều khiển việc tạo video không?",
+      "answer": "Có. Bạn có thể nhập lệnh tùy chỉnh để kiểm soát phong cách hoặc chủ đề video."
+    },
+    {
+      "question": "Video được tạo có độ dài bao lâu?",
+      "answer": "Thông thường từ 2 đến 6 giây mỗi hình ảnh, tùy thuộc vào mô hình AI."
+    },
+    {
+      "question": "Tôi có thể sử dụng hình ảnh của riêng mình không?",
+      "answer": "Chắc chắn rồi. Tải lên ảnh của bạn, nhập lệnh prompt và nhận video hoạt ảnh trong vài giây."
+    },
+    {
+      "question": "Kết quả video được lưu ở định dạng nào?",
+      "answer": "Video được xuất ra dưới dạng file MP4 có thể tải về và xem trên mọi thiết bị."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Nhà thiết kế chuyển động",
+      "content": "Công cụ AI này thật kỳ diệu. Tôi tải lên một bức chân dung và nhận được video lặp mượt mà chỉ trong vài giây!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Biên tập viên YouTube",
+      "content": "Tôi thích có thể biến hình ảnh tĩnh thành hoạt ảnh chỉ với một lệnh prompt. Hoàn hảo cho đoạn giới thiệu ngắn và reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Người sáng tạo TikTok",
+      "content": "Đây là trình tạo video từ hình ảnh AI nhanh nhất tôi từng dùng. Không cần đăng nhập, không quảng cáo, chất lượng video rất tốt.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Tạo video từ hình ảnh – Trình tạo miễn phí với hỗ trợ lệnh Prompt",
+    "subtitle": "Tạo video AI ấn tượng từ một hình ảnh duy nhất",
+    "description": "Tải lên bất kỳ hình ảnh nào và chuyển đổi thành video với AI. Thêm lệnh để kiểm soát phong cách hoặc hoạt ảnh. Không cần đăng nhập, không dấu bản quyền, hoàn toàn miễn phí.",
+    "badgeText": "Trình tạo video AI miễn phí",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Trình tạo video từ hình ảnh AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "Ứng dụng Web",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

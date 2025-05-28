@@ -1,0 +1,98 @@
+{
+  "title": "Générateur Vidéo à partir d’Image IA – Gratuit, Sans Connexion, avec Support de Prompt",
+  "subtitle": "Créez des vidéos IA impressionnantes à partir d’une seule image",
+  "description": "Téléchargez n’importe quelle image et transformez-la en vidéo grâce à l’IA. Ajoutez un prompt pour guider le style ou l’animation. Sans connexion, sans filigrane, 100 % gratuit.",
+  "badgeText": "Générateur Vidéo Image-à-Vidéo IA Gratuit",
+  "whoCanUse": "Qui peut utiliser cet outil IA Image-à-Vidéo ?",
+  "whyUseTitle": "Pourquoi utiliser notre générateur vidéo à partir d’image ?",
+  "whyUseSubtitle": "Rapide, créatif, et sans besoin de connexion.",
+  "benefits": [
+    "Générez une vidéo à partir d’une image en quelques secondes",
+    "Contrôle par prompt pour le style et l’animation",
+    "Gratuit, sans filigrane ni restrictions",
+    "Compatible sur ordinateur et mobile"
+  ],
+  "howItWorks": [
+    {
+      "title": "Téléchargez une Image",
+      "description": "Choisissez une image (JPG, PNG ou WEBP) à convertir en vidéo."
+    },
+    {
+      "title": "Entrez un Prompt (optionnel)",
+      "description": "Vous pouvez saisir un prompt pour animer l’image dans un style ou une ambiance spécifique."
+    },
+    {
+      "title": "Générez la Vidéo",
+      "description": "Cliquez sur générer pour créer votre vidéo propulsée par IA. Téléchargez-la instantanément."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ce générateur vidéo IA à partir d’image est-il gratuit ?",
+      "answer": "Oui, il est 100 % gratuit. Aucun enregistrement, pas de filigrane, ni carte bancaire requise."
+    },
+    {
+      "question": "Puis-je utiliser un prompt pour guider la création de la vidéo ?",
+      "answer": "Oui. Vous pouvez saisir un prompt personnalisé pour contrôler le style ou le thème de la vidéo."
+    },
+    {
+      "question": "Quelle est la durée de la vidéo générée ?",
+      "answer": "Généralement entre 2 et 6 secondes par image, mais cela peut varier selon le modèle IA."
+    },
+    {
+      "question": "Puis-je utiliser mes propres images ?",
+      "answer": "Absolument. Téléchargez votre photo, ajoutez un prompt, et obtenez une vidéo animée en quelques secondes."
+    },
+    {
+      "question": "Quel est le format du fichier résultat ?",
+      "answer": "Le résultat est un fichier MP4 téléchargeable, lisible sur tous les appareils."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Motion Designer",
+      "content": "Cet outil IA est magique. J’ai téléchargé un portrait et obtenu une vidéo en boucle fluide en quelques secondes !",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Éditrice YouTube",
+      "content": "J’adore pouvoir animer des images fixes avec un simple prompt. Parfait pour les intros courtes et les reels !",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Créateur TikTok",
+      "content": "Le générateur IA image-vidéo le plus rapide que j’ai utilisé. Pas de connexion, pas de pub, et la qualité vidéo est top.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "Générateur Vidéo Image-à-Vidéo IA – Gratuit avec Support de Prompt",
+    "subtitle": "Créez des vidéos IA impressionnantes à partir d’une seule image",
+    "description": "Téléchargez n’importe quelle image et transformez-la en vidéo avec l’IA. Ajoutez un prompt pour guider le style ou l’animation. Sans connexion, sans filigrane, 100 % gratuit.",
+    "badgeText": "Générateur Vidéo Image-à-Vidéo IA Gratuit",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Générateur Vidéo Image-à-Vidéo IA",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

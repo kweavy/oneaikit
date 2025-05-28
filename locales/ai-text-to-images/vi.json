@@ -1,0 +1,140 @@
+{
+  "title": "Trình tạo ảnh từ văn bản AI miễn phí và không giới hạn – Không cần đăng nhập | OneAIKit",
+  "subtitle": "Tạo ảnh từ trí tưởng tượng của bạn",
+  "description": "Chuyển đổi văn bản thành hình ảnh AI chân thực hoặc nghệ thuật ngay lập tức. Miễn phí, không giới hạn và không cần đăng ký. Hỗ trợ bởi DALL·E và Stable Diffusion.",
+  "badgeText": "Hỗ trợ phong cách thực tế và anime",
+  "whoCanUse": "Ai có thể sử dụng công cụ chuyển văn bản thành hình ảnh này?",
+  "whyUseTitle": "Tại sao nên sử dụng trình tạo ảnh từ văn bản AI của chúng tôi?",
+  "whyUseSubtitle": "Không giới hạn, linh hoạt và không cần đăng nhập.",
+  "benefits": [
+    "100% miễn phí và sử dụng không giới hạn.",
+    "Không cần đăng nhập hay đăng ký.",
+    "Chọn phong cách thực tế hoặc anime.",
+    "Tải xuống hình ảnh chất lượng cao ngay lập tức."
+  ],
+  "howItWorks": [
+    {
+      "title": "Nhập văn bản của bạn",
+      "description": "Viết những gì bạn muốn thấy, ví dụ: “thành phố tương lai vào lúc hoàng hôn” hoặc “chiến binh anime trong rừng”."
+    },
+    {
+      "title": "Chọn mô hình và phong cách",
+      "description": "Chọn DALL·E hoặc Stable Diffusion. Tùy chỉnh tâm trạng, phong cách và độ phân giải."
+    },
+    {
+      "title": "Tạo hình ảnh không giới hạn",
+      "description": "Nhấn tạo để tạo ảnh. Xem trước và tải xuống ngay lập tức – không cần đăng nhập."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Công cụ AI chuyển văn bản thành hình ảnh này có miễn phí không?",
+      "answer": "Có. Trình tạo AI này hoàn toàn miễn phí và không yêu cầu đăng nhập hoặc đăng ký."
+    },
+    {
+      "question": "Tôi có thể tạo hình ảnh không giới hạn không?",
+      "answer": "Có, bạn có thể tạo nhiều hình ảnh AI mà không giới hạn hay cần điểm tín dụng."
+    },
+    {
+      "question": "Có hỗ trợ tạo hình ảnh chân thực không?",
+      "answer": "Có, bạn có thể chọn phong cách thực tế, anime hoặc nghệ thuật kỹ thuật số với các tùy chọn tâm trạng và ánh sáng."
+    },
+    {
+      "question": "Những mô hình AI nào có sẵn?",
+      "answer": "Bạn có thể dùng OpenAI DALL·E hoặc Stable Diffusion tùy theo sở thích thị giác."
+    },
+    {
+      "question": "Tôi có cần tải ứng dụng không?",
+      "answer": "Không. Đây là trình tạo ảnh từ văn bản AI trên trình duyệt, không cần cài đặt."
+    },
+    {
+      "question": "Ảnh tôi tạo được lưu ở đâu?",
+      "answer": "Ảnh được lưu trong thư viện công cộng của OneAIKit và có thể truy cập qua URL."
+    }
+  ],
+  "metadata": {
+    "title": "Trình tạo ảnh từ văn bản AI miễn phí và không giới hạn – Không cần đăng nhập | OneAIKit",
+    "description": "Sử dụng trình tạo AI chuyển văn bản thành ảnh của chúng tôi để tạo ảnh chân thực hoặc nghệ thuật không giới hạn từ các đoạn văn bản. 100% miễn phí, không cần đăng nhập hoặc đăng ký.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Trình tạo ảnh từ văn bản AI miễn phí và không giới hạn – Không cần đăng nhập | OneAIKit",
+      "description": "Chuyển văn bản thành ảnh bằng trình tạo AI của chúng tôi, được hỗ trợ bởi DALL·E và Stable Diffusion. Miễn phí, chân thực và không cần đăng ký.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Trình tạo ảnh từ văn bản AI miễn phí - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trình tạo ảnh từ văn bản AI – Miễn phí, không cần đăng nhập",
+      "description": "Tạo ảnh AI trực tuyến từ các đoạn văn bản. Miễn phí trọn đời, không giới hạn và không cần đăng ký.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai văn bản thành ảnh",
+      "trình tạo ai văn bản thành ảnh",
+      "ai văn bản thành ảnh miễn phí",
+      "trình tạo văn bản thành ảnh ai",
+      "trình tạo ảnh ai từ văn bản",
+      "ai văn bản thành ảnh miễn phí không giới hạn",
+      "chuyển đổi văn bản thành ảnh ai",
+      "trình tạo ảnh ai chân thực",
+      "trình tạo ảnh ai không cần đăng nhập",
+      "văn bản thành ảnh ai trực tuyến miễn phí"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Nghệ sĩ kỹ thuật số",
+      "content": "Đây là trình tạo AI văn bản thành ảnh tốt nhất tôi từng dùng. Miễn phí và cho kết quả rất chân thực!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Người tạo nội dung",
+      "content": "Hoàn hảo cho hình ảnh trên mạng xã hội. Tôi thích cách có thể tạo ảnh ngay lập tức từ bất kỳ đoạn văn nào.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Chuyên gia marketing",
+      "content": "Cuối cùng thì cũng có trình tạo ảnh AI miễn phí, không cần đăng nhập và xuất ảnh chất lượng cao!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Trình tạo ảnh từ văn bản AI miễn phí – Không cần đăng nhập",
+    "subtitle": "Tạo ảnh từ trí tưởng tượng của bạn",
+    "description": "Chuyển đổi văn bản thành ảnh AI chân thực hoặc nghệ thuật ngay lập tức. Miễn phí, không giới hạn và không cần đăng ký. Hỗ trợ bởi DALL·E và Stable Diffusion.",
+    "badgeText": "Hỗ trợ phong cách thực tế và anime",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Trình tạo ảnh từ văn bản AI miễn phí",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": "AI 기사 생성기 무료 온라인 – 이미지 포함, 로그인 불필요",
+  "subtitle": "AI를 사용하여 SEO 최적화된 블로그 기사 생성",
+  "description": "이미지, 제목, 개요, HTML을 포함한 콘텐츠를 무료로 생성하세요. 회원가입 없이 바로 이용 가능합니다.",
+  "badgeText": "이제 AI로 기사를 작성할 수 있습니다",
+  "whoCanUse": "이 도구는 누가 사용할 수 있나요?",
+  "whyUseTitle": "왜 무료 AI 기사 생성기를 사용해야 하나요?",
+  "whyUseSubtitle": "복잡함 없이 AI로 콘텐츠를 손쉽게 생성하세요.",
+  "benefits": [
+    "몇 초 만에 전체 기사 생성",
+    "100% 무료, 로그인 필요 없음",
+    "AI가 생성한 이미지 포함",
+    "SEO 최적화된 HTML로 바로 내보내기 가능"
+  ],
+  "howItWorks": [
+    {
+      "title": "주제를 선택하세요",
+      "description": "주제를 입력하면 AI가 SEO에 적합한 키워드를 자동으로 생성합니다."
+    },
+    {
+      "title": "단계별로 콘텐츠 생성",
+      "description": "키워드, 제목, 개요, 이미지까지 선택하여 기사 생성"
+    },
+    {
+      "title": "즉시 기사 내보내기",
+      "description": "HTML 형식의 완성된 블로그 기사를 내보내어 바로 게시할 수 있습니다."
+    }
+  ],
+  "faq": [
+    {
+      "question": "이 AI 기사 생성기는 정말 무료인가요?",
+      "answer": "네, 100% 무료입니다. 로그인이나 결제 정보는 필요하지 않습니다."
+    },
+    {
+      "question": "회원가입이나 로그인해야 하나요?",
+      "answer": "아니요. 이 도구는 로그인 없이 바로 사용할 수 있습니다."
+    },
+    {
+      "question": "이미지가 포함된 기사도 만들 수 있나요?",
+      "answer": "네, AI가 생성한 이미지가 콘텐츠에 포함됩니다."
+    },
+    {
+      "question": "어떤 형식으로 기사를 내보낼 수 있나요?",
+      "answer": "HTML 형식으로 내보낼 수 있어 블로그나 CMS에서 바로 사용할 수 있습니다."
+    },
+    {
+      "question": "요약 기능도 있나요?",
+      "answer": "현재는 전체 기사 생성에 초점이 맞춰져 있으며, 요약 기능은 추후 제공될 예정입니다."
+    },
+    {
+      "question": "이 도구는 SEO에 적합한가요?",
+      "answer": "물론입니다. 키워드와 구조를 고려한 SEO 최적화 콘텐츠를 생성합니다."
+    },
+    {
+      "question": "상품 리뷰나 사용법 글도 작성 가능한가요?",
+      "answer": "네. 리뷰, 튜토리얼 등 다양한 유형의 구조화된 콘텐츠를 만들 수 있습니다."
+    },
+    {
+      "question": "재작성이나 문장 바꾸기도 가능한가요?",
+      "answer": "현재는 지원하지 않지만, 향후 재작성 및 요약 기능이 추가될 예정입니다."
+    },
+    {
+      "question": "학술적인 글쓰기에 사용할 수 있나요?",
+      "answer": "연구를 대체하진 않지만, 초안 작성이나 아이디어 구상에 유용합니다."
+    },
+    {
+      "question": "모바일에서도 작동하나요?",
+      "answer": "네, 모바일 반응형으로 모든 최신 브라우저와 기기에서 사용할 수 있습니다."
+    }
+  ],
+  "testimonialsTitle": "사용자 후기",
+  "testimonialsSubtitle": "실제 이용자들의 피드백",
+  "testimonials": [
+    {
+      "name": "사라",
+      "role": "콘텐츠 마케터",
+      "content": "이건 제가 블로그 글을 가장 빠르게 작성한 방법이에요. 게다가 무료라니 놀랍네요.",
+      "rating": 5
+    },
+    {
+      "name": "리즈키",
+      "role": "SEO 전문가",
+      "content": "이 도구로 클라이언트용 게시글과 설명문을 작성합니다. 시간 절약에 최고예요!",
+      "rating": 5
+    },
+    {
+      "name": "디나",
+      "role": "프리랜서 작가",
+      "content": "AI 기사 생성기로 초안을 빠르게 만들 수 있어서 정말 편리합니다.",
+      "rating": 4
+    },
+    {
+      "name": "안디",
+      "role": "학생",
+      "content": "이 무료 AI 도구로 리서치 페이퍼에 필요한 아이디어와 구조를 쉽게 짤 수 있었어요!",
+      "rating": 5
+    },
+    {
+      "name": "제임스",
+      "role": "블로거",
+      "content": "이미지까지 지원하고 로그인도 필요 없는 AI 기사 생성기는 처음이에요!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "AI 기사 생성기 무료 - 이미지 포함, 로그인 없음 | OneAIKit",
+    "description": "SEO 최적화 블로그 콘텐츠를 AI로 생성하세요. 무료, 로그인 불필요. 제목, 개요, HTML 기사까지 즉시 생성.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "AI 기사 생성기 무료 - 이미지 포함, 로그인 없음 | OneAIKit",
+      "description": "몇 초 만에 블로그 기사를 생성하세요. 이미지와 HTML 내보내기 포함. 블로거, 마케터, 학생에게 완벽한 도구.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "무료 AI 기사 생성기 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI 기사 생성기 무료 - 이미지 포함, 로그인 없음 | OneAIKit",
+      "description": "AI로 몇 초 만에 기사 작성. 로그인 필요 없이 이미지와 HTML도 생성 가능.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai 기사 생성기",
+      "무료 기사 작성기",
+      "ai 블로그 글 작성",
+      "로그인 없이 콘텐츠 작성",
+      "이미지 포함 ai 기사",
+      "seo 콘텐츠 ai 툴",
+      "온라인 기사 생성기"
+    ]
+  },
+  "hero": {
+    "title": "무료 AI 기사 생성기 – 로그인 없이 사용 가능",
+    "subtitle": "AI로 SEO 최적화된 블로그 기사 작성. 이미지, 제목, 개요, HTML 포함 – 전부 무료.",
+    "description": "강력한 무료 AI 생성기로 몇 초 안에 블로그 콘텐츠 생성. HTML과 이미지 즉시 다운로드.",
+    "badgeText": "이제 AI로 기사를 작성해보세요",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI 기사 생성기",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

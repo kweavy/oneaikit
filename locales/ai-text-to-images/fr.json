@@ -1,0 +1,140 @@
+{
+  "title": "Générateur de Texte en Image IA Gratuit et Illimité – Sans Connexion | OneAIKit",
+  "subtitle": "Créez des images à partir de votre imagination",
+  "description": "Convertissez instantanément du texte en images IA réalistes ou artistiques. Gratuit, illimité, et sans inscription. Propulsé par DALL·E et Stable Diffusion.",
+  "badgeText": "Prise en charge des styles réalistes et anime",
+  "whoCanUse": "Qui peut utiliser cet outil de texte en image ?",
+  "whyUseTitle": "Pourquoi utiliser notre générateur de texte en image IA ?",
+  "whyUseSubtitle": "Illimité, flexible, et sans connexion requise.",
+  "benefits": [
+    "Utilisation 100 % gratuite et illimitée.",
+    "Pas besoin de connexion ou d’inscription.",
+    "Choisissez entre style réaliste ou anime.",
+    "Téléchargez instantanément des images en haute résolution."
+  ],
+  "howItWorks": [
+    {
+      "title": "Entrez votre texte",
+      "description": "Tapez ce que vous voulez voir, par exemple, « ville futuriste au coucher du soleil » ou « guerrier anime dans la forêt »."
+    },
+    {
+      "title": "Choisissez modèle et style",
+      "description": "Sélectionnez DALL·E ou Stable Diffusion. Personnalisez l’ambiance, le style et la résolution."
+    },
+    {
+      "title": "Générez des images illimitées",
+      "description": "Cliquez sur générer pour créer vos images. Prévisualisez et téléchargez instantanément – sans connexion."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Cet outil IA de texte en image est-il gratuit ?",
+      "answer": "Oui. Ce générateur de texte en image IA est 100 % gratuit et ne nécessite aucune inscription."
+    },
+    {
+      "question": "Puis-je générer des images illimitées ?",
+      "answer": "Oui, vous pouvez créer plusieurs images IA sans aucune limite ni crédits."
+    },
+    {
+      "question": "Supporte-t-il la génération d’images réalistes ?",
+      "answer": "Oui, vous pouvez choisir des styles réalistes, anime ou art digital avec des options d’ambiance et d’éclairage."
+    },
+    {
+      "question": "Quels modèles IA sont disponibles ?",
+      "answer": "Vous pouvez utiliser OpenAI DALL·E ou Stable Diffusion selon vos préférences visuelles."
+    },
+    {
+      "question": "Dois-je télécharger une application ?",
+      "answer": "Non. C’est un générateur IA de texte en image basé sur navigateur. Aucune installation requise."
+    },
+    {
+      "question": "Où sont stockées mes images générées ?",
+      "answer": "Les images sont stockées dans la galerie publique de OneAIKit et accessibles via URL."
+    }
+  ],
+  "metadata": {
+    "title": "Générateur de Texte en Image IA Gratuit et Illimité – Sans Connexion | OneAIKit",
+    "description": "Utilisez notre générateur IA de texte en image pour créer des images réalistes ou artistiques illimitées à partir de vos textes. 100 % gratuit, sans inscription ni abonnement.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Générateur IA de Texte en Image Gratuit et Illimité – Sans Connexion | OneAIKit",
+      "description": "Convertissez du texte en image avec notre générateur IA propulsé par DALL·E et Stable Diffusion. Gratuit, réaliste et sans inscription.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Générateur IA de Texte en Image Gratuit - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Générateur IA de Texte en Image – Gratuit, sans connexion",
+      "description": "Générez des images IA en ligne à partir de texte. Gratuit à vie, usage illimité, sans inscription.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ia texte en image",
+      "générateur ia texte en image",
+      "texte en image gratuit",
+      "générateur texte en image ia",
+      "générateur image ia à partir de texte",
+      "texte en image ia gratuit illimité",
+      "convertisseur texte en image ia",
+      "générateur image réaliste ia",
+      "générateur image ia sans connexion",
+      "texte en image ia en ligne gratuit"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Artiste numérique",
+      "content": "C’est le meilleur générateur IA de texte en image que j’ai utilisé. Gratuit et très réaliste !",
+      "rating": 5
+    },
+    {
+      "name": "Léo",
+      "role": "Créateur de contenu",
+      "content": "Parfait pour les visuels sur les réseaux sociaux. J’adore générer des images instantanément avec n’importe quelle description.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Spécialiste marketing",
+      "content": "Enfin un générateur d’images IA gratuit sans connexion et avec export qualité maximale !",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Générateur IA Texte en Image Gratuit – Sans Connexion",
+    "subtitle": "Créez des images depuis votre imagination",
+    "description": "Convertissez instantanément du texte en images réalistes ou artistiques avec l’IA. Gratuit, illimité, sans inscription. Propulsé par DALL·E et Stable Diffusion.",
+    "badgeText": "Maintenant avec styles réalistes & anime",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Générateur gratuit de texte en image",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

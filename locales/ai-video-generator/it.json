@@ -1,0 +1,140 @@
+{
+  "title": "Generatore Video AI Gratis – Da Testo o Immagine, Senza Filigrana | OneAIKit",
+  "subtitle": "Crea video AI istantaneamente dalle tue idee",
+  "description": "Genera video AI online da prompt di testo o immagini utilizzando modelli potenti come Kling AI e Stable Diffusion. 100% gratuito, senza filigrana, nessun login richiesto.",
+  "badgeText": "Da Testo a Video & Da Immagine a Video alimentato da AI",
+  "whoCanUse": "Chi può utilizzare questo Generatore Video AI?",
+  "whyUseTitle": "Perché usare il Generatore Video AI di OneAIKit?",
+  "whyUseSubtitle": "Gratuito, senza filigrana e progettato per la creatività.",
+  "benefits": [
+    "Crea video da prompt di testo o immagine.",
+    "Supporta Kling AI e Stability Diffusion.",
+    "Nessuna filigrana, uso illimitato.",
+    "Interfaccia facile da usare per tutti i livelli di esperienza."
+  ],
+  "howItWorks": [
+    {
+      "title": "Inserisci il prompt o carica un’immagine",
+      "description": "Scegli se digitare un’idea per il video o caricare un’immagine da animare."
+    },
+    {
+      "title": "Seleziona stile e rapporto d’aspetto",
+      "description": "Personalizza l’animazione con stili cinematografici, ghibli o pixel e scegli il formato video."
+    },
+    {
+      "title": "Genera e scarica l’MP4",
+      "description": "Clicca su Genera e attendi qualche secondo. Il tuo video AI sarà pronto per essere salvato e condiviso."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Questo generatore video AI è gratuito?",
+      "answer": "Sì, OneAIKit offre uno strumento di generazione video AI al 100% gratuito. Nessuna carta di credito o login richiesto."
+    },
+    {
+      "question": "Posso generare video sia da testo che da immagine?",
+      "answer": "Assolutamente! Puoi generare video da prompt di testo o caricamenti di immagini con descrizioni di stile opzionali."
+    },
+    {
+      "question": "I video generati hanno filigrane?",
+      "answer": "No. Tutti i video generati con questo strumento sono privi di filigrane e possono essere utilizzati commercialmente."
+    },
+    {
+      "question": "Devo installare qualche app?",
+      "answer": "Nessuna installazione è richiesta. Tutto funziona nel tuo browser per una generazione video AI istantanea."
+    },
+    {
+      "question": "Quali modelli vengono utilizzati per la generazione video?",
+      "answer": "Supportiamo Kling AI per il testo in video e Stability AI per la generazione da immagine a video con movimento realistico."
+    },
+    {
+      "question": "Posso usare questo generatore video AI per contenuti YouTube o TikTok?",
+      "answer": "Sì. Il nostro strumento supporta formati adatti ai social media, contenuti brevi e narrazione creativa."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Creatore YouTube",
+      "content": "Incredibilmente facile da usare. Ho generato un video AI cinematografico con una sola frase!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animatrice",
+      "content": "Ho provato altri strumenti ma questo generatore video AI offre l’output più pulito senza filigrane.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Marketer Digitale",
+      "content": "Ottimo strumento per creare rapidamente contenuti video per annunci e post social. Gratuito e flessibile!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Generatore Video AI Gratis – Da Testo o Immagine, Senza Filigrana | OneAIKit",
+    "description": "Genera video AI online da prompt di testo o immagini utilizzando modelli potenti come Kling AI e Stable Diffusion. 100% gratuito, senza filigrana, nessun login richiesto.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Generatore Video AI Gratis – Da Testo o Immagine | OneAIKit",
+      "description": "Crea video generati da AI da testo o immagini con il nostro strumento online. Nessun login, senza filigrana e completamente gratuito.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Generatore Video AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generatore Video AI Gratis Online – Nessun Login Richiesto",
+      "description": "Genera video AI da prompt di testo o foto. 100% gratuito, senza filigrana, alimentato da Kling e Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "generatore video ai",
+      "generatore video ai gratis",
+      "generatore video ai da testo gratis",
+      "generatore video ai senza filigrana",
+      "generatore video ai da immagine",
+      "genera video ai da testo",
+      "testo a video ai",
+      "generatore testo a video ai",
+      "genera video ai gratis",
+      "miglior strumento ai per generare video da testo"
+    ]
+  },
+  "hero": {
+    "title": "Generatore Video AI – Da Testo o Immagine, Gratis & Senza Filigrana",
+    "subtitle": "Crea video AI istantaneamente dalle tue idee",
+    "description": "Genera video AI online da prompt di testo o immagine utilizzando l’ultima tecnologia. Nessun login richiesto.",
+    "badgeText": "Da Testo a Video & Da Immagine a Video alimentato da AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generatore Video AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}
