@@ -1,0 +1,121 @@
+{
+  "title": "AI로 제품 사진 무료로 합치기",
+  "subtitle": "여러 이미지를 AI로 하나의 프레임에 합치기",
+  "description": "제품 사진을 업로드하고 AI로 병합하여 고해상도 이미지로 다운로드하세요. 워터마크 없이 무료로 이용 가능합니다.",
+  "badgeText": "AI로 제품 이미지 병합 및 향상",
+  "whoCanUse": "이 사진 병합 도구는 누가 사용할 수 있나요?",
+  "whyUseTitle": "왜 우리의 AI 사진 병합 도구를 사용해야 하나요?",
+  "whyUseSubtitle": "전문가처럼 제품 사진을 병합할 수 있는 빠르고 무료 솔루션입니다.",
+  "benefits": [
+    "두 장 이상의 제품 사진을 하나의 프레임으로 병합",
+    "보석, 패션, 에이전시에 이상적",
+    "디자인 기술이나 소프트웨어 필요 없음",
+    "완전 무료, 워터마크 없음"
+  ],
+  "howItWorks": [
+    {
+      "title": "여러 사진 업로드",
+      "description": "다양한 각도나 세팅의 두 장 이상의 제품 사진을 업로드합니다."
+    },
+    {
+      "title": "병합 스타일 선택",
+      "description": "레이아웃, 정렬, 장면 구성 등 원하는 병합 방식을 선택합니다."
+    },
+    {
+      "title": "생성 및 다운로드",
+      "description": "AI가 하나의 병합된 사진을 생성하고 즉시 다운로드할 수 있습니다. 워터마크 없음."
+    }
+  ],
+  "faq": [
+    {
+      "question": "두 장 이상의 사진을 하나로 병합할 수 있나요?",
+      "answer": "네, 이미지를 업로드하면 AI가 자동으로 하나의 프레임으로 병합해 줍니다."
+    },
+    {
+      "question": "이 도구는 에이전시나 카탈로그 촬영에 적합한가요?",
+      "answer": "물론입니다! 빠르고 고품질의 병합 이미지를 제공하므로 에이전시에 이상적입니다."
+    },
+    {
+      "question": "로그인하거나 결제해야 하나요?",
+      "answer": "아니요. 이 도구는 100% 무료이며 로그인이나 워터마크가 필요하지 않습니다."
+    }
+  ],
+  "metadata": {
+    "title": "AI 사진 병합 도구 – 제품 및 에이전시용 무료 툴 | OneAIKit",
+    "description": "여러 제품 사진을 AI로 하나의 이미지로 병합하세요. 에이전시, 전자상거래, 카탈로그 촬영에 적합. 로그인 없이 무료 사용, 워터마크 없음.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI 사진 병합 – 제품 및 에이전시 촬영용 무료 도구",
+      "description": "AI로 여러 제품 사진을 하나의 프레임으로 병합하세요. 보석, 패션, 전자상거래에 적합. 워터마크 없이 100% 무료.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI 제품 사진 병합 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI로 제품 사진 병합 – 크리에이터 및 브랜드용 무료 도구",
+      "description": "두 장 이상의 제품 사진을 AI로 하나로 병합하세요. 사진 작가, 에이전시, 디자이너를 위한 툴.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "AI 사진 병합",
+      "AI 두 장 사진 병합",
+      "무료 사진 병합 AI",
+      "에이전시 제품 촬영 AI",
+      "제품 이미지 병합 AI",
+      "전자상거래 사진 병합",
+      "보석 사진 병합 AI"
+    ]
+  },
+  "testimonialsTitle": "사용자 후기",
+  "testimonialsSubtitle": "에이전시 및 전문가들이 신뢰합니다",
+  "testimonials": [
+    {
+      "name": "아리아 K.",
+      "role": "제품 사진작가",
+      "content": "포토샵 없이 여러 사진을 병합할 수 있는 도구를 찾았어요. 정말 시간을 아껴줍니다!",
+      "rating": 5
+    },
+    {
+      "name": "레오 W.",
+      "role": "에이전시 크리에이티브 디렉터",
+      "content": "클라이언트들이 병합된 비주얼을 정말 좋아해요. OneAIKit 덕분에 사진 작업이 간편해졌습니다.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "AI로 제품 사진 무료로 합치기",
+    "subtitle": "여러 이미지를 AI로 하나의 프레임에 합치기",
+    "description": "제품 사진을 업로드하고 AI로 병합하여 고해상도 이미지로 다운로드하세요. 워터마크 없이 무료로 이용 가능합니다.",
+    "badgeText": "AI로 제품 이미지 병합 및 향상",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI 사진 병합",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

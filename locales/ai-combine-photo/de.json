@@ -1,0 +1,121 @@
+{
+  "title": "Produktfotos mit KI kostenlos kombinieren",
+  "subtitle": "Mehrere Aufnahmen in einem Bild mit KI zusammenfügen",
+  "description": "Lade Produktfotos hoch, kombiniere sie mit KI und lade ein hochauflösendes, zusammengesetztes Bild ohne Wasserzeichen kostenlos herunter.",
+  "badgeText": "Produktbilder kombinieren & mit KI verbessern",
+  "whoCanUse": "Wer kann dieses Tool zur Fotokombination verwenden?",
+  "whyUseTitle": "Warum unser KI-Fotokombinations-Tool nutzen?",
+  "whyUseSubtitle": "Schnelle und kostenlose Lösung für professionelle Produktbild-Kombinationen.",
+  "benefits": [
+    "Zwei oder mehr Produktfotos in einem Bild zusammenfügen",
+    "Ideal für Schmuck, Mode und Kreativagenturen",
+    "Keine Designkenntnisse oder Software erforderlich",
+    "Völlig kostenlos und ohne Wasserzeichen"
+  ],
+  "howItWorks": [
+    {
+      "title": "Mehrere Fotos hochladen",
+      "description": "Lade zwei oder mehr Produktfotos aus verschiedenen Perspektiven oder Setups hoch."
+    },
+    {
+      "title": "Kombinationsstil wählen",
+      "description": "Wähle aus, wie die Bilder kombiniert werden sollen – Layout, Ausrichtung oder Szenenkomposition."
+    },
+    {
+      "title": "Generieren & Herunterladen",
+      "description": "Die KI generiert ein kombiniertes Foto. Lade es sofort ohne Wasserzeichen herunter."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kann ich zwei oder mehr Produktfotos zu einem Bild kombinieren?",
+      "answer": "Ja, lade einfach deine Bilder hoch und die KI kombiniert sie zu einem einzigen Rahmen."
+    },
+    {
+      "question": "Ist dieses Tool für Agentur- oder Katalogaufnahmen geeignet?",
+      "answer": "Absolut! Es wurde für Agenturen entwickelt, die schnell hochwertige kombinierte Produktbilder benötigen."
+    },
+    {
+      "question": "Muss ich mich anmelden oder bezahlen?",
+      "answer": "Nein. Dieses Tool ist 100 % kostenlos, ohne Anmeldung und ohne Wasserzeichen."
+    }
+  ],
+  "metadata": {
+    "title": "KI kombiniert Fotos – Kostenloses Tool für Produkt- & Agenturfotos | OneAIKit",
+    "description": "Kombiniere mehrere Produktfotos mit KI zu einem Bild. Perfekt für Agenturen, E-Commerce und Katalogfotos. Kostenlos, ohne Anmeldung, ohne Wasserzeichen.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "Fotos kombinieren mit KI – Kostenloses Tool für Agenturen & Marken",
+      "description": "Kombiniere mehrere Produktbilder mit KI in einem einzigen Bild. Ideal für Schmuck-, Mode- und E-Commerce-Fotografie.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "KI kombiniert Produktfotos - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Produktbilder mit KI kombinieren – Kostenloses Tool für Kreative & Agenturen",
+      "description": "Nutze KI, um zwei oder mehr Produktfotos zu einem Bild zu vereinen. Entwickelt für Fotografen, Agenturen und Designer.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ki fotos kombinieren",
+      "ki zwei bilder in einem rahmen kombinieren",
+      "kostenloses tool bilder zusammenfügen",
+      "ki für agentur-produktfotografie",
+      "produktbilder zusammenfügen mit ki",
+      "e-commerce foto kombinieren",
+      "schmuckfotos mit ki kombinieren"
+    ]
+  },
+  "testimonialsTitle": "Was Nutzer sagen",
+  "testimonialsSubtitle": "Vertrauenswürdig von Agenturen und Profis",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Produktfotografin",
+      "content": "Endlich ein Tool zum Kombinieren von Fotos ohne Photoshop. Spart mir Stunden!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Kreativdirektor einer Agentur",
+      "content": "Unsere Kunden lieben die kombinierten Bilder. OneAIKit macht Bildkomposition einfach.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Produktfotos mit KI kostenlos kombinieren",
+    "subtitle": "Mehrere Aufnahmen in einem Bild mit KI zusammenfügen",
+    "description": "Lade Produktfotos hoch, kombiniere sie mit KI und lade ein hochauflösendes, zusammengesetztes Bild ohne Wasserzeichen kostenlos herunter.",
+    "badgeText": "Produktbilder kombinieren & mit KI verbessern",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit – KI kombiniert Fotos",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

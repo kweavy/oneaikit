@@ -1,0 +1,140 @@
+{
+  "title": "Generator Filter Foto AI Gratis – Ghibli, Anime, dan Lainnya | OneAIKit",
+  "subtitle": "Terapkan filter foto AI seperti Ghibli, anime, realistis, kartun, dan lainnya. 100% gratis, tanpa perlu login. Tingkatkan dan gaya foto Anda secara instan dengan AI.",
+  "description": "Unggah gambar Anda dan terapkan filter menakjubkan seperti Ghibli, Anime, Pixel Art, Kartun, dan lainnya. Gratis selamanya, tanpa perlu daftar.",
+  "badgeText": "Kini Mendukung 15+ Gaya",
+  "whoCanUse": "Siapa yang Bisa Menggunakan Alat Filter Foto AI Ini?",
+  "whyUseTitle": "Mengapa Menggunakan Generator Filter Foto AI Kami?",
+  "whyUseSubtitle": "Gratis, instan, dan transformasi menakjubkan.",
+  "benefits": [
+    "Gunakan 15+ gaya filter visual seperti Ghibli dan Kartun",
+    "Tanpa perlu mendaftar atau kartu kredit",
+    "Dioptimalkan untuk perangkat mobile & desktop",
+    "Dapatkan gambar base64 atau yang bisa diunduh"
+  ],
+  "howItWorks": [
+    {
+      "title": "Unggah foto",
+      "description": "Pilih file JPG atau PNG yang ingin Anda gaya."
+    },
+    {
+      "title": "Pilih gaya filter",
+      "description": "Pilih dari anime, ghibli, kartun, realistis, dan banyak gaya lainnya."
+    },
+    {
+      "title": "Unduh gambar Anda",
+      "description": "Dapatkan gambar yang telah diubah secara instan dan gunakan di mana saja."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apakah alat filter foto AI ini gratis?",
+      "answer": "Ya! Filter AI ini sepenuhnya gratis dan tidak memerlukan login."
+    },
+    {
+      "question": "Gaya apa saja yang bisa saya terapkan ke foto saya?",
+      "answer": "Anda bisa menerapkan gaya seperti Ghibli, anime, kartun, pixel art, realistis, dan lainnya."
+    },
+    {
+      "question": "Apakah saya perlu menginstal sesuatu?",
+      "answer": "Tidak, alat ini bekerja langsung di browser Anda."
+    },
+    {
+      "question": "Bisakah saya mengunggah foto sendiri?",
+      "answer": "Ya. Anda bisa mengunggah gambar sendiri dan menerapkan gaya filter apa pun yang Anda pilih."
+    },
+    {
+      "question": "Di mana hasilnya disimpan?",
+      "answer": "Foto yang dihasilkan akan langsung ditampilkan dan bisa diunduh."
+    },
+    {
+      "question": "Apakah alat ini bekerja di ponsel?",
+      "answer": "Ya, alat filter foto AI ini bekerja di perangkat desktop dan mobile."
+    }
+  ],
+  "metadata": {
+    "title": "Generator Filter Foto AI Gratis – Ghibli, Anime, Kartun & Lainnya | OneAIKit",
+    "description": "Ubah foto Anda menggunakan filter AI seperti Ghibli, anime, kartun, dan lainnya. Cepat, gratis, dan tanpa perlu daftar.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Filter Foto AI Gratis – Ghibli, Anime, Kartun, Realistis | OneAIKit",
+      "description": "Ubah foto Anda menggunakan filter AI seperti Ghibli, anime, kartun, dan lainnya. Cepat, gratis, dan tanpa perlu daftar.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Generator Filter Foto AI Gratis - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Filter Foto AI – Anime, Ghibli, Kartun | Alat Gratis Online",
+      "description": "Gunakan AI untuk mempercantik foto Anda dalam hitungan detik. Coba anime, ghibli, kartun, dan banyak filter lainnya. Gratis dan tak terbatas.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "filter foto ai",
+      "filter foto ai gratis online",
+      "filter foto ai ghibli",
+      "filter foto ai anime",
+      "filter foto ai gratis",
+      "aplikasi filter foto ai",
+      "penghapus filter foto ai",
+      "editor filter foto ai",
+      "generator filter foto ai",
+      "peningkat filter foto ai"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Pembuat Konten",
+      "content": "Saya mengubah selfie membosankan saya menjadi seni anime! Alat filter foto gratis yang luar biasa dengan banyak gaya!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "Filter Ghibli adalah favorit saya. Memberi foto saya nuansa seperti mimpi. Sangat direkomendasikan!",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Desainer",
+      "content": "Sempurna untuk seni konsep cepat. Unggah foto, terapkan filter, selesai. Tidak perlu daftar!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Generator Filter Foto AI – Ghibli, Anime, Kartun & Lainnya",
+    "subtitle": "Gaya foto Anda menggunakan AI secara gratis",
+    "description": "Unggah gambar Anda dan terapkan filter menakjubkan seperti Ghibli, Anime, Pixel Art, Kartun, dan lainnya. Gratis selamanya, tanpa login.",
+    "badgeText": "Kini Mendukung 15+ Gaya",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generator Filter Foto AI Gratis",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

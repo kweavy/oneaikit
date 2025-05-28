@@ -1,0 +1,168 @@
+{
+  "title": "Générateur d’Articles IA Gratuit en Ligne avec Images – Sans Connexion",
+  "subtitle": "Générez des articles de blog optimisés pour le SEO grâce à l’IA",
+  "description": "Créez du contenu avec images, titres, plans et HTML – tout cela gratuitement, sans inscription.",
+  "badgeText": "Vous pouvez maintenant écrire des articles avec l’IA",
+  "whoCanUse": "Qui peut utiliser cet outil ?",
+  "whyUseTitle": "Pourquoi utiliser notre générateur d’articles IA gratuit ?",
+  "whyUseSubtitle": "Création de contenu assistée par IA, simple et efficace.",
+  "benefits": [
+    "Générez des articles complets en quelques secondes.",
+    "100 % gratuit, aucune connexion requise.",
+    "Inclut des images générées par l’IA.",
+    "Contenu optimisé SEO exportable en HTML."
+  ],
+  "howItWorks": [
+    {
+      "title": "Choisissez un sujet",
+      "description": "Commencez avec un sujet et laissez notre IA générer les meilleurs mots-clés SEO."
+    },
+    {
+      "title": "Générez le contenu étape par étape",
+      "description": "Sélectionnez les mots-clés, titres, plans et images avec notre générateur IA."
+    },
+    {
+      "title": "Exportez votre article instantanément",
+      "description": "Exportez des articles complets au format HTML, prêts à être publiés. Aucune inscription nécessaire."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ce générateur d’articles IA est-il vraiment gratuit ?",
+      "answer": "Oui, il est entièrement gratuit. Aucune inscription ni carte bancaire requise."
+    },
+    {
+      "question": "Dois-je créer un compte ou me connecter ?",
+      "answer": "Non. Notre outil fonctionne immédiatement, sans inscription."
+    },
+    {
+      "question": "Puis-je générer des articles avec des images ?",
+      "answer": "Oui. Cet outil inclut des images générées par IA pour enrichir votre contenu."
+    },
+    {
+      "question": "Dans quels formats puis-je exporter l’article ?",
+      "answer": "Vous pouvez exporter en HTML propre, idéal pour les blogs ou les CMS."
+    },
+    {
+      "question": "Puis-je utiliser cet outil pour résumer des articles ?",
+      "answer": "Cet outil est axé sur la création complète d’articles, mais des fonctionnalités de résumé arrivent bientôt."
+    },
+    {
+      "question": "Est-ce adapté au contenu SEO ?",
+      "answer": "Absolument. L’IA génère un contenu optimisé avec mots-clés et structure pertinents."
+    },
+    {
+      "question": "Puis-je écrire des avis produits ou tutoriels ?",
+      "answer": "Oui. Générez des plans structurés pour des critiques, guides, et plus encore."
+    },
+    {
+      "question": "L’outil permet-il de reformuler des textes ?",
+      "answer": "Pas encore, mais une fonctionnalité de reformulation arrive dans une prochaine mise à jour."
+    },
+    {
+      "question": "Puis-je l’utiliser pour la rédaction académique ?",
+      "answer": "Ce n’est pas un substitut à la recherche, mais utile pour créer plans et brouillons."
+    },
+    {
+      "question": "Cet outil fonctionne-t-il sur mobile ?",
+      "answer": "Oui, il est compatible mobile et fonctionne sur tous les navigateurs modernes."
+    }
+  ],
+  "testimonialsTitle": "Avis des utilisateurs",
+  "testimonialsSubtitle": "Retours réels de nos créateurs",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "Responsable marketing de contenu",
+      "content": "C’est la façon la plus rapide dont j’ai jamais écrit des articles pour mon blog. Je n’arrive pas à croire que c’est gratuit.",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "Spécialiste SEO",
+      "content": "J’utilise cet outil IA pour créer des descriptions et posts pour mes clients. Un gain de temps énorme !",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Rédactrice freelance",
+      "content": "Le générateur d’articles IA m’aide à créer des brouillons plus rapidement. Parfait pour les blogs et les clients.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Étudiant",
+      "content": "J’ai utilisé cet outil gratuit pour générer des idées pour mon mémoire. C’est incroyable !",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogueur",
+      "content": "Enfin un générateur d’articles IA avec support image et sans connexion requise !",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "Générateur d’Articles IA Gratuit avec Images – Sans Connexion | OneAIKit",
+    "description": "Utilisez notre générateur d’articles IA pour créer du contenu SEO avec images. Gratuit et sans connexion. Générez titres, plans et articles HTML instantanément.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "Générateur d’Articles IA Gratuit avec Images – Sans Connexion | OneAIKit",
+      "description": "Créez des articles de blog en quelques secondes avec notre générateur IA gratuit. Aucune connexion requise. Inclus : génération d’images et export HTML.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "Générateur d’articles IA gratuit avec images – OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Générateur d’Articles IA Gratuit avec Images – Sans Connexion | OneAIKit",
+      "description": "Créez des articles de blog en quelques secondes avec notre générateur IA gratuit. Aucune connexion requise. Inclus : génération d’images et export HTML.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "générateur d’articles ia",
+      "générateur article gratuit",
+      "générateur article en ligne",
+      "générateur article sans login",
+      "article avec images ia",
+      "outil d’article IA",
+      "rédaction seo avec IA",
+      "assistant de contenu gratuit"
+    ]
+  },
+  "hero": {
+    "title": "Générateur d’Articles IA Gratuit – Aucune Connexion Requise",
+    "subtitle": "Générez des articles SEO avec IA. Contenu avec images, titres, plans et HTML – entièrement gratuit.",
+    "description": "Créez du contenu de blog en quelques secondes grâce à notre puissant générateur d’articles IA gratuit. Export HTML et images immédiat.",
+    "badgeText": "Vous pouvez maintenant écrire des articles avec l’IA",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit – Générateur d’Articles IA",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

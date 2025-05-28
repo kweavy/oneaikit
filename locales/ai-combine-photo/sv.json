@@ -1,0 +1,122 @@
+{
+  "title": "Kombinera Produktfoton med AI Gratis",
+  "subtitle": "Slå samman flera bilder till en med AI",
+  "description": "Ladda upp produktbilder, kombinera med AI och ladda ner en högupplöst sammansatt bild – helt gratis och utan vattenstämpel.",
+  "badgeText": "Slå samman produktbilder och förbättra med AI",
+  "whoCanUse": "Vem kan använda detta verktyg för fotokombinering?",
+  "whyUseTitle": "Varför använda vårt AI-verktyg för att kombinera foton?",
+  "whyUseSubtitle": "Ett snabbt och gratis verktyg för att kombinera produktfoton som ett proffs.",
+  "benefits": [
+    "Kombinera två eller fler produktbilder i en bild",
+    "Perfekt för smycken, mode och kreativa byråer",
+    "Inga designkunskaper eller programvara krävs",
+    "Helt gratis och utan vattenstämpel"
+  ],
+  "howItWorks": [
+    {
+      "title": "Ladda upp flera foton",
+      "description": "Ladda upp två eller fler produktbilder från olika vinklar eller uppsättningar."
+    },
+    {
+      "title": "Välj sammanslagningsstil",
+      "description": "Välj hur du vill kombinera bilderna — layout, justering eller scenkomposition."
+    },
+    {
+      "title": "Generera och ladda ner",
+      "description": "Låt AI generera ett sammanslaget foto. Ladda ner det direkt, utan vattenstämpel."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kan jag kombinera två eller fler foton till ett?",
+      "answer": "Ja, ladda bara upp dina bilder och låt AI kombinera dem till en enda bild."
+    },
+    {
+      "question": "Är det här verktyget bra för byråer eller katalogfotograferingar?",
+      "answer": "Absolut! Det är utformat för byråer som behöver snabba, högkvalitativa produktbilder."
+    },
+    {
+      "question": "Behöver jag logga in eller betala?",
+      "answer": "Nej. Verktyget är helt gratis att använda, utan inloggning och utan vattenstämpel."
+    }
+  ],
+  "metadata": {
+    "title": "AI Kombinera Foton – Gratis Verktyg för Produkt- och Byråfotografering | OneAIKit",
+    "description": "Kombinera flera produktfoton till en bild med AI. Perfekt för byråer, e-handel och katalogbilder. Gratis, ingen inloggning, ingen vattenstämpel.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Kombinera Foton – Gratis Verktyg för Produktfotografering",
+      "description": "Slå samman flera produktfoton till en bild med AI. Perfekt för smycken, mode och e-handel. Inga vattenstämplar, helt gratis.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Kombinera Produktfoton - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Kombinera Produktfoton med AI – Gratis Verktyg för Kreatörer och Varumärken",
+      "description": "Använd AI för att slå samman två eller fler produktbilder till en. Utformad för produktfotografer, byråer och designers.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ai kombinera foton till en",
+      "ai kombinera två foton i en bild",
+      "ai slå samman bilder gratis",
+      "ai för produktfotografering byrå",
+      "ai kombinera produktbilder",
+      "kombinera produktfoto till en",
+      "kombinera foto e-handel",
+      "kombinera smyckesfoton med ai"
+    ]
+  },
+  "testimonialsTitle": "Vad Skapare Säger",
+  "testimonialsSubtitle": "Pålitligt av byråer och produktproffs",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Produktfotograf",
+      "content": "Äntligen ett verktyg för att kombinera foton utan Photoshop. Sparar mig timmar!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Kreativ chef på byrå",
+      "content": "Våra kunder älskar de sammansatta bilderna. OneAIKit gör fotokomposition enkelt.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Kombinera Produktfoton med AI Gratis",
+    "subtitle": "Slå samman flera bilder till en med AI",
+    "description": "Ladda upp produktbilder, kombinera med AI och ladda ner en högupplöst sammansatt bild – helt gratis och utan vattenstämpel.",
+    "badgeText": "Slå samman produktbilder och förbättra med AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Kombinera Foton",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

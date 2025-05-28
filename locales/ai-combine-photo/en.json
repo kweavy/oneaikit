@@ -1,0 +1,122 @@
+{
+  "title": "Combine Product Photos with AI Free",
+  "subtitle": "Merge multiple shots into one frame with AI",
+  "description": "Upload product shots, merge with AI, and download a high-resolution composite image – watermark-free and free to use.",
+  "badgeText": "Merge Product Images & Enhance with AI",
+  "whoCanUse": "Who Is This Photo Merge Tool For?",
+  "whyUseTitle": "Why Use Our AI Photo Combine Tool?",
+  "whyUseSubtitle": "Fast and free solution for merging product shots like a pro.",
+  "benefits": [
+    "Combine two or more product photos in one frame",
+    "Ideal for jewelry, fashion, and creative agencies",
+    "No design skills or software required",
+    "Completely free and no watermark"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload Multiple Photos",
+      "description": "Upload two or more product photos from different angles or setups."
+    },
+    {
+      "title": "Choose Merge Style",
+      "description": "Select how you want the images combined — layout, alignment, or scene composition."
+    },
+    {
+      "title": "Generate & Download",
+      "description": "Let the AI generate one merged photo. Download it instantly, watermark-free."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can I combine two or more product photos into one?",
+      "answer": "Yes, simply upload your images and let the AI merge them into a single frame."
+    },
+    {
+      "question": "Is this tool good for agency or catalog shoots?",
+      "answer": "Absolutely! It’s built for agencies needing fast, high-quality merged product visuals."
+    },
+    {
+      "question": "Do I need to sign in or pay?",
+      "answer": "No. This tool is 100% free to use, with no login required and no watermark."
+    }
+  ],
+  "metadata": {
+    "title": "AI Combine Photos into One – Free Tool for Product & Agency Shoots | OneAIKit",
+    "description": "Combine multiple product photos into one image with AI. Perfect for agencies, ecommerce, and catalog shots. Free, no login, no watermark.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Combine Photos – Free Tool for Product Shoots & Agencies",
+      "description": "Merge multiple product photos into a single frame using AI. Great for jewelry, fashion, and ecommerce shots. No watermark, 100% free.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Combine Product Photos - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Combine Product Photos with AI – Free Tool for Creatives & Brands",
+      "description": "Use AI to merge two or more product photos into one. Designed for product photographers, agencies, and designers.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ai combine photos into one",
+      "ai combine two photos in one frame",
+      "ai merge photos free",
+      "ai for agency product shoot",
+      "ai combine product images",
+      "merge product photo into one",
+      "combine photo ecommerce",
+      "combine jewelry photo shoot ai"
+    ]
+  },
+  "testimonialsTitle": "What Creators Say",
+  "testimonialsSubtitle": "Trusted by agencies and product professionals",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Product Photographer",
+      "content": "Finally, a tool to combine multiple photos without Photoshop. Saves me hours!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Agency Creative Director",
+      "content": "Our clients love the merged visuals. OneAIKit makes photo composition effortless.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Combine Product Photos with AI Free",
+    "subtitle": "Merge multiple shots into one frame with AI",
+    "description": "Upload product shots, merge with AI, and download a high-resolution composite image – watermark-free and free to use.",
+    "badgeText": "Merge Product Images & Enhance with AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Combine Photos",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "title": "AI商品写真生成ツール – 無料のモデル＆編集機能付き",
+  "subtitle": "AIでスタジオ品質の商品写真を瞬時に作成",
+  "description": "商品画像をアップロードするか、商品を説明してください。モデルを追加し、スタイルを選択して、ウォーターマークなしの商用利用可能な写真を生成します。",
+  "badgeText": "テキストから画像へ & AIエディターによる画像強化",
+  "whoCanUse": "このAI商品写真ツールは誰が使えますか？",
+  "whyUseTitle": "なぜ当社のAI商品写真エディターを使うべきですか？",
+  "whyUseSubtitle": "モデル付きの高品質商品画像を無料で作成するための最適なツールです。",
+  "benefits": [
+    "数秒でAIが商品写真を生成",
+    "モデル、小道具、影を自動で追加",
+    "ジュエリーや小さなアイテムも高精度で対応",
+    "無料・ウォーターマークなし・ログイン不要"
+  ],
+  "howItWorks": [
+    {
+      "title": "商品をアップロードまたは説明入力",
+      "description": "ベースとなる商品写真をアップロード、または見た目を文章で入力してください。"
+    },
+    {
+      "title": "モデルと編集スタイルを選択",
+      "description": "オプションのモデル、背景、画像強化スタイルを選びます。"
+    },
+    {
+      "title": "即時生成＆ダウンロード",
+      "description": "「生成」ボタンを押すだけで高解像度の商品写真をウォーターマークなしで取得。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "このAI写真ツールは無料ですか？",
+      "answer": "はい！完全無料で、ウォーターマークやログインも不要です。"
+    },
+    {
+      "question": "商品写真にモデルを追加できますか？",
+      "answer": "はい。リアルなライフスタイルシーンでモデル付き画像を生成できます。"
+    },
+    {
+      "question": "ジュエリーの商品にも対応していますか？",
+      "answer": "もちろんです。ジュエリーや小さな物も高精細に表現できます。"
+    },
+    {
+      "question": "Canvaや他のエディターのようなツールですか？",
+      "answer": "はい、ただしAIで自動処理されます。背景編集・強化・モデル配置が自動化されています。"
+    },
+    {
+      "question": "RedditやSNS用コンテンツに使えますか？",
+      "answer": "もちろん可能です。RedditレビューやCanva用モックアップに最適です。"
+    }
+  ],
+  "metadata": {
+    "title": "無料AI商品写真生成 – モデル付きエディター＆編集ツール | OneAIKit",
+    "description": "高品質な商品写真をAIで無料生成。モデル追加・画像強化・ジュエリー対応、ログイン不要・ウォーターマークなし。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI商品写真ツール – モデル・編集付き無料ジェネレーター",
+      "description": "AIで美しい商品画像を簡単生成。モデル追加、背景編集、ジュエリー対応。完全無料、ウォーターマークなし。",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI商品写真 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "無料AI商品写真ジェネレーター – モデル追加＆ジュエリー編集も対応",
+      "description": "AIで商品写真を生成。ECサイト・ジュエリー・デザイン作業に最適。無料・ログイン不要・透かし無し。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "AI商品写真",
+      "無料AI商品写真生成",
+      "AI商品写真モデル付き",
+      "AI写真ジェネレーター無料",
+      "AI商品写真エディター",
+      "AI画像強化ツール",
+      "AIジュエリー写真",
+      "AI商品写真ツール",
+      "Canva用AI商品写真",
+      "Reddit用無料AI商品写真"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "ジュエリー販売業者",
+      "content": "最高のAI商品写真ツールです！リング写真がスタジオで撮ったように見えます。",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "オンラインストアオーナー",
+      "content": "AIが服の写真に完璧なモデルを追加してくれます。もうカメラマンは必要ありません。",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canvaデザイナー",
+      "content": "テンプレート用モックアップ作成に使っています。編集時間を大幅に節約できます。",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI商品写真生成ツール – 無料のモデル＆編集機能付き",
+    "subtitle": "AIでスタジオ品質の商品写真を瞬時に作成",
+    "description": "商品画像をアップロードするか、商品を説明してください。モデルを追加し、スタイルを選択して、ウォーターマークなしの商用利用可能な写真を生成します。",
+    "badgeText": "テキストから画像へ & AIエディターによる画像強化",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI商品写真",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

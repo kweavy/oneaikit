@@ -1,0 +1,140 @@
+{
+  "title": "Darmowy generator wideo AI – z tekstu lub obrazu, bez znaku wodnego | OneAIKit",
+  "subtitle": "Twórz natychmiastowe filmy AI z Twoich pomysłów",
+  "description": "Generuj filmy AI online z tekstowych promptów lub obrazów za pomocą potężnych modeli takich jak Kling AI i Stable Diffusion. 100% darmowe, bez znaku wodnego, bez konieczności logowania.",
+  "badgeText": "Tekst na wideo i obraz na wideo zasilane przez AI",
+  "whoCanUse": "Kto może korzystać z tego generatora wideo AI?",
+  "whyUseTitle": "Dlaczego warto korzystać z generatora wideo AI OneAIKit?",
+  "whyUseSubtitle": "Darmowy, bez znaku wodnego, zaprojektowany z myślą o kreatywności.",
+  "benefits": [
+    "Twórz filmy z tekstowych lub obrazowych promptów.",
+    "Obsługuje Kling AI i Stability Diffusion.",
+    "Bez znaku wodnego, nieograniczone użytkowanie.",
+    "Łatwy w użyciu interfejs dla wszystkich poziomów zaawansowania."
+  ],
+  "howItWorks": [
+    {
+      "title": "Wprowadź prompt lub prześlij obraz",
+      "description": "Wybierz, czy chcesz wpisać pomysł na wideo, czy przesłać obraz do animacji."
+    },
+    {
+      "title": "Wybierz styl i proporcje obrazu",
+      "description": "Dostosuj animację za pomocą stylów kinowych, Ghibli lub pikselowych i wybierz format wideo."
+    },
+    {
+      "title": "Generuj i pobierz MP4",
+      "description": "Kliknij Generuj i poczekaj kilka sekund. Twój film AI będzie gotowy do zapisania i udostępnienia."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy ten generator wideo AI jest darmowy?",
+      "answer": "Tak, OneAIKit oferuje w 100% darmowe narzędzie do generowania wideo AI. Nie wymaga karty kredytowej ani logowania."
+    },
+    {
+      "question": "Czy mogę generować filmy zarówno z tekstu, jak i obrazu?",
+      "answer": "Oczywiście! Możesz generować filmy z tekstowych promptów lub przesyłać obrazy z opcjonalnym opisem stylu."
+    },
+    {
+      "question": "Czy generowane filmy mają znak wodny?",
+      "answer": "Nie. Wszystkie filmy wygenerowane za pomocą tego narzędzia są wolne od znaków wodnych i mogą być używane komercyjnie."
+    },
+    {
+      "question": "Czy muszę instalować jakąś aplikację?",
+      "answer": "Nie wymaga instalacji. Wszystko działa w przeglądarce, umożliwiając natychmiastowe generowanie filmów AI."
+    },
+    {
+      "question": "Jakie modele są używane do generowania wideo?",
+      "answer": "Obsługujemy Kling AI do generowania wideo z tekstu oraz Stability AI do generowania wideo z obrazu z realistycznym ruchem."
+    },
+    {
+      "question": "Czy mogę używać tego generatora wideo AI do treści na YouTube lub TikTok?",
+      "answer": "Tak. Nasze narzędzie obsługuje formaty odpowiednie do mediów społecznościowych, krótkich form i kreatywnego opowiadania historii."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Twórca YouTube",
+      "content": "Niesamowicie łatwy w użyciu. Wygenerowałem film AI o charakterze kinowym zaledwie z jednego zdania!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animator",
+      "content": "Próbowałam innych narzędzi, ale ten generator wideo AI daje najczystsze wyniki bez znaków wodnych.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Specjalista ds. marketingu cyfrowego",
+      "content": "Świetne narzędzie do szybkiego tworzenia treści wideo do reklam i postów społecznościowych. Darmowe i elastyczne!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Darmowy generator wideo AI – z tekstu lub obrazu, bez znaku wodnego | OneAIKit",
+    "description": "Generuj filmy AI online z tekstowych promptów lub obrazów za pomocą potężnych modeli takich jak Kling AI i Stable Diffusion. 100% darmowe, bez znaku wodnego, bez konieczności logowania.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Darmowy generator wideo AI – z tekstu lub obrazu | OneAIKit",
+      "description": "Twórz filmy generowane przez AI z tekstu lub obrazów za pomocą naszego narzędzia online. Bez logowania, bez znaków wodnych i całkowicie darmowe.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Generator wideo AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Darmowy generator wideo AI online – bez logowania",
+      "description": "Generuj filmy AI z tekstowych promptów lub zdjęć. 100% darmowe, bez znaku wodnego, zasilane przez Kling i Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "generator wideo ai",
+      "darmowy generator wideo ai",
+      "generator wideo ai z tekstu darmowy",
+      "generator wideo ai bez znaku wodnego",
+      "generator wideo ai z obrazu",
+      "twórz wideo ai z tekstu",
+      "tekst na wideo ai",
+      "generator tekstu na wideo ai",
+      "darmowe generowanie wideo ai",
+      "najlepsze narzędzie ai do tworzenia wideo z tekstu"
+    ]
+  },
+  "hero": {
+    "title": "Generator wideo AI – z tekstu lub obrazu, darmowy i bez znaku wodnego",
+    "subtitle": "Twórz natychmiastowe filmy AI z Twoich pomysłów",
+    "description": "Generuj filmy AI online z promptów tekstowych lub obrazów, korzystając z najnowszej technologii. Bez potrzeby logowania.",
+    "badgeText": "Tekst na wideo & obraz na wideo wspierane przez AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generator wideo AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

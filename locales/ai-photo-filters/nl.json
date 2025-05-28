@@ -1,0 +1,140 @@
+{
+  "title": "Gratis AI Foto Filter Generator – Ghibli, Anime en meer | OneAIKit",
+  "subtitle": "Pas AI-fotofilters toe zoals Ghibli, anime, realistisch, cartoon en meer. 100% gratis, geen login vereist. Verbeter en stijl je foto's direct met AI.",
+  "description": "Upload je afbeelding en pas verbluffende filters toe zoals Ghibli, Anime, Pixel Art, Cartoon en meer. Voor altijd gratis, zonder registratie.",
+  "badgeText": "Ondersteunt nu meer dan 15 stijlen",
+  "whoCanUse": "Wie kan deze AI-fotofilter tool gebruiken?",
+  "whyUseTitle": "Waarom onze AI-fotofilter generator gebruiken?",
+  "whyUseSubtitle": "Gratis, direct en verbluffende transformatie.",
+  "benefits": [
+    "Gebruik meer dan 15 visuele filterstijlen zoals Ghibli en Cartoon",
+    "Geen aanmelding of creditcard vereist",
+    "Geoptimaliseerd voor mobiel en desktop",
+    "Ontvang base64- of downloadbare afbeeldingen"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload een foto",
+      "description": "Kies elk JPG- of PNG-bestand dat je wilt stylen."
+    },
+    {
+      "title": "Kies een filterstijl",
+      "description": "Kies uit anime, ghibli, cartoon, realistisch en nog veel meer stijlen."
+    },
+    {
+      "title": "Download je afbeelding",
+      "description": "Ontvang direct je getransformeerde afbeelding en gebruik deze waar je maar wilt."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is deze AI-fotofilter tool gratis?",
+      "answer": "Ja! Deze AI-filter tool is volledig gratis en vereist geen login."
+    },
+    {
+      "question": "Welke stijlen kan ik toepassen op mijn foto?",
+      "answer": "Je kunt stijlen toepassen zoals Ghibli, anime, cartoon, pixel art, realistisch en meer."
+    },
+    {
+      "question": "Moet ik iets installeren?",
+      "answer": "Nee, de tool werkt direct in je browser."
+    },
+    {
+      "question": "Kan ik mijn eigen foto uploaden?",
+      "answer": "Ja. Je kunt je eigen afbeelding uploaden en elke gewenste filterstijl toepassen."
+    },
+    {
+      "question": "Waar wordt het resultaat opgeslagen?",
+      "answer": "De gegenereerde foto wordt direct weergegeven en kan worden gedownload."
+    },
+    {
+      "question": "Werkt het op mobiel?",
+      "answer": "Ja, de AI-fotofilter tool werkt op zowel desktop- als mobiele apparaten."
+    }
+  ],
+  "metadata": {
+    "title": "Gratis AI Foto Filter Generator – Ghibli, Anime, Cartoon en meer | OneAIKit",
+    "description": "Transformeer je foto’s met AI-filters zoals Ghibli, anime, cartoon en meer. Snel, gratis en zonder registratie.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Gratis AI Foto Filter – Ghibli, Anime, Cartoon, Realistisch | OneAIKit",
+      "description": "Transformeer je foto’s met AI-filters zoals Ghibli, anime, cartoon en meer. Snel, gratis en zonder registratie.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Gratis AI Foto Filter Generator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI Foto Filter – Anime, Ghibli, Cartoon | Gratis Online Tool",
+      "description": "Gebruik AI om je foto’s binnen enkele seconden te stylen. Probeer anime, ghibli, cartoon en nog veel meer filters. Gratis en onbeperkt.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "ai foto filter",
+      "gratis ai foto filter",
+      "ai foto filter ghibli",
+      "ai foto filter anime",
+      "ai foto filter online",
+      "app ai foto filter",
+      "ai foto filter remover",
+      "ai foto filter editor",
+      "ai foto filter generator",
+      "ai foto filter enhancer"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Content Creator",
+      "content": "Ik veranderde mijn saaie selfies in animekunst! Geweldige gratis fotofilter tool met veel stijlen!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "De Ghibli-filter is mijn favoriet. Het geeft mijn foto’s die dromerige sfeer. Zeker een aanrader!",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Designer",
+      "content": "Perfect voor snelle conceptkunst. Upload een foto, pas een filter toe, klaar. Geen registratie nodig!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI Foto Filter Generator – Ghibli, Anime, Cartoon en meer",
+    "subtitle": "Stijl je foto gratis met AI",
+    "description": "Upload je afbeelding en pas verbluffende filters toe zoals Ghibli, Anime, Pixel Art, Cartoon en meer. Voor altijd gratis, zonder login.",
+    "badgeText": "Nu meer dan 15 stijlen ondersteund",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gratis AI Foto Filter Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Fotografía de Productos con IA – Generador Gratis con Modelos y Herramientas de Edición",
+  "subtitle": "Crea fotos de productos con calidad de estudio al instante usando IA",
+  "description": "Sube una imagen del producto o describe tu artículo. Agrega modelos, elige estilos y genera visuales listos para uso comercial sin marca de agua.",
+  "badgeText": "Texto a Foto y Mejorador de Imágenes con Editor de IA",
+  "whoCanUse": "¿Quién Puede Usar Esta Herramienta de Fotografía de Productos con IA?",
+  "whyUseTitle": "¿Por Qué Usar Nuestro Editor de Fotos de Producto con IA?",
+  "whyUseSubtitle": "Tu solución gratuita para imágenes mejoradas y listas con modelos.",
+  "benefits": [
+    "Genera fotos de producto con IA en segundos",
+    "Agrega automáticamente modelos, accesorios y sombras",
+    "Compatible con joyas y objetos pequeños con alto detalle",
+    "Gratis, sin marca de agua, sin necesidad de registro"
+  ],
+  "howItWorks": [
+    {
+      "title": "Sube tu Producto o Escribe un Prompt",
+      "description": "Sube una imagen básica del producto o describe cómo luce tu artículo."
+    },
+    {
+      "title": "Elige Modelos y Estilo de Edición",
+      "description": "Selecciona modelos opcionales, fondos y opciones de mejora de imagen."
+    },
+    {
+      "title": "Genera y Descarga al Instante",
+      "description": "Haz clic en generar y obtén fotos de producto en alta resolución sin marcas de agua."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Esta herramienta de fotografía con IA es gratuita?",
+      "answer": "¡Sí! Es 100% gratis, sin marca de agua y sin necesidad de iniciar sesión."
+    },
+    {
+      "question": "¿Puedo agregar modelos a mis fotos de producto?",
+      "answer": "Sí. Puedes generar imágenes de producto con modelos en escenarios realistas."
+    },
+    {
+      "question": "¿Funciona para productos de joyería?",
+      "answer": "Por supuesto. Está optimizada para joyas, objetos pequeños y detalles finos."
+    },
+    {
+      "question": "¿Es como Canva o un editor?",
+      "answer": "Sí, pero con IA. Automatiza la edición de fondo, mejora de imagen y colocación de modelos."
+    },
+    {
+      "question": "¿Puedo usarlo para Reddit o creación de contenido?",
+      "answer": "Claro. Es ideal para contenido visual rápido, reseñas de productos en Reddit o maquetas en Canva."
+    }
+  ],
+  "metadata": {
+    "title": "Fotografía de Producto con IA Gratis – Generador con Modelos, Editor y Herramientas | OneAIKit",
+    "description": "Genera fotos de productos con calidad profesional usando IA. Añade modelos, mejora visuales, edita imágenes de joyería – sin marca de agua, sin registro.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "Herramienta de Fotografía con IA – Generador Gratis con Editor y Mejorador",
+      "description": "Crea fotos de producto increíbles con IA. Agrega modelos, edita fondos, mejora imágenes de joyería. 100% gratis sin marca de agua.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "Fotografía de Producto con IA - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generador de Fotografía de Productos con IA – Gratis con Modelos",
+      "description": "Generador de fotos de producto con IA. Perfecto para ecommerce, joyería y creadores. Gratis, sin marca de agua, sin registro.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "fotografía de productos con ia",
+      "fotografía de productos ia gratis",
+      "fotografía de productos con modelos ia",
+      "generador de fotografía de productos ia gratis",
+      "editor de fotografía de productos ia",
+      "mejorador de fotografía de productos ia",
+      "fotografía de productos ia joyería",
+      "herramientas de fotografía de productos ia",
+      "fotografía de productos ia canva",
+      "fotografía de productos ia reddit gratis"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Vendedora de Joyería",
+      "content": "La mejor herramienta de fotografía con IA. ¡Mis anillos parecen tomados en un estudio profesional!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Dueño de Tienda Online",
+      "content": "La IA agrega modelos perfectos a mis fotos de ropa. No necesito fotógrafo.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Diseñadora en Canva",
+      "content": "La uso para generar maquetas de productos para mis plantillas. Me ahorra horas de edición.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Fotografía de Productos con IA – Generador Gratis con Modelos y Herramientas de Edición",
+    "subtitle": "Crea fotos de productos con calidad de estudio al instante usando IA",
+    "description": "Sube una imagen del producto o describe tu artículo. Agrega modelos, elige estilos y genera visuales listos para uso comercial sin marca de agua.",
+    "badgeText": "Texto a Foto y Mejorador de Imágenes con Editor de IA",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Fotografía de Productos con IA",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

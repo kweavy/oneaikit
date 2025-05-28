@@ -1,0 +1,135 @@
+{
+  "title": "Chụp Ảnh Sản Phẩm AI – Công Cụ Tạo Ảnh Miễn Phí với Người Mẫu & Trình Chỉnh Sửa",
+  "subtitle": "Tạo ảnh sản phẩm chất lượng phòng thu tức thì với trí tuệ nhân tạo",
+  "description": "Tải lên ảnh sản phẩm hoặc mô tả mặt hàng của bạn. Thêm người mẫu, chọn phong cách và tạo ảnh sẵn sàng để sử dụng mà không có watermark.",
+  "badgeText": "Chuyển Văn Bản thành Hình Ảnh & Cải Thiện Ảnh với Trình Chỉnh Sửa AI",
+  "whoCanUse": "Ai Có Thể Sử Dụng Công Cụ Chụp Ảnh Sản Phẩm AI Này?",
+  "whyUseTitle": "Tại Sao Nên Dùng Trình Chỉnh Sửa Ảnh Sản Phẩm AI Của Chúng Tôi?",
+  "whyUseSubtitle": "Giải pháp miễn phí giúp bạn tạo ảnh sản phẩm với người mẫu chuyên nghiệp.",
+  "benefits": [
+    "Tạo ảnh sản phẩm bằng AI chỉ trong vài giây",
+    "Tự động thêm người mẫu, đạo cụ và bóng đổ",
+    "Hỗ trợ sản phẩm nhỏ như trang sức với độ chi tiết cao",
+    "Miễn phí, không cần đăng nhập, không watermark"
+  ],
+  "howItWorks": [
+    {
+      "title": "Tải Lên Sản Phẩm hoặc Nhập Mô Tả",
+      "description": "Tải ảnh cơ bản lên hoặc mô tả sản phẩm bạn muốn tạo ảnh."
+    },
+    {
+      "title": "Chọn Người Mẫu & Phong Cách Chỉnh Sửa",
+      "description": "Chọn người mẫu, phông nền và tuỳ chọn cải thiện ảnh."
+    },
+    {
+      "title": "Tạo & Tải Xuống Ngay Lập Tức",
+      "description": "Nhấn 'Tạo' và nhận ảnh sản phẩm độ phân giải cao không có watermark."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Công cụ này có miễn phí không?",
+      "answer": "Có! 100% miễn phí, không watermark và không cần đăng nhập."
+    },
+    {
+      "question": "Tôi có thể thêm người mẫu vào ảnh sản phẩm không?",
+      "answer": "Có thể. Bạn có thể tạo ảnh sản phẩm với người mẫu trong khung cảnh sống động."
+    },
+    {
+      "question": "Có hỗ trợ sản phẩm trang sức không?",
+      "answer": "Chắc chắn rồi. Công cụ được tối ưu cho sản phẩm nhỏ và chi tiết như trang sức."
+    },
+    {
+      "question": "Nó giống Canva hoặc phần mềm chỉnh sửa ảnh chứ?",
+      "answer": "Có, nhưng dùng AI. Mọi thao tác chỉnh sửa nền, cải thiện và chèn người mẫu đều tự động."
+    },
+    {
+      "question": "Tôi có thể dùng để đăng Reddit hay tạo nội dung không?",
+      "answer": "Tuyệt đối có thể. Rất phù hợp để tạo nội dung nhanh, review sản phẩm hoặc mockup Canva."
+    }
+  ],
+  "metadata": {
+    "title": "Chụp Ảnh Sản Phẩm Bằng AI – Công Cụ Miễn Phí với Người Mẫu & Trình Chỉnh Sửa | OneAIKit",
+    "description": "Tạo ảnh sản phẩm chất lượng cao bằng AI miễn phí. Thêm người mẫu, cải thiện hình ảnh, chỉnh sửa trang sức – không cần đăng nhập, không watermark.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "Công Cụ Tạo Ảnh Sản Phẩm AI – Miễn Phí với Người Mẫu & Trình Chỉnh Sửa",
+      "description": "Tạo ảnh sản phẩm đẹp mắt bằng AI. Thêm người mẫu, chỉnh nền, cải thiện hình ảnh trang sức. Hoàn toàn miễn phí, không watermark.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "Chụp Ảnh Sản Phẩm AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Tạo Ảnh Sản Phẩm Bằng AI – Miễn Phí, Có Người Mẫu & Hỗ Trợ Trang Sức",
+      "description": "Tạo ảnh sản phẩm bằng AI cho thương mại điện tử, trang sức & thiết kế. Miễn phí, không cần đăng ký.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "chụp ảnh sản phẩm ai",
+      "tạo ảnh sản phẩm bằng ai miễn phí",
+      "ai ảnh sản phẩm với người mẫu",
+      "ai chỉnh sửa ảnh sản phẩm",
+      "ai cải thiện hình ảnh sản phẩm",
+      "ảnh sản phẩm trang sức bằng ai",
+      "công cụ ảnh sản phẩm ai",
+      "ai ảnh sản phẩm cho canva",
+      "ai ảnh sản phẩm reddit miễn phí"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Người Bán Trang Sức",
+      "content": "Công cụ AI tốt nhất tôi từng dùng! Ảnh nhẫn của tôi trông như chụp trong studio.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Chủ Shop Online",
+      "content": "AI tự động thêm người mẫu hoàn hảo vào ảnh sản phẩm quần áo của tôi. Không cần thuê nhiếp ảnh gia nữa.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Nhà thiết kế Canva",
+      "content": "Tôi dùng để tạo mockup sản phẩm cho template của mình. Tiết kiệm rất nhiều thời gian chỉnh sửa.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Chụp Ảnh Sản Phẩm AI – Công Cụ Tạo Ảnh Miễn Phí với Người Mẫu & Trình Chỉnh Sửa",
+    "subtitle": "Tạo ảnh sản phẩm chất lượng phòng thu tức thì với trí tuệ nhân tạo",
+    "description": "Tải lên ảnh sản phẩm hoặc mô tả mặt hàng của bạn. Thêm người mẫu, chọn phong cách và tạo ảnh sẵn sàng để sử dụng mà không có watermark.",
+    "badgeText": "Chuyển Văn Bản thành Hình Ảnh & Cải Thiện Ảnh với Trình Chỉnh Sửa AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Chụp Ảnh Sản Phẩm AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

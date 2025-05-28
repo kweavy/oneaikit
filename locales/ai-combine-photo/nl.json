@@ -1,0 +1,122 @@
+{
+  "title": "Combineer Productfoto’s met AI – Gratis",
+  "subtitle": "Voeg meerdere opnamen samen in één beeld met AI",
+  "description": "Upload productfoto’s, laat ze samenvoegen met AI en download een composietafbeelding in hoge resolutie – zonder watermerk en gratis.",
+  "badgeText": "Voeg productafbeeldingen samen & verbeter met AI",
+  "whoCanUse": "Voor wie is deze foto-combinatietool bedoeld?",
+  "whyUseTitle": "Waarom Onze AI Foto Combinatietool Gebruiken?",
+  "whyUseSubtitle": "Een snelle en gratis oplossing om productfoto’s professioneel samen te voegen.",
+  "benefits": [
+    "Combineer twee of meer productfoto’s in één frame",
+    "Ideaal voor sieraden, mode en creatieve bureaus",
+    "Geen ontwerpvaardigheden of software vereist",
+    "Volledig gratis en zonder watermerk"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload Meerdere Foto’s",
+      "description": "Upload twee of meer productfoto’s vanuit verschillende hoeken of opstellingen."
+    },
+    {
+      "title": "Kies Samenvoegstijl",
+      "description": "Selecteer hoe je de afbeeldingen wilt combineren — lay-out, uitlijning of scenecompositie."
+    },
+    {
+      "title": "Genereer & Download",
+      "description": "Laat de AI één gecombineerde foto genereren. Download het direct zonder watermerk."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Kan ik twee of meer foto’s combineren tot één?",
+      "answer": "Ja, upload eenvoudig je afbeeldingen en laat AI ze samenvoegen tot één frame."
+    },
+    {
+      "question": "Is deze tool geschikt voor bureaus of catalogusfotografie?",
+      "answer": "Zeker! Het is ontworpen voor bureaus die snel hoogwaardige samengevoegde productbeelden nodig hebben."
+    },
+    {
+      "question": "Moet ik me aanmelden of betalen?",
+      "answer": "Nee. Deze tool is 100% gratis te gebruiken, zonder login en zonder watermerk."
+    }
+  ],
+  "metadata": {
+    "title": "AI Combineer Foto’s – Gratis Tool voor Product- & Bureaushoots | OneAIKit",
+    "description": "Combineer meerdere productfoto’s tot één afbeelding met AI. Perfect voor bureaus, e-commerce en catalogusfotografie. Gratis, geen login, geen watermerk.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Combineer Foto’s – Gratis Tool voor Productshoots & Bureaus",
+      "description": "Voeg meerdere productfoto’s samen tot één beeld met AI. Geweldig voor sieraden, mode en e-commerce. Geen watermerk, volledig gratis.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Combine Productfoto’s - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Combineer Productfoto’s met AI – Gratis Tool voor Creatieven & Merken",
+      "description": "Gebruik AI om twee of meer productfoto’s samen te voegen tot één. Ontworpen voor fotografen, bureaus en ontwerpers.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ai combineer foto’s in één",
+      "ai voeg twee foto’s samen in één frame",
+      "ai merge foto’s gratis",
+      "ai voor bureaufotografie",
+      "ai combineer productafbeeldingen",
+      "productfoto samenvoegen met AI",
+      "ecommerce foto’s combineren",
+      "sieraden fotoshoot combineren ai"
+    ]
+  },
+  "testimonialsTitle": "Wat Makers Zeggen",
+  "testimonialsSubtitle": "Vertrouwd door bureaus en productprofessionals",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Productfotograaf",
+      "content": "Eindelijk een tool om meerdere foto’s te combineren zonder Photoshop. Bespaart me uren!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Creatief Directeur Bureau",
+      "content": "Onze klanten zijn dol op de samengestelde beelden. OneAIKit maakt fotocompositie moeiteloos.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Combineer Productfoto’s met AI – Gratis",
+    "subtitle": "Voeg meerdere opnamen samen in één beeld met AI",
+    "description": "Upload productfoto’s, laat ze samenvoegen met AI en download een composietafbeelding in hoge resolutie – zonder watermerk en gratis.",
+    "badgeText": "Voeg productafbeeldingen samen & verbeter met AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Combineer Foto’s",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

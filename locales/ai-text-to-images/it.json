@@ -1,0 +1,140 @@
+{
+  "title": "Generatore AI da Testo a Immagine Gratis e Illimitato – Senza Login | OneAIKit",
+  "subtitle": "Crea immagini dalla tua immaginazione",
+  "description": "Converti istantaneamente il testo in immagini AI realistiche o artistiche. Gratis, illimitato e senza bisogno di registrazione. Supportato da DALL·E e Stable Diffusion.",
+  "badgeText": "Ora supporta stili realistici e anime",
+  "whoCanUse": "Chi può utilizzare questo strumento testo a immagine?",
+  "whyUseTitle": "Perché usare il nostro generatore AI da testo a immagine?",
+  "whyUseSubtitle": "Illimitato, flessibile e senza login richiesto.",
+  "benefits": [
+    "Uso 100% gratuito e illimitato.",
+    "Nessuna registrazione o login necessario.",
+    "Scegli tra stile realistico o anime.",
+    "Scarica i risultati ad alta risoluzione istantaneamente."
+  ],
+  "howItWorks": [
+    {
+      "title": "Inserisci il tuo testo",
+      "description": "Digita cosa vuoi vedere, ad esempio “città futuristica al tramonto” o “guerriero anime nella foresta”."
+    },
+    {
+      "title": "Scegli modello e stile",
+      "description": "Seleziona tra DALL·E o Stable Diffusion. Personalizza umore, stile e risoluzione."
+    },
+    {
+      "title": "Genera immagini illimitate",
+      "description": "Clicca su genera per creare le tue immagini. Visualizza l’anteprima e scarica subito – senza login."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Questo strumento AI da testo a immagine è gratuito?",
+      "answer": "Sì. Questo generatore AI da testo a immagine è completamente gratuito e non richiede login o registrazione."
+    },
+    {
+      "question": "Posso generare immagini illimitate?",
+      "answer": "Sì, puoi creare molteplici immagini AI senza limiti o crediti."
+    },
+    {
+      "question": "Supporta la generazione di immagini realistiche?",
+      "answer": "Sì, puoi scegliere stili realistici, anime o arte digitale con opzioni di umore e illuminazione."
+    },
+    {
+      "question": "Quali modelli AI sono disponibili?",
+      "answer": "Puoi usare OpenAI DALL·E o Stable Diffusion a seconda delle tue preferenze visive."
+    },
+    {
+      "question": "Devo scaricare un’app?",
+      "answer": "No. Questo è un generatore AI da testo a immagine basato su browser. Nessuna installazione richiesta."
+    },
+    {
+      "question": "Dove vengono salvate le mie immagini generate?",
+      "answer": "Le immagini sono archiviate nella galleria pubblica di OneAIKit e possono essere accessibili tramite URL."
+    }
+  ],
+  "metadata": {
+    "title": "Generatore AI da Testo a Immagine Gratis e Illimitato – Senza Login | OneAIKit",
+    "description": "Usa il nostro generatore AI da testo a immagine per creare immagini realistiche o artistiche illimitate dai tuoi prompt di testo. 100% gratuito, senza login o registrazione.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Generatore AI da Testo a Immagine Gratis e Illimitato – Senza Login | OneAIKit",
+      "description": "Converti testo in immagine con il nostro generatore AI supportato da DALL·E e Stable Diffusion. Gratis, realistico e senza iscrizione.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Generatore AI da Testo a Immagine Gratis - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generatore AI da Testo a Immagine – Gratis, Senza Login",
+      "description": "Genera immagini AI online da prompt testuali. Gratis per sempre, uso illimitato, senza iscrizione.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai testo a immagine",
+      "generatore ai testo a immagine",
+      "ai testo a immagine gratis",
+      "generatore testo a immagine ai",
+      "generatore immagine ai da testo",
+      "ai testo a immagine gratis illimitato",
+      "convertitore testo a immagine ai",
+      "generatore immagine realistica ai",
+      "generatore immagine ai senza login",
+      "testo a immagine ai online gratis"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Artista Digitale",
+      "content": "Questo è il miglior generatore AI da testo a immagine che abbia mai usato. È gratuito e produce risultati molto realistici!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Creatore di Contenuti",
+      "content": "Perfetto per visual sui social media. Adoro come posso generare immagini da qualsiasi prompt all’istante.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Specialista Marketing",
+      "content": "Finalmente un generatore di immagini AI gratuito senza login e con esportazione di qualità completa!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Generatore AI da Testo a Immagine Gratis – Nessun Login Richiesto",
+    "subtitle": "Crea immagini dalla tua immaginazione",
+    "description": "Converti testo in immagini realistiche o artistiche con AI all’istante. Gratis, illimitato e senza registrazione. Supportato da DALL·E e Stable Diffusion.",
+    "badgeText": "Ora supporta stili realistici e anime",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generatore gratuito da testo a immagine",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Gratis en Onbeperkte AI Tekst-naar-Afbeelding Generator – Geen Login Nodig | OneAIKit",
+  "subtitle": "Creëer afbeeldingen vanuit je verbeelding",
+  "description": "Zet tekst direct om in realistische of artistieke AI-afbeeldingen. Gratis, onbeperkt en zonder registratie. Aangedreven door DALL·E en Stable Diffusion.",
+  "badgeText": "Ondersteunt nu realistische & anime-stijlen",
+  "whoCanUse": "Wie kan deze tekst-naar-afbeelding tool gebruiken?",
+  "whyUseTitle": "Waarom onze AI Tekst-naar-Afbeelding Generator gebruiken?",
+  "whyUseSubtitle": "Onbeperkt, flexibel en geen login vereist.",
+  "benefits": [
+    "100% gratis en onbeperkt gebruik.",
+    "Geen login of registratie nodig.",
+    "Kies tussen realistische of anime stijl.",
+    "Download direct afbeeldingen in hoge resolutie."
+  ],
+  "howItWorks": [
+    {
+      "title": "Voer je tekstprompt in",
+      "description": "Typ wat je wilt zien, bijvoorbeeld “futuristische stad bij zonsondergang” of “anime krijger in het bos”."
+    },
+    {
+      "title": "Kies model en stijl",
+      "description": "Selecteer DALL·E of Stable Diffusion. Pas sfeer, stijl en resolutie aan."
+    },
+    {
+      "title": "Genereer onbeperkte afbeeldingen",
+      "description": "Klik op genereren om je afbeeldingen te maken. Bekijk een voorbeeld en download direct – zonder login."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is deze AI tekst-naar-afbeelding tool gratis?",
+      "answer": "Ja. Deze AI-generator is 100% gratis en vereist geen login of registratie."
+    },
+    {
+      "question": "Kan ik onbeperkt afbeeldingen genereren?",
+      "answer": "Ja, je kunt meerdere AI-afbeeldingen zonder limieten of credits maken."
+    },
+    {
+      "question": "Ondersteunt het realistische afbeeldingsgeneratie?",
+      "answer": "Ja, je kunt realistische, anime of digitale kunststijlen kiezen met opties voor sfeer en verlichting."
+    },
+    {
+      "question": "Welke AI-modellen zijn beschikbaar?",
+      "answer": "Je kunt OpenAI DALL·E of Stable Diffusion gebruiken, afhankelijk van je visuele voorkeur."
+    },
+    {
+      "question": "Moet ik een app downloaden?",
+      "answer": "Nee. Dit is een browsergebaseerde AI tekst-naar-afbeelding generator. Installatie is niet nodig."
+    },
+    {
+      "question": "Waar worden mijn gegenereerde afbeeldingen opgeslagen?",
+      "answer": "Afbeeldingen worden opgeslagen in de openbare galerij van OneAIKit en zijn toegankelijk via een URL."
+    }
+  ],
+  "metadata": {
+    "title": "Gratis en Onbeperkte AI Tekst-naar-Afbeelding Generator – Geen Login Nodig | OneAIKit",
+    "description": "Gebruik onze AI tekst-naar-afbeelding generator om onbeperkte realistische of artistieke afbeeldingen te maken van je tekstprompts. 100% gratis, geen login of registratie nodig.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Gratis en Onbeperkte AI Tekst-naar-Afbeelding Generator – Geen Login Nodig | OneAIKit",
+      "description": "Converteer tekst naar afbeelding met onze AI-generator aangedreven door DALL·E en Stable Diffusion. Gratis, realistisch en zonder aanmelding.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Gratis AI Tekst-naar-Afbeelding Generator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI Tekst-naar-Afbeelding Generator – Gratis, Geen Login Nodig",
+      "description": "Genereer AI-afbeeldingen online vanuit tekstprompts. Voor altijd gratis, onbeperkt gebruik, en geen registratie vereist.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai tekst naar afbeelding",
+      "ai tekst naar afbeelding generator",
+      "ai tekst naar afbeelding gratis",
+      "tekst naar afbeelding generator ai",
+      "ai afbeelding generator van tekst",
+      "ai tekst naar afbeelding gratis onbeperkt",
+      "ai tekst naar afbeelding converter",
+      "realistische ai afbeelding generator",
+      "ai afbeelding generator geen login",
+      "tekst naar afbeelding ai online gratis"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Digitale Kunstenaar",
+      "content": "Dit is de beste AI tekst-naar-afbeelding generator die ik ooit heb gebruikt. Het is gratis en levert zeer realistische resultaten!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Content Creator",
+      "content": "Perfect voor sociale media visuals. Ik vind het geweldig dat ik afbeeldingen van elke prompt direct kan genereren.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Marketing Specialist",
+      "content": "Eindelijk een gratis AI afbeeldingsgenerator zonder login en met volledige kwaliteitsexport!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Gratis AI Tekst-naar-Afbeelding Generator – Geen Login Nodig",
+    "subtitle": "Creëer afbeeldingen vanuit je verbeelding",
+    "description": "Zet tekst direct om in realistische of artistieke AI-afbeeldingen. Gratis, onbeperkt en zonder registratie. Aangedreven door DALL·E en Stable Diffusion.",
+    "badgeText": "Ondersteunt nu realistische & anime-stijlen",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gratis AI Tekst-naar-Afbeelding Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

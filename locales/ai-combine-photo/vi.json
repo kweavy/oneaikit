@@ -1,0 +1,122 @@
+{
+  "title": "Kết hợp ảnh sản phẩm bằng AI miễn phí",
+  "subtitle": "Gộp nhiều góc chụp vào một khung hình bằng AI",
+  "description": "Tải lên ảnh sản phẩm, kết hợp bằng AI và tải xuống ảnh ghép độ phân giải cao – không watermark và hoàn toàn miễn phí.",
+  "badgeText": "Ghép ảnh sản phẩm & nâng cao bằng AI",
+  "whoCanUse": "Ai có thể sử dụng công cụ ghép ảnh này?",
+  "whyUseTitle": "Tại sao nên sử dụng công cụ ghép ảnh bằng AI của chúng tôi?",
+  "whyUseSubtitle": "Giải pháp nhanh chóng và miễn phí để ghép ảnh sản phẩm chuyên nghiệp.",
+  "benefits": [
+    "Kết hợp hai hoặc nhiều ảnh sản phẩm trong một khung hình",
+    "Lý tưởng cho ngành trang sức, thời trang và các agency sáng tạo",
+    "Không cần kỹ năng thiết kế hoặc phần mềm chuyên dụng",
+    "Hoàn toàn miễn phí và không có watermark"
+  ],
+  "howItWorks": [
+    {
+      "title": "Tải lên nhiều ảnh",
+      "description": "Tải lên hai hoặc nhiều ảnh sản phẩm từ các góc hoặc bố cục khác nhau."
+    },
+    {
+      "title": "Chọn kiểu ghép",
+      "description": "Chọn cách bạn muốn ghép ảnh – bố cục, căn chỉnh hoặc dàn cảnh."
+    },
+    {
+      "title": "Tạo & Tải xuống",
+      "description": "AI sẽ tạo một ảnh ghép duy nhất. Tải xuống ngay, không có watermark."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Tôi có thể kết hợp hai hoặc nhiều ảnh sản phẩm thành một không?",
+      "answer": "Có, chỉ cần tải lên hình ảnh của bạn và để AI ghép chúng lại thành một khung hình."
+    },
+    {
+      "question": "Công cụ này có phù hợp cho chụp ảnh agency hay catalog không?",
+      "answer": "Hoàn toàn phù hợp! Nó được thiết kế dành cho agency cần ảnh sản phẩm chất lượng cao nhanh chóng."
+    },
+    {
+      "question": "Tôi có cần đăng nhập hoặc trả phí không?",
+      "answer": "Không. Công cụ này hoàn toàn miễn phí, không cần đăng nhập và không có watermark."
+    }
+  ],
+  "metadata": {
+    "title": "AI Ghép Ảnh – Công Cụ Miễn Phí Cho Agency & Chụp Sản Phẩm | OneAIKit",
+    "description": "Ghép nhiều ảnh sản phẩm thành một bằng AI. Lý tưởng cho agency, thương mại điện tử và chụp catalog. Miễn phí, không cần đăng nhập, không watermark.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Ghép Ảnh – Công Cụ Miễn Phí Cho Chụp Ảnh Sản Phẩm",
+      "description": "Gộp nhiều ảnh sản phẩm vào một khung hình bằng AI. Tuyệt vời cho ảnh trang sức, thời trang và thương mại điện tử. Không watermark, 100% miễn phí.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Ghép Ảnh Sản Phẩm - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ghép Ảnh Sản Phẩm với AI – Miễn Phí cho Người Sáng Tạo & Thương Hiệu",
+      "description": "Dùng AI để ghép hai hoặc nhiều ảnh sản phẩm thành một. Dành cho nhiếp ảnh gia, agency và nhà thiết kế.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ghép ảnh bằng AI",
+      "kết hợp hai ảnh vào một khung bằng AI",
+      "ghép ảnh miễn phí bằng AI",
+      "AI cho chụp sản phẩm agency",
+      "AI kết hợp ảnh sản phẩm",
+      "ghép nhiều ảnh thành một ảnh sản phẩm",
+      "ghép ảnh thương mại điện tử",
+      "ghép ảnh trang sức bằng AI"
+    ]
+  },
+  "testimonialsTitle": "Người Dùng Nói Gì",
+  "testimonialsSubtitle": "Được tin dùng bởi agency và chuyên gia sản phẩm",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Nhiếp ảnh gia sản phẩm",
+      "content": "Cuối cùng cũng có công cụ ghép ảnh mà không cần Photoshop. Tiết kiệm cho tôi hàng giờ!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Giám đốc sáng tạo tại agency",
+      "content": "Khách hàng của chúng tôi rất thích ảnh ghép. OneAIKit giúp việc tạo bố cục ảnh trở nên dễ dàng.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Kết hợp ảnh sản phẩm bằng AI miễn phí",
+    "subtitle": "Gộp nhiều góc chụp vào một khung hình bằng AI",
+    "description": "Tải lên ảnh sản phẩm, kết hợp bằng AI và tải xuống ảnh ghép độ phân giải cao – không watermark và hoàn toàn miễn phí.",
+    "badgeText": "Ghép ảnh sản phẩm & nâng cao bằng AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Ghép Ảnh Bằng AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

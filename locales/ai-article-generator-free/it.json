@@ -1,0 +1,168 @@
+{
+  "title": "Generatore di Articoli AI Gratis Online con Immagini – Nessun Login",
+  "subtitle": "Crea articoli e post SEO ottimizzati utilizzando l’intelligenza artificiale",
+  "description": "Crea contenuti con immagini, titoli, schemi e HTML – tutto gratis e senza registrazione.",
+  "badgeText": "Ora puoi scrivere articoli con l’AI",
+  "whoCanUse": "Chi può usare questo strumento?",
+  "whyUseTitle": "Perché scegliere il nostro Generatore di Articoli AI gratuito?",
+  "whyUseSubtitle": "Creazione di contenuti assistita da AI senza complicazioni.",
+  "benefits": [
+    "Genera articoli completi in pochi secondi.",
+    "100% gratuito, senza bisogno di login.",
+    "Include immagini generate con l’intelligenza artificiale.",
+    "Contenuti SEO ottimizzati esportabili in HTML."
+  ],
+  "howItWorks": [
+    {
+      "title": "Scegli un argomento",
+      "description": "Inizia con un tema e lascia che la nostra AI generi le parole chiave migliori per la SEO."
+    },
+    {
+      "title": "Genera contenuti passo dopo passo",
+      "description": "Seleziona parole chiave, titoli, schemi e immagini con il nostro costruttore di articoli AI."
+    },
+    {
+      "title": "Esporta il tuo articolo all’istante",
+      "description": "Esporta articoli completi in HTML pronti da pubblicare. Nessun account necessario."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il generatore di articoli AI è davvero gratuito?",
+      "answer": "Sì, è completamente gratuito. Non serve carta di credito o login."
+    },
+    {
+      "question": "Devo registrarmi o accedere?",
+      "answer": "No. Il nostro strumento funziona immediatamente senza alcun login."
+    },
+    {
+      "question": "Posso generare articoli con immagini?",
+      "answer": "Sì. Questo strumento include immagini generate da AI per supportare visivamente il contenuto."
+    },
+    {
+      "question": "In quali formati posso esportare l’articolo?",
+      "answer": "Puoi esportare l’articolo in HTML pulito, perfetto per blog o CMS."
+    },
+    {
+      "question": "Posso usare questo strumento per riassunti di articoli?",
+      "answer": "Questo strumento è pensato per generare articoli completi, ma presto supporteremo anche i riassunti."
+    },
+    {
+      "question": "Questo strumento è adatto per contenuti SEO?",
+      "answer": "Assolutamente. L’AI genera contenuti ottimizzati per la SEO con parole chiave e struttura adatte."
+    },
+    {
+      "question": "Posso scrivere recensioni o guide con questo strumento?",
+      "answer": "Sì. Puoi generare schemi e articoli strutturati per recensioni, tutorial e altro."
+    },
+    {
+      "question": "Lo strumento supporta la riscrittura o parafrasi?",
+      "answer": "Non ancora, ma stiamo lavorando a una funzione di riscrittura e sintesi AI."
+    },
+    {
+      "question": "Posso usarlo per scrittura accademica?",
+      "answer": "Non è un sostituto della ricerca, ma può aiutare a creare schemi e contenuti base per saggi o tesine."
+    },
+    {
+      "question": "Questo strumento funziona su dispositivi mobili?",
+      "answer": "Sì, è completamente responsive e funziona su tutti i browser e dispositivi moderni."
+    }
+  ],
+  "testimonialsTitle": "Cosa dicono gli utenti",
+  "testimonialsSubtitle": "Feedback reale dai nostri creatori",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "Content Marketer",
+      "content": "È il modo più veloce con cui ho mai scritto articoli per il mio blog. Non posso credere che sia gratuito.",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "Specialista SEO",
+      "content": "Uso questo strumento AI per creare descrizioni e post per i miei clienti. Un enorme risparmio di tempo!",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Scrittrice freelance",
+      "content": "Il generatore AI mi aiuta a scrivere le bozze più velocemente. Perfetto per blog e contenuti per i clienti.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Studente",
+      "content": "Ho usato questo strumento gratuito per generare idee per il mio elaborato. È fantastico!",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogger",
+      "content": "Finalmente un generatore di articoli AI che include immagini e funziona senza login!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "Generatore di Articoli AI Gratis con Immagini – Nessun Login | OneAIKit",
+    "description": "Usa il nostro generatore AI per creare contenuti SEO con immagini. Gratuito, senza registrazione. Genera titoli, schemi e articoli HTML in pochi secondi.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "Generatore di Articoli AI Gratis con Immagini – Nessun Login | OneAIKit",
+      "description": "Crea articoli di blog in pochi secondi con il nostro generatore AI gratuito. Nessuna registrazione. Include immagini e esportazione in HTML.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "Generatore di articoli AI gratuito con immagini - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generatore di Articoli AI Gratis con Immagini – Nessun Login | OneAIKit",
+      "description": "Crea articoli in pochi secondi con il nostro strumento gratuito AI. Nessun login richiesto. Include immagini e esportazione HTML.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "generatore articoli ai",
+      "generatore articoli gratuito",
+      "scrittura ai senza login",
+      "articoli con immagini ai",
+      "strumento ai per articoli",
+      "ai scrittura contenuti seo",
+      "generatore contenuti ai",
+      "tool blog post ai"
+    ]
+  },
+  "hero": {
+    "title": "Generatore di Articoli AI Gratuito – Nessuna Registrazione Necessaria",
+    "subtitle": "Genera post e articoli SEO con AI. Crea contenuti con immagini, titoli, schemi e HTML – tutto gratis.",
+    "description": "Crea contenuti per blog in pochi secondi con il nostro potente generatore AI gratuito. Esporta HTML e immagini istantaneamente.",
+    "badgeText": "Ora puoi scrivere articoli con l’AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generatore di Articoli AI",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Generator wideo z obrazu AI – darmowy, bez logowania, z obsługą promptów",
+  "subtitle": "Twórz niesamowite filmy AI z pojedynczego obrazu",
+  "description": "Prześlij dowolny obraz i przekształć go w film za pomocą AI. Dodaj prompt, aby sterować stylem lub animacją. Bez logowania, bez znaku wodnego, 100% za darmo.",
+  "badgeText": "Darmowy generator wideo z obrazu AI",
+  "whoCanUse": "Kto może korzystać z tego narzędzia AI do tworzenia wideo z obrazów?",
+  "whyUseTitle": "Dlaczego warto korzystać z naszego generatora wideo z obrazu AI?",
+  "whyUseSubtitle": "Szybki, kreatywny i bez konieczności logowania.",
+  "benefits": [
+    "Twórz filmy z obrazów w kilka sekund",
+    "Steruj stylem i animacją za pomocą promptów",
+    "Darmowy, bez znaków wodnych i ograniczeń",
+    "Działa na komputerach i urządzeniach mobilnych"
+  ],
+  "howItWorks": [
+    {
+      "title": "Prześlij obraz",
+      "description": "Wybierz dowolny obraz (JPG, PNG lub WEBP), który chcesz przekształcić w film."
+    },
+    {
+      "title": "Wpisz prompt (opcjonalnie)",
+      "description": "Możesz wpisać prompt, aby animować obraz w określonym stylu lub nastroju."
+    },
+    {
+      "title": "Wygeneruj wideo",
+      "description": "Kliknij generuj, aby stworzyć film oparty na AI. Pobierz go od razu."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy ten generator wideo z obrazu AI jest naprawdę darmowy?",
+      "answer": "Tak, jest w 100% darmowy. Nie wymaga rejestracji, nie zawiera znaków wodnych ani kart kredytowych."
+    },
+    {
+      "question": "Czy mogę użyć promptu, aby sterować generowaniem wideo?",
+      "answer": "Tak. Możesz wpisać niestandardowy prompt, aby kontrolować styl lub temat filmu."
+    },
+    {
+      "question": "Jak długi jest wygenerowany film?",
+      "answer": "Zazwyczaj od 2 do 6 sekund na obraz, ale może się różnić w zależności od modelu AI."
+    },
+    {
+      "question": "Czy mogę użyć własnego obrazu?",
+      "answer": "Oczywiście. Prześlij swoje zdjęcie, wpisz prompt i w kilka sekund otrzymaj animowany film."
+    },
+    {
+      "question": "W jakim formacie jest wynikowy plik?",
+      "answer": "Wynik to plik MP4 do pobrania, odtwarzany na wszystkich urządzeniach."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Projektant ruchu",
+      "content": "To narzędzie AI jest magiczne. Przesłałem portret i w kilka sekund otrzymałem płynne, zapętlone wideo!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Redaktorka YouTube",
+      "content": "Uwielbiam, że mogę animować statyczne obrazy za pomocą jednego promptu. Idealne do krótkich wstępów i reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Twórca TikTok",
+      "content": "Najszybszy generator AI z obrazu do wideo, jakiego używałem. Bez logowania, bez reklam, a jakość wideo jest świetna.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Obraz do Wideo – Darmowy generator z obsługą promptów",
+    "subtitle": "Twórz niesamowite filmy AI z pojedynczego obrazu",
+    "description": "Prześlij dowolny obraz i przekształć go w film za pomocą AI. Dodaj prompt, aby kierować stylem lub animacją. Bez logowania, bez znaków wodnych, 100% darmo.",
+    "badgeText": "Darmowy AI Generator wideo z obrazu",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generator AI Obraz do Wideo",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

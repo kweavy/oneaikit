@@ -1,0 +1,122 @@
+{
+  "title": "Połącz zdjęcia produktów za pomocą AI – Za darmo",
+  "subtitle": "Połącz wiele ujęć w jedno zdjęcie dzięki sztucznej inteligencji",
+  "description": "Prześlij zdjęcia produktów, połącz je za pomocą AI i pobierz obraz w wysokiej rozdzielczości – bez znaku wodnego i całkowicie za darmo.",
+  "badgeText": "Połącz obrazy produktów i popraw je dzięki AI",
+  "whoCanUse": "Dla kogo jest to narzędzie do łączenia zdjęć?",
+  "whyUseTitle": "Dlaczego warto używać naszego narzędzia AI do łączenia zdjęć?",
+  "whyUseSubtitle": "Szybkie i darmowe rozwiązanie do profesjonalnego łączenia zdjęć produktów.",
+  "benefits": [
+    "Połącz dwa lub więcej zdjęć produktów w jednym kadrze",
+    "Idealne dla biżuterii, mody i agencji kreatywnych",
+    "Nie wymaga umiejętności projektowania ani oprogramowania",
+    "Całkowicie za darmo i bez znaku wodnego"
+  ],
+  "howItWorks": [
+    {
+      "title": "Prześlij wiele zdjęć",
+      "description": "Prześlij dwa lub więcej zdjęć produktów z różnych kątów lub ustawień."
+    },
+    {
+      "title": "Wybierz styl łączenia",
+      "description": "Wybierz sposób łączenia obrazów — układ, wyrównanie lub kompozycję sceny."
+    },
+    {
+      "title": "Generuj i pobierz",
+      "description": "Pozwól AI wygenerować jedno połączone zdjęcie. Pobierz je natychmiast bez znaku wodnego."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy mogę połączyć dwa lub więcej zdjęć w jedno?",
+      "answer": "Tak, wystarczy przesłać zdjęcia i pozwolić AI połączyć je w jeden kadr."
+    },
+    {
+      "question": "Czy to narzędzie nadaje się dla agencji lub sesji katalogowych?",
+      "answer": "Oczywiście! Zostało stworzone z myślą o agencjach potrzebujących szybkich, wysokiej jakości połączonych wizualizacji produktów."
+    },
+    {
+      "question": "Czy muszę się logować lub płacić?",
+      "answer": "Nie. To narzędzie jest w 100% darmowe, nie wymaga logowania i nie dodaje znaku wodnego."
+    }
+  ],
+  "metadata": {
+    "title": "AI Łączenie Zdjęć – Darmowe Narzędzie do Zdjęć Produktowych i Agencji | OneAIKit",
+    "description": "Połącz wiele zdjęć produktów w jeden obraz za pomocą AI. Idealne dla agencji, e-commerce i zdjęć katalogowych. Darmowe, bez logowania i znaku wodnego.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Łączenie Zdjęć – Darmowe Narzędzie dla Produktów i Agencji",
+      "description": "Połącz wiele zdjęć produktów w jeden obraz za pomocą AI. Świetne do biżuterii, mody i zdjęć e-commerce. Bez znaku wodnego, 100% darmowe.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Połącz zdjęcia produktów – OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Połącz Zdjęcia Produktów z AI – Darmowe Narzędzie dla Twórców i Marek",
+      "description": "Użyj AI, aby połączyć dwa lub więcej zdjęć produktów w jedno. Zaprojektowane dla fotografów, agencji i projektantów.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ai połącz zdjęcia w jedno",
+      "ai połącz dwa zdjęcia w jednym kadrze",
+      "ai łączenie zdjęć za darmo",
+      "ai dla zdjęć agencji",
+      "ai połącz obrazy produktów",
+      "połącz zdjęcia produktów w jedno",
+      "połącz zdjęcia e-commerce",
+      "połącz zdjęcia biżuterii ai"
+    ]
+  },
+  "testimonialsTitle": "Co Mówią Twórcy",
+  "testimonialsSubtitle": "Zaufane przez agencje i profesjonalistów",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Fotograf Produktowy",
+      "content": "W końcu narzędzie do łączenia zdjęć bez Photoshopa. Oszczędza mi godziny pracy!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Dyrektor Kreatywny w Agencji",
+      "content": "Nasi klienci uwielbiają połączone wizualizacje. OneAIKit sprawia, że kompozycja zdjęć jest banalnie prosta.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Połącz zdjęcia produktów za pomocą AI – Za darmo",
+    "subtitle": "Połącz wiele ujęć w jedno zdjęcie dzięki sztucznej inteligencji",
+    "description": "Prześlij zdjęcia produktów, połącz je za pomocą AI i pobierz obraz w wysokiej rozdzielczości – bez znaku wodnego i całkowicie za darmo.",
+    "badgeText": "Połącz obrazy produktów i popraw je dzięki AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Łączenie Zdjęć",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "title": "AI Productfotografie – Gratis Generator met Modellen en Bewerkingstools",
+  "subtitle": "Creëer direct studio-kwaliteit productfoto's met AI",
+  "description": "Upload een productafbeelding of beschrijf je artikel. Voeg modellen toe, kies een stijl en genereer commerciële beelden zonder watermerk.",
+  "badgeText": "Tekst-naar-Foto & Verbetering met AI Editor",
+  "whoCanUse": "Wie Kan Deze AI Productfotografie Tool Gebruiken?",
+  "whyUseTitle": "Waarom Onze AI Productfoto Editor Gebruiken?",
+  "whyUseSubtitle": "Jouw gratis oplossing voor verbeterde productfoto's met modellen.",
+  "benefits": [
+    "Genereer productfoto's met AI in seconden",
+    "Voeg automatisch modellen, props en schaduwen toe",
+    "Ondersteunt sieraden en kleine objecten met hoge precisie",
+    "Gratis te gebruiken, geen watermerk, geen login nodig"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload Product of Typ Beschrijving",
+      "description": "Upload een eenvoudige foto of beschrijf hoe je product eruitziet."
+    },
+    {
+      "title": "Kies Modellen en Bewerkingstijl",
+      "description": "Selecteer optionele modellen, achtergronden en bewerkingsopties."
+    },
+    {
+      "title": "Genereer en Download Direct",
+      "description": "Klik op genereren en ontvang productfoto’s in hoge resolutie zonder watermerk."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is deze AI productfotografie tool gratis?",
+      "answer": "Ja! 100% gratis zonder watermerk en geen login vereist."
+    },
+    {
+      "question": "Kan ik modellen toevoegen aan productfoto's?",
+      "answer": "Ja. Je kunt productfoto’s maken met realistische lifestyle-modellen."
+    },
+    {
+      "question": "Werkt dit ook voor sieraden?",
+      "answer": "Zeker. Deze tool is geoptimaliseerd voor sieraden, kleine objecten en fijne details."
+    },
+    {
+      "question": "Is dit zoals Canva of een editor?",
+      "answer": "Ja, maar aangedreven door AI. Het automatiseert achtergronden, verbeteringen en plaatsing van modellen."
+    },
+    {
+      "question": "Kan ik dit gebruiken voor Reddit of contentcreatie?",
+      "answer": "Absoluut. Perfect voor snelle visuele content, Reddit-productreviews of Canva mockups."
+    }
+  ],
+  "metadata": {
+    "title": "Gratis AI Productfotografie – Generator met Modellen, Editor & Tools | OneAIKit",
+    "description": "Genereer hoogwaardige AI-productfoto’s gratis. Voeg modellen toe, verbeter beelden, bewerk sieraden – geen login, geen watermerk vereist.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI Productfotografie Tool – Gratis Generator met Editor en Verbetering",
+      "description": "Maak verbluffende productfoto's met AI. Voeg modellen toe, bewerk achtergronden, verbeter sieraden. 100% gratis, zonder watermerk.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI Productfotografie - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gratis AI Productfotografie Generator – Voeg Modellen toe, Bewerk Sieraden",
+      "description": "AI-aangedreven productfoto generator. Ideaal voor e-commerce, sieraden en ontwerpers. Gratis, geen watermerk, geen login.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ai productfotografie",
+      "gratis ai productfoto generator",
+      "ai productfoto's met modellen",
+      "ai productfotografie tools",
+      "ai editor voor productfoto's",
+      "ai foto enhancer",
+      "ai sieraden fotografie",
+      "ai productfotografie canva",
+      "ai productfoto zonder watermerk",
+      "ai productfoto reddit gratis"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Sieradenverkoopster",
+      "content": "Beste AI productfoto-tool ooit! Mijn ringfoto’s lijken op studiowerk.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Webwinkel eigenaar",
+      "content": "De AI voegt perfecte modellen toe aan mijn kledingfoto's. Geen fotograaf meer nodig.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva Designer",
+      "content": "Ik gebruik het voor productmockups in mijn templates. Het bespaart me uren werk.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI Productfotografie – Gratis Generator met Modellen en Bewerkingstools",
+    "subtitle": "Creëer direct studio-kwaliteit productfoto's met AI",
+    "description": "Upload een productafbeelding of beschrijf je artikel. Voeg modellen toe, kies een stijl en genereer commerciële beelden zonder watermerk.",
+    "badgeText": "Tekst-naar-Foto & Verbetering met AI Editor",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Productfotografie",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

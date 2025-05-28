@@ -1,0 +1,167 @@
+{
+  "title": "免费AI文章生成器在线版，含图片 – 无需登录",
+  "subtitle": "使用AI生成SEO优化的博客文章和帖子",
+  "description": "创建包含图片、标题、大纲和HTML的内容 – 完全免费，无需注册。",
+  "badgeText": "现在您可以用AI写文章了",
+  "whoCanUse": "谁可以使用此工具？",
+  "whyUseTitle": "为什么选择我们的免费AI文章生成器？",
+  "whyUseSubtitle": "轻松无忧的AI内容创作。",
+  "benefits": [
+    "几秒钟内生成完整文章。",
+    "100%免费，无需登录。",
+    "包含AI生成的图片。",
+    "SEO优化内容，可导出HTML格式。"
+  ],
+  "howItWorks": [
+    {
+      "title": "选择您的主题",
+      "description": "输入主题，让我们的AI生成最佳SEO关键词。"
+    },
+    {
+      "title": "逐步生成内容",
+      "description": "使用我们的AI文章构建器选择关键词、标题、大纲和图片。"
+    },
+    {
+      "title": "即时导出文章",
+      "description": "导出完整HTML博客文章，准备发布。无需账户。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个AI文章生成器真的免费吗？",
+      "answer": "是的，100%免费。无需登录、注册或信用卡。"
+    },
+    {
+      "question": "我需要注册或登录吗？",
+      "answer": "不需要。我们的AI写作工具可立即使用，无需登录。"
+    },
+    {
+      "question": "我可以生成带图片的文章吗？",
+      "answer": "可以。此工具包括AI生成的图片，增强内容视觉效果。"
+    },
+    {
+      "question": "我可以导出哪些格式的文章？",
+      "answer": "您可以导出为干净的HTML格式，适合博客或CMS平台使用。"
+    },
+    {
+      "question": "我可以用这个工具做文章摘要吗？",
+      "answer": "目前专注于完整文章生成，摘要功能即将上线。"
+    },
+    {
+      "question": "这款工具适合SEO内容吗？",
+      "answer": "绝对适合。我们的AI生成相关关键词和结构优化的SEO内容。"
+    },
+    {
+      "question": "我可以写产品评价或教程文章吗？",
+      "answer": "可以。您可以生成结构化的大纲和文章，适合评价、教程等多种内容。"
+    },
+    {
+      "question": "支持文章重写或改写吗？",
+      "answer": "暂不支持，但我们正在开发AI重写和摘要功能，未来将推出。"
+    },
+    {
+      "question": "我可以用它做学术写作吗？",
+      "answer": "它不能代替研究，但能帮助您创建大纲和草稿。"
+    },
+    {
+      "question": "这个AI工具在手机上能用吗？",
+      "answer": "能，工具响应式设计，兼容所有现代浏览器和设备。"
+    }
+  ],
+  "testimonialsTitle": "用户评价",
+  "testimonialsSubtitle": "来自创作者的真实反馈",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "内容营销人员",
+      "content": "这是我写博客文章最快的方式，简直不敢相信它是免费的。",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "SEO专家",
+      "content": "我用这个AI工具为客户生成描述和帖子，节省了大量时间！",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "自由撰稿人",
+      "content": "AI文章生成器帮我更快完成草稿，适合博客和客户内容。",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "学生",
+      "content": "我用这款免费AI工具为研究论文生成想法和大纲，真是太棒了！",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "博主",
+      "content": "终于有一款支持图片且无需登录的AI文章生成器了！",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "免费AI文章生成器，带图片 – 无需登录 | OneAIKit",
+    "description": "使用我们的AI文章生成器创建SEO优化的博客内容，免费且无需登录。立即生成标题、大纲和完整HTML文章。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "免费AI文章生成器，带图片 – 无需登录 | OneAIKit",
+      "description": "使用我们的免费AI工具秒生成博客文章。无需登录，包含图片和HTML导出。适合博主、营销人员和学生。",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "免费AI文章生成器，带图片 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "免费AI文章生成器，带图片 – 无需登录 | OneAIKit",
+      "description": "使用我们的免费AI工具快速创建博客文章。支持图片和HTML导出，无需登录。",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai文章生成器",
+      "免费文章生成器",
+      "ai博客写作",
+      "无登录文章生成器",
+      "带图片ai文章",
+      "seo内容ai工具",
+      "ai写作工具"
+    ]
+  },
+  "hero": {
+    "title": "免费AI文章生成器 – 无需登录",
+    "subtitle": "用AI生成SEO优化的文章和博客帖，含图片、标题、大纲和HTML – 完全免费。",
+    "description": "使用强大的免费AI工具，几秒钟内创建博客内容。即时导出HTML和图片。",
+    "badgeText": "现在您可以用AI写文章了",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI文章生成器",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

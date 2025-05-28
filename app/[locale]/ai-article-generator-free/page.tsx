@@ -146,7 +146,7 @@ export default function AiArticleGeneratorFreePage() {
           keywords: Array.isArray(metadata.keywords) ? metadata.keywords.join(', ') : metadata.keywords || ''
         })}
       </Script>
-
+ 
       <DynamicHero
         title="Free AI Article Generator Online – No Login Required"
         subtitle="Generate SEO-optimized blog posts and articles using AI. Create content with images, titles, outlines, and HTML – all for free and with no sign-up."

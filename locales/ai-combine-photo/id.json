@@ -1,0 +1,122 @@
+{
+  "title": "Gabungkan Foto Produk dengan AI Gratis",
+  "subtitle": "Gabungkan beberapa sudut dalam satu bingkai dengan AI",
+  "description": "Unggah foto produk, gabungkan dengan AI, dan unduh gambar komposit resolusi tinggi – bebas watermark dan gratis digunakan.",
+  "badgeText": "Gabungkan Gambar Produk & Tingkatkan dengan AI",
+  "whoCanUse": "Siapa yang Cocok Menggunakan Alat Gabung Foto Ini?",
+  "whyUseTitle": "Mengapa Menggunakan Alat Gabung Foto AI Kami?",
+  "whyUseSubtitle": "Solusi cepat dan gratis untuk menggabungkan foto produk secara profesional.",
+  "benefits": [
+    "Gabungkan dua atau lebih foto produk dalam satu bingkai",
+    "Ideal untuk perhiasan, fashion, dan agensi kreatif",
+    "Tanpa perlu keahlian desain atau perangkat lunak tambahan",
+    "Sepenuhnya gratis dan tanpa watermark"
+  ],
+  "howItWorks": [
+    {
+      "title": "Unggah Beberapa Foto",
+      "description": "Unggah dua atau lebih foto produk dari sudut atau pengaturan berbeda."
+    },
+    {
+      "title": "Pilih Gaya Penggabungan",
+      "description": "Pilih bagaimana gambar digabungkan — tata letak, perataan, atau komposisi adegan."
+    },
+    {
+      "title": "Hasilkan & Unduh",
+      "description": "Biarkan AI menghasilkan satu foto gabungan. Unduh langsung tanpa watermark."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bisakah saya menggabungkan dua atau lebih foto produk jadi satu?",
+      "answer": "Bisa, cukup unggah gambar Anda dan biarkan AI menggabungkannya dalam satu bingkai."
+    },
+    {
+      "question": "Apakah alat ini cocok untuk agensi atau pemotretan katalog?",
+      "answer": "Tentu! Alat ini dirancang untuk agensi yang membutuhkan visual produk gabungan berkualitas tinggi dengan cepat."
+    },
+    {
+      "question": "Apakah saya harus login atau membayar?",
+      "answer": "Tidak. Alat ini 100% gratis digunakan, tanpa login dan tanpa watermark."
+    }
+  ],
+  "metadata": {
+    "title": "Gabungkan Foto Produk dengan AI – Alat Gratis untuk Pemotretan Produk & Agensi | OneAIKit",
+    "description": "Gabungkan beberapa foto produk menjadi satu gambar dengan AI. Cocok untuk agensi, ecommerce, dan katalog. Gratis, tanpa login, tanpa watermark.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "Gabungkan Foto Produk AI – Alat Gratis untuk Pemotretan & Agensi",
+      "description": "Gabungkan beberapa foto produk dalam satu bingkai menggunakan AI. Cocok untuk perhiasan, fashion, dan ecommerce. Tanpa watermark, 100% gratis.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "Gabungkan Foto Produk AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gabungkan Foto Produk dengan AI – Alat Gratis untuk Kreator & Brand",
+      "description": "Gunakan AI untuk menggabungkan dua atau lebih foto produk dalam satu gambar. Cocok untuk fotografer produk, agensi, dan desainer.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "gabungkan foto dengan ai",
+      "gabung dua foto dalam satu bingkai ai",
+      "gabung foto gratis dengan ai",
+      "ai untuk pemotretan produk agensi",
+      "gabungkan gambar produk ai",
+      "gabungkan foto produk menjadi satu",
+      "gabungkan foto ecommerce",
+      "gabungkan foto perhiasan dengan ai"
+    ]
+  },
+  "testimonialsTitle": "Apa Kata Kreator",
+  "testimonialsSubtitle": "Dipercaya oleh agensi dan profesional produk",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Fotografer Produk",
+      "content": "Akhirnya, alat untuk gabung foto tanpa Photoshop. Hemat waktu berjam-jam!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Direktur Kreatif Agensi",
+      "content": "Klien kami menyukai hasil visualnya. OneAIKit membuat komposisi foto jadi mudah.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "Gabungkan Foto Produk dengan AI Gratis",
+    "subtitle": "Gabungkan beberapa sudut dalam satu bingkai dengan AI",
+    "description": "Unggah foto produk, gabungkan dengan AI, dan unduh gambar komposit resolusi tinggi – bebas watermark dan gratis digunakan.",
+    "badgeText": "Gabungkan Gambar Produk & Tingkatkan dengan AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gabungkan Foto AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

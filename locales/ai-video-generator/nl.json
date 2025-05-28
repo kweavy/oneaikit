@@ -1,0 +1,140 @@
+{
+  "title": "Gratis AI Video Generator – Van Tekst of Afbeelding, Zonder Watermerk | OneAIKit",
+  "subtitle": "Maak direct AI-video’s van jouw ideeën",
+  "description": "Genereer AI-video’s online van tekstprompts of afbeeldingen met krachtige modellen zoals Kling AI en Stable Diffusion. 100% gratis, zonder watermerk, geen login vereist.",
+  "badgeText": "Tekst-naar-Video & Afbeelding-naar-Video aangedreven door AI",
+  "whoCanUse": "Wie kan deze AI Video Generator gebruiken?",
+  "whyUseTitle": "Waarom gebruik je de AI Video Generator van OneAIKit?",
+  "whyUseSubtitle": "Gratis, zonder watermerk en ontworpen voor creativiteit.",
+  "benefits": [
+    "Maak video’s van tekst- of afbeeldingsprompts.",
+    "Ondersteunt Kling AI en Stability Diffusion.",
+    "Geen watermerk, onbeperkt gebruik.",
+    "Gebruiksvriendelijke interface voor alle vaardigheidsniveaus."
+  ],
+  "howItWorks": [
+    {
+      "title": "Voer prompt in of upload afbeelding",
+      "description": "Kies of je een video-idee wilt typen of een afbeelding wilt uploaden om te animeren."
+    },
+    {
+      "title": "Selecteer stijl en beeldverhouding",
+      "description": "Pas de animatie aan met cinematische, Ghibli- of pixelstijlen en kies het videoformaat."
+    },
+    {
+      "title": "Genereer en download MP4",
+      "description": "Klik op Genereren en wacht een paar seconden. Je AI-video is klaar om te bewaren en te delen."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is deze AI video generator gratis?",
+      "answer": "Ja, OneAIKit biedt een 100% gratis AI video generatie tool. Geen creditcard of login vereist."
+    },
+    {
+      "question": "Kan ik video’s genereren vanuit zowel tekst als afbeelding?",
+      "answer": "Absoluut! Je kunt video’s genereren vanuit tekstprompts of afbeeldingen uploaden met optionele stijlbeschrijvingen."
+    },
+    {
+      "question": "Bevatten de gegenereerde video’s een watermerk?",
+      "answer": "Nee. Alle met deze tool gegenereerde video’s zijn watermerk-vrij en mogen commercieel worden gebruikt."
+    },
+    {
+      "question": "Moet ik een app installeren?",
+      "answer": "Nee, er is geen installatie nodig. Alles werkt direct in je browser voor instant AI video generatie."
+    },
+    {
+      "question": "Welke modellen worden gebruikt voor video generatie?",
+      "answer": "We ondersteunen Kling AI voor tekst-naar-video en Stability AI voor afbeelding-naar-video generatie met realistische beweging."
+    },
+    {
+      "question": "Kan ik deze AI video generator gebruiken voor YouTube of TikTok content?",
+      "answer": "Ja. Onze tool ondersteunt formaten die geschikt zijn voor sociale media, korte content en creatieve storytelling."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "YouTube Maker",
+      "content": "Ongelofelijk makkelijk te gebruiken. Ik genereerde een cinematische AI-video met slechts één zin!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animator",
+      "content": "Ik heb andere tools geprobeerd, maar deze AI video generator levert de schoonste output zonder watermerken.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Digitale Marketeer",
+      "content": "Geweldige tool om snel videocontent te maken voor advertenties en social posts. Gratis en flexibel!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Gratis AI Video Generator – Van Tekst of Afbeelding, Zonder Watermerk | OneAIKit",
+    "description": "Genereer AI-video’s online van tekstprompts of afbeeldingen met krachtige modellen zoals Kling AI en Stable Diffusion. 100% gratis, zonder watermerk, geen login vereist.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Gratis AI Video Generator – Van Tekst of Afbeelding | OneAIKit",
+      "description": "Maak AI-gegenereerde video’s van tekst of afbeeldingen met onze online tool. Geen login, zonder watermerk, en volledig gratis te gebruiken.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "AI Video Generator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gratis AI Video Generator Online – Geen Login Nodig",
+      "description": "Genereer AI-video’s van tekstprompts of foto’s. 100% gratis, zonder watermerk, aangedreven door Kling en Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai video generator",
+      "gratis ai video generator",
+      "ai video generator van tekst gratis",
+      "ai video generator zonder watermerk",
+      "ai video generator van afbeelding",
+      "ai video maken van tekst",
+      "tekst naar video ai",
+      "ai tekst naar video generator",
+      "gratis ai video genereren",
+      "beste ai tool voor video maken van tekst"
+    ]
+  },
+  "hero": {
+    "title": "AI Video Generator – Van Tekst of Afbeelding, Gratis & Zonder Watermerk",
+    "subtitle": "Maak direct AI-video’s van je ideeën",
+    "description": "Genereer online AI-video’s van tekst- of afbeeldingsprompts met de nieuwste technologie. Geen login nodig.",
+    "badgeText": "Tekst-naar-Video & Afbeelding-naar-Video aangedreven door AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Video Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

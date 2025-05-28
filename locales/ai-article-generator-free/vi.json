@@ -1,0 +1,166 @@
+{
+  "title": "Trình Tạo Bài Viết AI Miễn Phí Trực Tuyến với Hình Ảnh – Không Cần Đăng Nhập",
+  "subtitle": "Tạo bài viết và blog chuẩn SEO bằng AI",
+  "description": "Tạo nội dung với hình ảnh, tiêu đề, dàn ý và HTML – hoàn toàn miễn phí và không cần đăng ký.",
+  "badgeText": "Giờ đây bạn có thể viết bài bằng AI",
+  "whoCanUse": "Ai có thể sử dụng công cụ này?",
+  "whyUseTitle": "Tại sao nên chọn Trình Tạo Bài Viết AI Miễn Phí của chúng tôi?",
+  "whyUseSubtitle": "Tạo nội dung bằng AI dễ dàng và nhanh chóng.",
+  "benefits": [
+    "Tạo bài viết đầy đủ chỉ trong vài giây.",
+    "Hoàn toàn miễn phí, không cần đăng nhập.",
+    "Bao gồm hình ảnh do AI tạo ra.",
+    "Nội dung chuẩn SEO, có thể xuất HTML."
+  ],
+  "howItWorks": [
+    {
+      "title": "Chọn chủ đề của bạn",
+      "description": "Bắt đầu với một chủ đề và để AI tạo ra các từ khóa SEO hiệu quả."
+    },
+    {
+      "title": "Tạo nội dung theo từng bước",
+      "description": "Chọn từ khóa, tiêu đề, dàn ý và cả hình ảnh bằng công cụ xây dựng bài viết AI."
+    },
+    {
+      "title": "Xuất bài viết ngay lập tức",
+      "description": "Xuất bài viết blog hoàn chỉnh dưới dạng HTML. Không cần tài khoản hay đăng nhập."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Trình tạo bài viết AI này có thực sự miễn phí không?",
+      "answer": "Có, hoàn toàn miễn phí. Không cần đăng ký hay thẻ tín dụng."
+    },
+    {
+      "question": "Tôi có cần đăng ký hoặc đăng nhập không?",
+      "answer": "Không. Trình tạo bài viết AI hoạt động ngay lập tức mà không cần đăng nhập."
+    },
+    {
+      "question": "Tôi có thể tạo bài viết kèm hình ảnh không?",
+      "answer": "Có. Công cụ này bao gồm hình ảnh được tạo bằng AI để hỗ trợ nội dung trực quan."
+    },
+    {
+      "question": "Tôi có thể xuất bài viết sang định dạng nào?",
+      "answer": "Bạn có thể xuất bài viết dưới dạng HTML sạch, phù hợp cho blog hoặc nền tảng CMS."
+    },
+    {
+      "question": "Công cụ này có thể dùng để tạo tóm tắt không?",
+      "answer": "Hiện tại tập trung vào tạo bài viết đầy đủ, nhưng sắp tới sẽ hỗ trợ tính năng tóm tắt."
+    },
+    {
+      "question": "Công cụ này có phù hợp để tạo nội dung SEO không?",
+      "answer": "Chắc chắn rồi. AI tạo nội dung có cấu trúc và từ khóa chuẩn SEO."
+    },
+    {
+      "question": "Tôi có thể viết bài đánh giá sản phẩm hoặc hướng dẫn không?",
+      "answer": "Có. Bạn có thể tạo dàn ý và bài viết cho đánh giá, hướng dẫn, v.v."
+    },
+    {
+      "question": "Công cụ có hỗ trợ viết lại hoặc diễn đạt lại bài viết không?",
+      "answer": "Chưa, nhưng chúng tôi đang phát triển tính năng viết lại bằng AI cho các bản cập nhật sau."
+    },
+    {
+      "question": "Tôi có thể dùng công cụ này để viết bài học thuật không?",
+      "answer": "Không thay thế nghiên cứu, nhưng hữu ích để tạo dàn ý và nội dung cơ bản cho luận văn."
+    },
+    {
+      "question": "Công cụ này có hoạt động trên điện thoại không?",
+      "answer": "Có, công cụ thân thiện với thiết bị di động và tương thích với các trình duyệt hiện đại."
+    }
+  ],
+  "testimonialsTitle": "Người dùng nói gì",
+  "testimonialsSubtitle": "Phản hồi thực tế từ người sáng tạo",
+  "testimonials": [
+    {
+      "name": "Sarah",
+      "role": "Nhà tiếp thị nội dung",
+      "content": "Đây là cách nhanh nhất để tôi viết bài blog. Không thể tin được là miễn phí.",
+      "rating": 5
+    },
+    {
+      "name": "Rizky",
+      "role": "Chuyên gia SEO",
+      "content": "Tôi sử dụng công cụ AI này để tạo mô tả và bài viết cho khách hàng. Tiết kiệm thời gian cực lớn!",
+      "rating": 5
+    },
+    {
+      "name": "Dina",
+      "role": "Nhà văn tự do",
+      "content": "AI giúp tôi tạo bản nháp nhanh hơn. Rất hữu ích cho nội dung khách hàng và blog.",
+      "rating": 4
+    },
+    {
+      "name": "Andi",
+      "role": "Sinh viên",
+      "content": "Tôi dùng công cụ AI miễn phí này để lên ý tưởng cho bài nghiên cứu. Thật tuyệt!",
+      "rating": 5
+    },
+    {
+      "name": "James",
+      "role": "Blogger",
+      "content": "Cuối cùng cũng có công cụ AI tạo bài viết có hình ảnh và không cần đăng nhập!",
+      "rating": 5
+    }
+  ],
+  "metadata": {
+    "title": "Trình Tạo Bài Viết AI Miễn Phí Trực Tuyến với Hình Ảnh – Không Cần Đăng Nhập | OneAIKit",
+    "description": "Tạo nội dung blog chuẩn SEO với hình ảnh. Miễn phí, không cần đăng nhập. Tạo tiêu đề, dàn ý và bài viết HTML ngay lập tức.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-article-generator"
+    },
+    "openGraph": {
+      "title": "Trình Tạo Bài Viết AI – Miễn Phí, Có Hình Ảnh, Không Cần Đăng Nhập | OneAIKit",
+      "description": "Tạo bài viết blog chỉ trong vài giây bằng công cụ AI miễn phí. Có hỗ trợ hình ảnh và xuất HTML. Phù hợp với blogger, marketer, sinh viên.",
+      "url": "https://oneaikit.com/ai-article-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-article-generator.png",
+          "alt": "Trình Tạo Bài Viết AI Miễn Phí với Hình Ảnh – OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Trình Tạo Bài Viết AI Miễn Phí với Hình Ảnh | OneAIKit",
+      "description": "Tạo bài viết bằng AI chỉ trong vài giây. Không cần đăng nhập. Có hỗ trợ hình ảnh và xuất HTML.",
+      "images": [
+        "https://oneaikit.com/og-image-article-generator.png"
+      ]
+    },
+    "keywords": [
+      "trình tạo bài viết AI",
+      "công cụ viết bài AI miễn phí",
+      "tạo bài viết SEO với AI",
+      "AI viết bài không cần đăng nhập",
+      "AI viết blog có hình ảnh",
+      "AI viết nội dung miễn phí"
+    ]
+  },
+  "hero": {
+    "title": "Trình Tạo Bài Viết AI Miễn Phí – Không Cần Đăng Nhập",
+    "subtitle": "Tạo bài blog chuẩn SEO bằng AI. Bao gồm hình ảnh, tiêu đề, dàn ý và HTML.",
+    "description": "Tạo nội dung blog nhanh chóng bằng AI. Xuất HTML và hình ảnh ngay lập tức.",
+    "badgeText": "Giờ đây bạn có thể viết bài bằng AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Trình Tạo Bài Viết AI",
+    "applicationCategory": "WebApplication",
+    "operatingSystem": "All",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "289"
+    }
+  }
+}

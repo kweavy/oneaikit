@@ -1,0 +1,140 @@
+{
+  "title": "Gerador de Texto para Imagem AI Gratuito e Ilimitado – Sem Login | OneAIKit",
+  "subtitle": "Crie imagens a partir da sua imaginação",
+  "description": "Converta texto em imagens realistas ou artísticas de AI instantaneamente. Gratuito, ilimitado e sem necessidade de registro. Alimentado por DALL·E e Stable Diffusion.",
+  "badgeText": "Agora suporta estilos realistas e anime",
+  "whoCanUse": "Quem pode usar esta ferramenta de texto para imagem?",
+  "whyUseTitle": "Por que usar nosso gerador AI de texto para imagem?",
+  "whyUseSubtitle": "Ilimitado, flexível e sem necessidade de login.",
+  "benefits": [
+    "100% gratuito e uso ilimitado.",
+    "Nenhum login ou cadastro necessário.",
+    "Escolha entre estilo realista ou anime.",
+    "Baixe imagens em alta resolução instantaneamente."
+  ],
+  "howItWorks": [
+    {
+      "title": "Digite seu texto",
+      "description": "Digite o que deseja ver, por exemplo, “cidade futurista ao pôr do sol” ou “guerreiro anime na floresta”."
+    },
+    {
+      "title": "Escolha modelo e estilo",
+      "description": "Selecione DALL·E ou Stable Diffusion. Personalize o humor, estilo e resolução."
+    },
+    {
+      "title": "Gere imagens ilimitadas",
+      "description": "Clique em gerar para criar suas imagens. Visualize e baixe instantaneamente – sem login."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Esta ferramenta AI de texto para imagem é gratuita?",
+      "answer": "Sim. Este gerador AI de texto para imagem é 100% gratuito e não requer login ou cadastro."
+    },
+    {
+      "question": "Posso gerar imagens ilimitadas?",
+      "answer": "Sim, você pode criar várias imagens AI sem limites ou créditos."
+    },
+    {
+      "question": "Suporta geração de imagens realistas?",
+      "answer": "Sim, você pode escolher estilos realistas, anime ou arte digital com opções de humor e iluminação."
+    },
+    {
+      "question": "Quais modelos AI estão disponíveis?",
+      "answer": "Você pode usar OpenAI DALL·E ou Stable Diffusion conforme sua preferência visual."
+    },
+    {
+      "question": "Preciso baixar um app?",
+      "answer": "Não. Este é um gerador AI de texto para imagem baseado em navegador. Não requer instalação."
+    },
+    {
+      "question": "Onde minhas imagens geradas são armazenadas?",
+      "answer": "As imagens são armazenadas na galeria pública do OneAIKit e podem ser acessadas via URL."
+    }
+  ],
+  "metadata": {
+    "title": "Gerador de Texto para Imagem AI Gratuito e Ilimitado – Sem Login | OneAIKit",
+    "description": "Use nosso gerador AI de texto para imagem para criar imagens realistas ou artísticas ilimitadas a partir de seus prompts de texto. 100% gratuito, sem login ou cadastro.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Gerador AI de Texto para Imagem Gratuito e Ilimitado – Sem Login | OneAIKit",
+      "description": "Converta texto em imagem com nosso gerador AI alimentado por DALL·E e Stable Diffusion. Gratuito, realista e sem necessidade de cadastro.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Gerador AI de Texto para Imagem Gratuito - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gerador AI de Texto para Imagem – Gratuito, Sem Login",
+      "description": "Gere imagens AI online a partir de prompts de texto. Uso ilimitado, gratuito para sempre e sem cadastro.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai texto para imagem",
+      "gerador ai texto para imagem",
+      "ai texto para imagem gratuito",
+      "gerador texto para imagem ai",
+      "gerador imagem ai a partir de texto",
+      "ai texto para imagem gratuito ilimitado",
+      "conversor texto para imagem ai",
+      "gerador imagem realista ai",
+      "gerador imagem ai sem login",
+      "texto para imagem ai online gratuito"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Artista Digital",
+      "content": "Este é o melhor gerador AI de texto para imagem que já usei. É gratuito e produz resultados muito realistas!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Criador de Conteúdo",
+      "content": "Perfeito para visuais em redes sociais. Adoro como posso gerar imagens instantaneamente a partir de qualquer prompt.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Especialista em Marketing",
+      "content": "Finalmente, um gerador de imagem AI gratuito, sem login e com exportação em alta qualidade!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Gerador AI de Texto para Imagem Gratuito – Sem Login",
+    "subtitle": "Crie imagens a partir da sua imaginação",
+    "description": "Converta texto em imagens AI realistas ou artísticas instantaneamente. Gratuito, ilimitado e sem cadastro. Alimentado por DALL·E e Stable Diffusion.",
+    "badgeText": "Agora com suporte a estilos realistas e anime",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Gerador AI de Texto para Imagem Gratuito",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Ücretsiz ve Sınırsız AI Metinden Görüntü Oluşturucu – Giriş Yapmaya Gerek Yok | OneAIKit",
+  "subtitle": "Hayal gücünüzden görüntüler yaratın",
+  "description": "Metni gerçekçi veya sanatsal AI görüntülerine anında dönüştürün. Ücretsiz, sınırsız ve kayıt olmadan kullanılabilir. DALL·E ve Stable Diffusion desteklidir.",
+  "badgeText": "Şimdi Gerçekçi ve Anime Stilleri Destekleniyor",
+  "whoCanUse": "Bu metinden görüntü oluşturma aracını kimler kullanabilir?",
+  "whyUseTitle": "Neden AI Metinden Görüntü Oluşturucumuzu Kullanmalısınız?",
+  "whyUseSubtitle": "Sınırsız, esnek ve giriş yapmaya gerek yok.",
+  "benefits": [
+    "%100 ücretsiz ve sınırsız kullanım.",
+    "Giriş veya kayıt gerekmez.",
+    "Gerçekçi veya anime stilini seçin.",
+    "Yüksek çözünürlüklü görüntüleri anında indirin."
+  ],
+  "howItWorks": [
+    {
+      "title": "Metin isteminizi girin",
+      "description": "Ne görmek istediğinizi yazın, örneğin “gün batımında futuristik şehir” veya “ormandaki anime savaşçısı”."
+    },
+    {
+      "title": "Model ve stili seçin",
+      "description": "DALL·E veya Stable Diffusion’u seçin. Mod, stil ve çözünürlüğü özelleştirin."
+    },
+    {
+      "title": "Sınırsız görüntü oluşturun",
+      "description": "Görüntülerinizi oluşturmak için oluştur’a tıklayın. Önizleyin ve anında indirin – giriş yapmaya gerek yok."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu AI metinden görüntü oluşturucu ücretsiz mi?",
+      "answer": "Evet. Bu AI metinden görüntü oluşturucu tamamen ücretsizdir ve giriş veya kayıt gerektirmez."
+    },
+    {
+      "question": "Sınırsız görüntü oluşturabilir miyim?",
+      "answer": "Evet, herhangi bir sınırlama veya kredi olmadan birçok AI görüntüsü oluşturabilirsiniz."
+    },
+    {
+      "question": "Gerçekçi görüntü oluşturma desteği var mı?",
+      "answer": "Evet, ruh hali ve aydınlatma seçenekleri ile gerçekçi, anime veya dijital sanat stillerini seçebilirsiniz."
+    },
+    {
+      "question": "Hangi AI modelleri mevcuttur?",
+      "answer": "Tercihinize bağlı olarak OpenAI DALL·E veya Stable Diffusion kullanabilirsiniz."
+    },
+    {
+      "question": "Uygulamayı indirmem gerekiyor mu?",
+      "answer": "Hayır. Bu, tarayıcı tabanlı bir AI metinden görüntü oluşturucudur. Kurulum gerekmez."
+    },
+    {
+      "question": "Oluşturduğum görüntüler nerede saklanıyor?",
+      "answer": "Görüntüler OneAIKit’in genel galerisine kaydedilir ve URL üzerinden erişilebilir."
+    }
+  ],
+  "metadata": {
+    "title": "Ücretsiz ve Sınırsız AI Metinden Görüntü Oluşturucu – Giriş Yapmaya Gerek Yok | OneAIKit",
+    "description": "AI metinden görüntü oluşturucumuzu kullanarak metin istemlerinizden sınırsız gerçekçi veya sanatsal görüntüler oluşturun. %100 ücretsizdir, giriş veya kayıt gerektirmez.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "Ücretsiz ve Sınırsız AI Metinden Görüntü Oluşturucu – Giriş Yapmaya Gerek Yok | OneAIKit",
+      "description": "Metni görüntüye dönüştürmek için DALL·E ve Stable Diffusion destekli AI oluşturucumuzu kullanın. Ücretsiz, gerçekçi ve kayıt gerektirmez.",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "Ücretsiz AI Metinden Görüntü Oluşturucu - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI Metinden Görüntü Oluşturucu – Ücretsiz, Giriş Yok",
+      "description": "Metin istemlerinden online AI görüntüleri oluşturun. Sürekli ücretsiz, sınırsız kullanım ve kayıt gerektirmez.",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai metinden görüntü",
+      "ai metinden görüntü oluşturucu",
+      "ai metinden görüntü ücretsiz",
+      "metinden görüntü oluşturucu ai",
+      "ai görüntü oluşturucu metinden",
+      "ai metinden görüntü ücretsiz sınırsız",
+      "ai metinden görüntü dönüştürücü",
+      "gerçekçi ai görüntü oluşturucu",
+      "ai görüntü oluşturucu giriş yok",
+      "metinden görüntü ai çevrimiçi ücretsiz"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Dijital Sanatçı",
+      "content": "Kullandığım en iyi AI metinden görüntü oluşturucu bu. Ücretsiz ve çok gerçekçi sonuçlar veriyor!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "İçerik Üreticisi",
+      "content": "Sosyal medya görselleri için mükemmel. Herhangi bir istemden anında görüntü oluşturabilmek harika.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Pazarlama Uzmanı",
+      "content": "Sonunda giriş yapmadan tam kaliteyle dışa aktarabilen ücretsiz bir AI görüntü oluşturucu!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Ücretsiz AI Metinden Görüntü Oluşturucu – Giriş Yapmaya Gerek Yok",
+    "subtitle": "Hayal gücünüzden görüntüler yaratın",
+    "description": "Metni gerçekçi veya sanatsal AI görüntülerine anında dönüştürün. Ücretsiz, sınırsız ve kayıt gerektirmez. DALL·E ve Stable Diffusion desteklidir.",
+    "badgeText": "Gerçekçi & Anime Stil Desteği Başladı",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Ücretsiz AI Metinden Görüntü Oluşturucu",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "AI ile Ürün Fotoğraflarını Ücretsiz Birleştir",
+  "subtitle": "Birden fazla çekimi AI ile tek bir karede birleştir",
+  "description": "Ürün fotoğraflarını yükleyin, AI ile birleştirin ve yüksek çözünürlüklü kompozit resmi indirin – filigran yok, tamamen ücretsiz.",
+  "badgeText": "Ürün Görsellerini Birleştir ve AI ile Geliştir",
+  "whoCanUse": "Bu Fotoğraf Birleştirme Aracı Kimler İçin?",
+  "whyUseTitle": "Neden AI Fotoğraf Birleştirme Aracımızı Kullanmalısınız?",
+  "whyUseSubtitle": "Profesyonel gibi ürün görsellerini birleştirmenin hızlı ve ücretsiz çözümü.",
+  "benefits": [
+    "İki veya daha fazla ürün fotoğrafını tek bir karede birleştirin",
+    "Takı, moda ve yaratıcı ajanslar için idealdir",
+    "Tasarım becerisi veya yazılım gerekmez",
+    "Tamamen ücretsiz ve filigransız"
+  ],
+  "howItWorks": [
+    {
+      "title": "Birden Fazla Fotoğraf Yükle",
+      "description": "Farklı açılardan veya kurulumlardan iki veya daha fazla ürün fotoğrafı yükleyin."
+    },
+    {
+      "title": "Birleştirme Stilini Seçin",
+      "description": "Görsellerin nasıl birleştirileceğini seçin — düzen, hizalama veya sahne kompozisyonu."
+    },
+    {
+      "title": "Oluştur ve İndir",
+      "description": "AI, birleşik bir fotoğraf oluşturur. Hemen indir, filigran yok."
+    }
+  ],
+  "faq": [
+    {
+      "question": "İki veya daha fazla ürünü tek fotoğrafta birleştirebilir miyim?",
+      "answer": "Evet, görsellerinizi yüklemeniz yeterli; AI bunları tek bir karede birleştirir."
+    },
+    {
+      "question": "Bu araç ajans veya katalog çekimleri için uygun mu?",
+      "answer": "Kesinlikle! Hızlı ve kaliteli ürün görselleri isteyen ajanslar için tasarlanmıştır."
+    },
+    {
+      "question": "Giriş yapmam veya ödeme yapmam gerekiyor mu?",
+      "answer": "Hayır. Bu araç tamamen ücretsizdir, giriş yapmanız gerekmez ve filigran içermez."
+    }
+  ],
+  "metadata": {
+    "title": "AI Fotoğrafları Birleştir – Ürün ve Ajans Çekimleri İçin Ücretsiz Araç | OneAIKit",
+    "description": "Birden fazla ürün fotoğrafını AI ile tek bir görüntüde birleştirin. Ajanslar, e-ticaret ve katalog çekimleri için mükemmel. Ücretsiz, giriş gerekmez, filigran yok.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-combine-photo"
+    },
+    "openGraph": {
+      "title": "AI Fotoğraf Birleştirici – Ürün Çekimleri İçin Ücretsiz Araç",
+      "description": "AI ile birden fazla ürün görselini tek bir kareye dönüştürün. Takı, moda ve e-ticaret çekimleri için mükemmel. Filigransız, tamamen ücretsiz.",
+      "url": "https://oneaikit.com/ai-combine-photo",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-combine-photo.png",
+          "alt": "AI Ürün Fotoğraflarını Birleştir - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI ile Ürün Görsellerini Birleştir – Yaratıcılar ve Markalar İçin Ücretsiz Araç",
+      "description": "AI kullanarak iki veya daha fazla ürün görselini tek karede birleştirin. Ürün fotoğrafçıları, ajanslar ve tasarımcılar için tasarlanmıştır.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-combine-photo.png"
+      ]
+    },
+    "keywords": [
+      "ai fotoğraf birleştirme",
+      "ai iki fotoğrafı tek karede birleştir",
+      "ai ile ücretsiz fotoğraf birleştir",
+      "ajans ürün çekimi için ai",
+      "ai ile ürün görsellerini birleştir",
+      "ürün görsellerini birleştir",
+      "e-ticaret için fotoğraf birleştirme",
+      "takı fotoğraf çekimini ai ile birleştir"
+    ]
+  },
+  "testimonialsTitle": "Kullanıcı Yorumları",
+  "testimonialsSubtitle": "Ajanslar ve ürün profesyonelleri tarafından güvenilir",
+  "testimonials": [
+    {
+      "name": "Aria K.",
+      "role": "Ürün Fotoğrafçısı",
+      "content": "Photoshop olmadan birden fazla fotoğrafı birleştiren bir araç nihayet geldi. Saatlerce zaman kazandırıyor!",
+      "rating": 5
+    },
+    {
+      "name": "Leo W.",
+      "role": "Ajans Kreatif Direktörü",
+      "content": "Müşterilerimiz birleşik görselleri çok seviyor. OneAIKit fotoğraf kompozisyonunu zahmetsiz hale getiriyor.",
+      "rating": 5
+    }
+  ],
+  "hero": {
+    "title": "AI ile Ürün Fotoğraflarını Ücretsiz Birleştir",
+    "subtitle": "Birden fazla çekimi AI ile tek bir karede birleştir",
+    "description": "Ürün fotoğraflarını yükleyin, AI ile birleştirin ve yüksek çözünürlüklü kompozit resmi indirin – filigran yok, tamamen ücretsiz.",
+    "badgeText": "Ürün Görsellerini Birleştir ve AI ile Geliştir",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Fotoğraf Birleştirici",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

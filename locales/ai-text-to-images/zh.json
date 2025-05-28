@@ -1,0 +1,140 @@
+{
+  "title": "免费无限制 AI 文本生成图像工具 – 无需登录 | OneAIKit",
+  "subtitle": "从您的想象中创建图像",
+  "description": "即时将文本转换为逼真或艺术风格的 AI 图像。永久免费，无限制，无需注册。由 DALL·E 和 Stable Diffusion 提供支持。",
+  "badgeText": "现已支持写实和动漫风格",
+  "whoCanUse": "谁可以使用此文本生成图像工具？",
+  "whyUseTitle": "为什么选择我们的 AI 文本生成图像工具？",
+  "whyUseSubtitle": "无限制、灵活且无需登录。",
+  "benefits": [
+    "100% 免费且无限制使用。",
+    "无需登录或注册。",
+    "可选择写实或动漫风格。",
+    "即时下载高清图像。"
+  ],
+  "howItWorks": [
+    {
+      "title": "输入您的文本提示",
+      "description": "输入您想看到的内容，例如“日落时的未来城市”或“森林中的动漫战士”。"
+    },
+    {
+      "title": "选择模型和风格",
+      "description": "选择 DALL·E 或 Stable Diffusion。自定义情绪、风格和分辨率。"
+    },
+    {
+      "title": "生成无限图像",
+      "description": "点击生成创建图像。即时预览和下载——无需登录。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 AI 文本生成图像工具免费吗？",
+      "answer": "是的，此 AI 文本生成图像工具完全免费，且无需登录或注册。"
+    },
+    {
+      "question": "我可以生成无限数量的图像吗？",
+      "answer": "可以，您可以无限制地创建多个 AI 图像，无需积分。"
+    },
+    {
+      "question": "支持生成写实图像吗？",
+      "answer": "支持，您可以选择写实、动漫或数字艺术风格，并调整情绪和光线。"
+    },
+    {
+      "question": "有哪些 AI 模型可用？",
+      "answer": "您可以根据偏好选择 OpenAI DALL·E 或 Stable Diffusion。"
+    },
+    {
+      "question": "我需要下载应用程序吗？",
+      "answer": "不需要，这是基于浏览器的 AI 文本生成图像工具，无需安装。"
+    },
+    {
+      "question": "我的生成图像存储在哪里？",
+      "answer": "图像存储在 OneAIKit 公共图库中，可通过 URL 访问。"
+    }
+  ],
+  "metadata": {
+    "title": "免费无限制 AI 文本生成图像工具 – 无需登录 | OneAIKit",
+    "description": "使用我们的 AI 文本生成图像工具，从文本提示创建无限量的逼真或艺术图像。永久免费，无需登录或注册。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/text-to-image"
+    },
+    "openGraph": {
+      "title": "免费无限制 AI 文本生成图像工具 – 无需登录 | OneAIKit",
+      "description": "通过我们的 AI 生成器将文本转换为图像，支持 DALL·E 和 Stable Diffusion。免费、逼真且无需注册。",
+      "url": "https://oneaikit.com/text-to-image",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-text-to-image.png",
+          "alt": "免费 AI 文本生成图像工具 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI 文本生成图像工具 – 免费，无需登录",
+      "description": "在线从文本提示生成 AI 图像。永久免费，无限制使用，无需注册。",
+      "images": [
+        "https://oneaikit.com/og-image-text-to-image.png"
+      ]
+    },
+    "keywords": [
+      "ai 文本生成图像",
+      "ai 文本到图像生成器",
+      "ai 文本生成图像免费",
+      "文本生成图像 ai",
+      "ai 从文本生成图像",
+      "ai 文本生成图像免费无限制",
+      "文本转换为图像 ai",
+      "逼真 ai 图像生成器",
+      "ai 图像生成器无需登录",
+      "文本生成图像 ai 在线免费"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "阿曼达",
+      "role": "数字艺术家",
+      "content": "这是我用过的最好的 AI 文本生成图像工具。免费且效果非常逼真！",
+      "rating": 5
+    },
+    {
+      "name": "利奥",
+      "role": "内容创作者",
+      "content": "非常适合社交媒体视觉内容。我喜欢可以即时从任何提示生成图像。",
+      "rating": 5
+    },
+    {
+      "name": "珍妮",
+      "role": "市场营销专家",
+      "content": "终于有了免费的 AI 图像生成器，无需登录且支持高质量导出！",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "免费 AI 文本生成图像工具 – 无需登录",
+    "subtitle": "从你的想象中创造图像",
+    "description": "即时将文本转换为逼真或艺术风格的 AI 图像。永久免费，无限制，无需注册。由 DALL·E 和 Stable Diffusion 提供支持。",
+    "badgeText": "现已支持写实和动漫风格",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - 免费 AI 文本生成图像工具",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "134"
+    }
+  }
+}

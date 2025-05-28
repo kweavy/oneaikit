@@ -1,0 +1,98 @@
+{
+  "title": "AI Görüntüden Video Oluşturucu – Ücretsiz, Giriş Gerektirmez, Prompt Desteğiyle",
+  "subtitle": "Tek bir görüntüden etkileyici AI videoları oluşturun",
+  "description": "Herhangi bir görüntüyü yükleyin ve AI ile videoya dönüştürün. Stil veya animasyon için prompt ekleyin. Giriş yapmaya gerek yok, filigran yok, %100 ücretsiz.",
+  "badgeText": "Ücretsiz AI Görüntüden Video Oluşturucu",
+  "whoCanUse": "Bu AI Görüntüden Video aracını kimler kullanabilir?",
+  "whyUseTitle": "Neden bizim AI Görüntüden Video Oluşturucumuzu kullanmalısınız?",
+  "whyUseSubtitle": "Hızlı, yaratıcı ve giriş gerektirmez.",
+  "benefits": [
+    "Görüntüden saniyeler içinde video oluşturun",
+    "Stil ve animasyonu prompt ile kontrol edin",
+    "Filigransız ve sınırsız ücretsiz kullanım",
+    "Masaüstü ve mobil cihazlarda çalışır"
+  ],
+  "howItWorks": [
+    {
+      "title": "Görüntü Yükleyin",
+      "description": "JPG, PNG veya WEBP formatındaki herhangi bir görüntüyü video yapmak için seçin."
+    },
+    {
+      "title": "Prompt Girin (İsteğe Bağlı)",
+      "description": "Görüntüyü belirli bir stil veya ruh halinde canlandırmak için prompt yazabilirsiniz."
+    },
+    {
+      "title": "Videoyu Oluşturun",
+      "description": "AI destekli videonuzu oluşturmak için oluştur düğmesine tıklayın. Anında indirilebilir."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu AI görüntüden video oluşturucu gerçekten ücretsiz mi?",
+      "answer": "Evet, %100 ücretsizdir. Kayıt gerektirmez, filigran yok ve kredi kartı istemez."
+    },
+    {
+      "question": "Video oluşturmayı yönlendirmek için prompt kullanabilir miyim?",
+      "answer": "Evet. Videonun stilini veya temasını kontrol etmek için özel prompt girebilirsiniz."
+    },
+    {
+      "question": "Oluşturulan videonun uzunluğu ne kadardır?",
+      "answer": "Genellikle görüntü başına 2-6 saniye arasındadır, ancak AI modeline bağlı olarak değişebilir."
+    },
+    {
+      "question": "Kendi görüntümü kullanabilir miyim?",
+      "answer": "Tabii ki. Fotoğrafınızı yükleyin, prompt girin ve saniyeler içinde animasyonlu videonuzu alın."
+    },
+    {
+      "question": "Sonuç dosyası hangi formatta olur?",
+      "answer": "Sonuç, tüm cihazlarda oynatılabilen indirilebilir MP4 dosyasıdır."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Hareket Tasarımcısı",
+      "content": "Bu AI aracı adeta sihir gibi. Bir portre yükledim ve saniyeler içinde pürüzsüz döngü videosu elde ettim!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "YouTube Editörü",
+      "content": "Sadece bir prompt ile durağan görüntüleri canlandırabilmek harika. Kısa girişler ve reels için mükemmel!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "TikTok İçerik Üreticisi",
+      "content": "Kullandığım en hızlı AI görüntüden video oluşturucu. Giriş yok, reklam yok, video kalitesi harika.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Görüntüden Video – Prompt Destekli Ücretsiz Oluşturucu",
+    "subtitle": "Tek bir görüntüden etkileyici AI videoları oluşturun",
+    "description": "Herhangi bir görüntüyü yükleyip AI ile videoya dönüştürün. Stil veya animasyon için prompt ekleyin. Giriş yapmadan, filigransız, tamamen ücretsiz.",
+    "badgeText": "Ücretsiz AI Görüntüden Video Oluşturucu",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Görüntüden Video Oluşturucu",
+    "operatingSystem": "Web",
+    "applicationCategory": "Web Uygulaması",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

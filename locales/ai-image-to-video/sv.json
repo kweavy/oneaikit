@@ -1,0 +1,98 @@
+{
+  "title": "AI Bild till Video Generator – Gratis, Ingen Inloggning, Med Prompt-stöd",
+  "subtitle": "Skapa fantastiska AI-videor från en enda bild",
+  "description": "Ladda upp en bild och förvandla den till video med AI. Lägg till prompt för att styra stil eller animation. Ingen inloggning, inget vattenmärke, 100 % gratis.",
+  "badgeText": "Gratis AI Bild till Video Generator",
+  "whoCanUse": "Vem kan använda detta AI-verktyg för bild till video?",
+  "whyUseTitle": "Varför använda vår AI Bild till Video Generator?",
+  "whyUseSubtitle": "Snabbt, kreativt och utan krav på inloggning.",
+  "benefits": [
+    "Skapa video från bilder på några sekunder",
+    "Styr stil och animation med prompts",
+    "Gratis utan vattenmärke eller begränsningar",
+    "Fungerar på dator och mobila enheter"
+  ],
+  "howItWorks": [
+    {
+      "title": "Ladda upp en bild",
+      "description": "Välj vilken bild som helst (JPG, PNG eller WEBP) för att konvertera till video."
+    },
+    {
+      "title": "Ange en prompt (valfritt)",
+      "description": "Du kan ange en prompt för att animera bilden i en viss stil eller stämning."
+    },
+    {
+      "title": "Generera videon",
+      "description": "Klicka på generera för att skapa din AI-drivna video. Ladda ner den direkt."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna AI bild-till-video generator verkligen gratis?",
+      "answer": "Ja, den är 100 % gratis. Ingen registrering, inget vattenmärke och inget kreditkort krävs."
+    },
+    {
+      "question": "Kan jag använda en prompt för att styra videoproduktionen?",
+      "answer": "Ja. Du kan skriva en anpassad prompt för att styra video stil eller tema."
+    },
+    {
+      "question": "Hur lång är den genererade videon?",
+      "answer": "Vanligtvis mellan 2–6 sekunder per bild, men det kan variera beroende på AI-modellen."
+    },
+    {
+      "question": "Kan jag använda mina egna bilder?",
+      "answer": "Absolut. Ladda upp ditt foto, ange en prompt och få en animerad video inom några sekunder."
+    },
+    {
+      "question": "I vilket format levereras videon?",
+      "answer": "Resultatet är en nedladdningsbar MP4-fil som kan spelas upp på alla enheter."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Motion Designer",
+      "content": "Det här AI-verktyget är magiskt. Jag laddade upp ett porträtt och fick en mjuk loopande video på några sekunder!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "YouTube-redaktör",
+      "content": "Jag älskar att jag kan animera stillbilder med bara en prompt. Perfekt för korta intros och reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "TikTok-skapare",
+      "content": "Den snabbaste AI bild-till-video generatorn jag använt. Ingen inloggning, inga annonser och hög videokvalitet.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Bild till Video – Gratis generator med prompt-stöd",
+    "subtitle": "Skapa fantastiska AI-videor från en enda bild",
+    "description": "Ladda upp en bild och förvandla den till video med AI. Lägg till prompt för att styra stil eller animation. Ingen inloggning, inget vattenmärke, 100 % gratis.",
+    "badgeText": "Gratis AI Bild till Video Generator",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Bild till Video Generator",
+    "operatingSystem": "Webb",
+    "applicationCategory": "Webbapplikation",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

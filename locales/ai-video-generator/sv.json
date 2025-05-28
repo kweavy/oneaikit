@@ -1,0 +1,140 @@
+{
+  "title": "Gratis AI Videogenerator – Från Text eller Bild, Inget Vattenmärke | OneAIKit",
+  "subtitle": "Skapa AI-videor direkt från dina idéer",
+  "description": "Generera AI-videor online från textpromptar eller bilder med kraftfulla modeller som Kling AI och Stable Diffusion. 100 % gratis, inget vattenmärke, ingen inloggning krävs.",
+  "badgeText": "Text till Video & Bild till Video Drivs av AI",
+  "whoCanUse": "Vem kan använda denna AI Videogenerator?",
+  "whyUseTitle": "Varför använda OneAIKits AI Videogenerator?",
+  "whyUseSubtitle": "Gratis, utan vattenmärke och designad för kreativitet.",
+  "benefits": [
+    "Skapa videor från text- eller bildpromptar.",
+    "Stöd för Kling AI och Stability Diffusion.",
+    "Inget vattenmärke, obegränsad användning.",
+    "Lättanvänt gränssnitt för alla färdighetsnivåer."
+  ],
+  "howItWorks": [
+    {
+      "title": "Ange prompt eller ladda upp bild",
+      "description": "Välj om du vill skriva en videoidé eller ladda upp en bild för animation."
+    },
+    {
+      "title": "Välj stil och bildformat",
+      "description": "Anpassa animationen med cinematiska, Ghibli- eller pixlarstilar och välj videoformat."
+    },
+    {
+      "title": "Generera och ladda ner MP4",
+      "description": "Klicka på Generera och vänta några sekunder. Din AI-video är redo att sparas och delas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är denna AI videogenerator gratis?",
+      "answer": "Ja, OneAIKit erbjuder ett 100 % gratis AI videoverktyg. Ingen kreditkortsinformation eller inloggning krävs."
+    },
+    {
+      "question": "Kan jag generera video från både text och bild?",
+      "answer": "Absolut! Du kan skapa videor från textpromptar eller ladda upp bilder med valfri stilbeskrivning."
+    },
+    {
+      "question": "Finns det vattenmärke på genererade videor?",
+      "answer": "Nej. Alla videor som genereras med detta verktyg är fria från vattenmärken och kan användas kommersiellt."
+    },
+    {
+      "question": "Behöver jag installera någon app?",
+      "answer": "Ingen installation krävs. Allt körs i din webbläsare för omedelbar AI-videogenerering."
+    },
+    {
+      "question": "Vilka modeller används för videogenerering?",
+      "answer": "Vi stöder Kling AI för text-till-video och Stability AI för bild-till-video med realistisk rörelse."
+    },
+    {
+      "question": "Kan jag använda denna AI videogenerator för YouTube eller TikTok-innehåll?",
+      "answer": "Ja. Vårt verktyg stöder format som är lämpliga för sociala medier, korta videor och kreativt berättande."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "YouTube-skapare",
+      "content": "Otroligt enkelt att använda. Jag genererade en cinematisk AI-video från bara en mening!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animator",
+      "content": "Jag testade andra verktyg, men denna AI videogenerator ger den renaste utdata utan vattenmärken.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Digital marknadsförare",
+      "content": "Bra verktyg för att snabbt skapa videoinnehåll för annonser och sociala inlägg. Gratis och flexibelt!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Gratis AI Videogenerator – Från Text eller Bild, Inget Vattenmärke | OneAIKit",
+    "description": "Generera AI-videor online från textpromptar eller bilder med kraftfulla modeller som Kling AI och Stable Diffusion. 100 % gratis, inget vattenmärke, ingen inloggning krävs.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Gratis AI Videogenerator – Från Text eller Bild | OneAIKit",
+      "description": "Skapa AI-genererade videor från text eller bilder med vårt onlineverktyg. Ingen inloggning, utan vattenmärken och helt gratis att använda.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "AI Videogenerator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gratis AI Videogenerator Online – Ingen Inloggning Krävs",
+      "description": "Generera AI-videor från textpromptar eller foton. 100 % gratis, inget vattenmärke, drivs av Kling och Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai videogenerator",
+      "gratis ai videogenerator",
+      "ai videogenerator från text gratis",
+      "ai videogenerator utan vattenmärke",
+      "ai videogenerator från bild",
+      "skapa video ai från text",
+      "text till video ai",
+      "ai text till video generator",
+      "gratis ai video skapare",
+      "bästa ai verktyg för video från text"
+    ]
+  },
+  "hero": {
+    "title": "AI Videogenerator – Från Text eller Bild, Gratis & Utan Vattenmärke",
+    "subtitle": "Skapa AI-videor direkt från dina idéer",
+    "description": "Generera AI-videor online från text- eller bildpromptar med den senaste tekniken. Ingen inloggning krävs.",
+    "badgeText": "Text till Video & Bild till Video Drivs av AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Videogenerator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": "KI-Fotofilter Generator – Ghibli, Anime und mehr | OneAIKit",
+  "subtitle": "Wende KI-Fotofilter wie Ghibli, Anime, realistisch, Cartoon und mehr an. 100 % kostenlos, keine Anmeldung erforderlich. Verbessere und style deine Fotos sofort mit KI.",
+  "description": "Lade dein Bild hoch und wende beeindruckende Filter wie Ghibli, Anime, Pixel Art, Cartoon und mehr an. Für immer kostenlos, ohne Anmeldung.",
+  "badgeText": "Jetzt mit über 15 Stilen",
+  "whoCanUse": "Wer kann dieses KI-Fotofilter-Tool verwenden?",
+  "whyUseTitle": "Warum unseren KI-Fotofilter Generator nutzen?",
+  "whyUseSubtitle": "Kostenlos, sofort und beeindruckende Verwandlung.",
+  "benefits": [
+    "Nutze über 15 visuelle Filterstile wie Ghibli und Cartoon",
+    "Keine Anmeldung oder Kreditkarte erforderlich",
+    "Optimiert für Mobilgeräte und Desktop",
+    "Erhalte base64-Bilder oder lade sie herunter"
+  ],
+  "howItWorks": [
+    {
+      "title": "Foto hochladen",
+      "description": "Wähle eine JPG- oder PNG-Datei, die du stylen möchtest."
+    },
+    {
+      "title": "Filterstil auswählen",
+      "description": "Wähle aus Anime, Ghibli, Cartoon, realistisch und vielen weiteren Stilen."
+    },
+    {
+      "title": "Bild herunterladen",
+      "description": "Erhalte dein transformiertes Bild sofort und verwende es überall."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ist dieses KI-Fotofilter-Tool kostenlos?",
+      "answer": "Ja! Dieses KI-Filter-Tool ist komplett kostenlos und erfordert keine Anmeldung."
+    },
+    {
+      "question": "Welche Stile kann ich auf mein Foto anwenden?",
+      "answer": "Du kannst Stile wie Ghibli, Anime, Cartoon, Pixel Art, realistisch und mehr anwenden."
+    },
+    {
+      "question": "Muss ich etwas installieren?",
+      "answer": "Nein, das Tool funktioniert direkt in deinem Browser."
+    },
+    {
+      "question": "Kann ich mein eigenes Foto hochladen?",
+      "answer": "Ja. Du kannst dein eigenes Bild hochladen und jeden gewünschten Filterstil anwenden."
+    },
+    {
+      "question": "Wo wird das Ergebnis gespeichert?",
+      "answer": "Das generierte Bild wird sofort angezeigt und kann heruntergeladen werden."
+    },
+    {
+      "question": "Funktioniert das Tool auf Mobilgeräten?",
+      "answer": "Ja, das KI-Fotofilter-Tool funktioniert auf Desktop- und Mobilgeräten."
+    }
+  ],
+  "metadata": {
+    "title": "Kostenloser KI-Fotofilter Generator – Ghibli, Anime, Cartoon und mehr | OneAIKit",
+    "description": "Verwandle deine Fotos mit KI-Filtern wie Ghibli, Anime, Cartoon und mehr. Schnell, kostenlos und ohne Anmeldung.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Kostenloser KI-Fotofilter – Ghibli, Anime, Cartoon, Realistisch | OneAIKit",
+      "description": "Verwandle deine Fotos mit KI-Filtern wie Ghibli, Anime, Cartoon und mehr. Schnell, kostenlos und ohne Anmeldung.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Kostenloser KI-Fotofilter Generator - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "KI-Fotofilter – Anime, Ghibli, Cartoon | Kostenloses Online-Tool",
+      "description": "Verwende KI, um deine Fotos in Sekunden zu stylen. Probiere Anime, Ghibli, Cartoon und viele weitere Filter. Kostenlos und unbegrenzt.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "ki fotofilter",
+      "kostenloser ki fotofilter",
+      "ki fotofilter ghibli",
+      "ki fotofilter anime",
+      "ki fotofilter kostenlos",
+      "ki fotofilter app",
+      "ki fotofilter entferner",
+      "ki fotofilter editor",
+      "ki fotofilter generator",
+      "ki fotofilter enhancer"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Content-Erstellerin",
+      "content": "Ich habe meine langweiligen Selfies in Anime-Kunst verwandelt! Erstaunliches kostenloses Fotofilter-Tool mit vielen Stilen!",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "Der Ghibli-Filter ist mein Favorit. Er verleiht meinen Fotos eine traumhafte Atmosphäre. Sehr zu empfehlen!",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Designerin",
+      "content": "Perfekt für schnelles Konzeptkunst. Foto hochladen, Filter anwenden, fertig. Keine Anmeldung nötig!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "KI-Fotofilter Generator – Ghibli, Anime, Cartoon und mehr",
+    "subtitle": "Style dein Foto kostenlos mit KI",
+    "description": "Lade dein Bild hoch und wende beeindruckende Filter wie Ghibli, Anime, Pixel Art, Cartoon und mehr an. Für immer kostenlos, ohne Anmeldung.",
+    "badgeText": "Jetzt mit über 15 Stilen",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Kostenloser KI-Fotofilter Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

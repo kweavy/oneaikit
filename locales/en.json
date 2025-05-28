@@ -1,0 +1,136 @@
+{
+  "title": "AI Product Photography – Generator Free with Models & Editor Tools",
+  "subtitle": "Create studio-quality product photos instantly with AI",
+  "description": "Upload a product image or describe your item. Add models, choose styles, and generate commercial-ready visuals with no watermark.",
+  "badgeText": "Text-to-Photo & Photo Enhancer with AI Editor",
+  "whoCanUse": "Who Can Use This AI Product Photography Tool?",
+  "whyUseTitle": "Why Use Our AI Product Photo Editor?",
+  "whyUseSubtitle": "Your free solution for enhanced, model-ready product shots.",
+  "benefits": [
+    "Generate product photos with AI in seconds",
+    "Add models, props, and shadows automatically",
+    "Jewelry & small items supported with high detail",
+    "Free to use, no watermark, no login needed"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload Product or Type Prompt",
+      "description": "Upload a basic product photo or type what your item looks like."
+    },
+    {
+      "title": "Choose Models & Editing Style",
+      "description": "Select optional models, background, and photo enhancement options."
+    },
+    {
+      "title": "Generate & Download Instantly",
+      "description": "Click generate and get high-resolution, watermark-free product photos."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is this AI product photography tool free?",
+      "a": "Yes! 100% free with no watermark and no login required."
+    },
+    {
+      "q": "Can I add models to product photos?",
+      "a": "Yes. You can generate product images with lifestyle models in realistic settings."
+    },
+    {
+      "q": "Does it work for jewelry products?",
+      "a": "Definitely. The tool is optimized for jewelry, small objects, and fine details."
+    },
+    {
+      "q": "Is this like Canva or an editor?",
+      "a": "Yes, but with AI. It automates background editing, enhancement, and model placement."
+    },
+    {
+      "q": "Can I use this for Reddit or content creation?",
+      "a": "Absolutely. It’s perfect for quick visual content, Reddit product reviews, or Canva mockups."
+    }
+  ],
+  "metadata": {
+    "title": "AI Product Photography Free – Generator with Models, Editor & Tools | OneAIKit",
+    "description": "Generate high-quality AI product photos for free. Add models, enhance visuals, edit jewelry images – no login, no watermark required.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI Product Photography Tool – Free Generator with Editor and Enhancer",
+      "description": "Create stunning product photos using AI. Add models, edit backgrounds, enhance jewelry images. 100% free with no watermark.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI Product Photography - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Free AI Product Photography Generator – Add Models, Edit Jewelry",
+      "description": "AI-powered product photo generator. Perfect for ecommerce, jewelry, and creative editors. Free, no watermark, no login.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ai product photography",
+      "ai product photography free",
+      "ai product photography with models",
+      "ai product photography generator free",
+      "ai product photography editor",
+      "ai product photography enhancer",
+      "ai product photography jewelry",
+      "ai product photography tools",
+      "ai product photography canva",
+      "ai product photography free reddit"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Jewelry Seller",
+      "content": "Best AI product photography tool ever. My ring shots look like they were done in a studio!",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Online Store Owner",
+      "content": "The AI adds perfect models to my clothing photos. No photographer needed.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva Designer",
+      "content": "I use this to generate product mockups for my templates. It saves hours of editing.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI Product Photography – Generator Free with Models & Editor Tools",
+    "subtitle": "Create studio-quality product photos instantly with AI",
+    "description": "Upload a product image or describe your item. Add models, choose styles, and generate commercial-ready visuals with no watermark.",
+    "badgeText": "Text-to-Photo & Photo Enhancer with AI Editor",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Product Photography",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

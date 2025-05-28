@@ -1,0 +1,140 @@
+{
+  "title": "Ücretsiz AI Video Oluşturucu – Metinden veya Resimden, Filigransız | OneAIKit",
+  "subtitle": "Fikirlerinizden anında AI videoları oluşturun",
+  "description": "Güçlü modeller olan Kling AI ve Stable Diffusion kullanarak metin istemleri veya resimlerden çevrimiçi AI videoları oluşturun. %100 ücretsiz, filigransız, giriş yapmaya gerek yok.",
+  "badgeText": "Metinden Videoya & Resimden Videoya AI Destekli",
+  "whoCanUse": "Bu AI Video Oluşturucuyu Kimler Kullanabilir?",
+  "whyUseTitle": "Neden OneAIKit’in AI Video Oluşturucusunu Kullanmalısınız?",
+  "whyUseSubtitle": "Ücretsiz, filigransız ve yaratıcılık için tasarlandı.",
+  "benefits": [
+    "Metin veya resim istemlerinden video oluşturun.",
+    "Kling AI ve Stability Diffusion desteği.",
+    "Filigransız, sınırsız kullanım.",
+    "Her beceri seviyesine uygun kullanıcı dostu arayüz."
+  ],
+  "howItWorks": [
+    {
+      "title": "İstem girin veya resim yükleyin",
+      "description": "Video fikri yazmayı veya animasyon için bir resim yüklemeyi seçin."
+    },
+    {
+      "title": "Stil ve en-boy oranını seçin",
+      "description": "Sinema, Ghibli veya piksel tarzlarında animasyonu özelleştirin ve video formatını seçin."
+    },
+    {
+      "title": "MP4 oluşturun ve indirin",
+      "description": "Oluştur’a tıklayın ve birkaç saniye bekleyin. AI videonuz kaydetmeye ve paylaşmaya hazır olacak."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Bu AI video oluşturucu ücretsiz mi?",
+      "answer": "Evet, OneAIKit %100 ücretsiz AI video oluşturma aracı sağlar. Kredi kartı veya giriş gerekmez."
+    },
+    {
+      "question": "Hem metinden hem de resimden video oluşturabilir miyim?",
+      "answer": "Kesinlikle! Metin istemlerinden veya stil açıklamaları ile birlikte resim yükleyerek video oluşturabilirsiniz."
+    },
+    {
+      "question": "Oluşturulan videolarda filigran var mı?",
+      "answer": "Hayır. Bu araçla oluşturulan tüm videolar filigransızdır ve ticari amaçlarla kullanılabilir."
+    },
+    {
+      "question": "Herhangi bir uygulama yüklemem gerekiyor mu?",
+      "answer": "Hayır, herhangi bir yükleme gerekmez. Her şey tarayıcınızda çalışır ve anında AI video oluşturmayı sağlar."
+    },
+    {
+      "question": "Video oluşturmak için hangi modeller kullanılıyor?",
+      "answer": "Metinden videoya için Kling AI, resimden videoya için Stability AI modellerini destekliyoruz."
+    },
+    {
+      "question": "Bu AI video oluşturucuyu YouTube veya TikTok içerikleri için kullanabilir miyim?",
+      "answer": "Evet. Araç, sosyal medya, kısa form videolar ve yaratıcı hikaye anlatımı için uygun formatları destekler."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "YouTube İçerik Üreticisi",
+      "content": "Kullanımı inanılmaz kolay. Sadece bir cümleden sinematik bir AI video oluşturdum!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animatör",
+      "content": "Diğer araçları denedim ama bu AI video oluşturucu en temiz çıktıyı filigransız şekilde veriyor.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Dijital Pazarlamacı",
+      "content": "Reklamlar ve sosyal medya gönderileri için hızlı video içeriği oluşturmak için harika bir araç. Ücretsiz ve esnek!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Ücretsiz AI Video Oluşturucu – Metinden veya Resimden, Filigransız | OneAIKit",
+    "description": "Güçlü modeller olan Kling AI ve Stable Diffusion kullanarak metin istemleri veya resimlerden çevrimiçi AI videoları oluşturun. %100 ücretsiz, filigransız, giriş yapmaya gerek yok.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Ücretsiz AI Video Oluşturucu – Metinden veya Resimden | OneAIKit",
+      "description": "Çevrimiçi aracımızla metin veya resimlerden AI ile oluşturulan videolar oluşturun. Giriş yok, filigransız ve tamamen ücretsiz.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "AI Video Oluşturucu - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Ücretsiz AI Video Oluşturucu Online – Giriş Gerekmiyor",
+      "description": "Metin istemleri veya fotoğraflardan AI videolar oluşturun. %100 ücretsiz, filigransız, Kling ve Stability AI tarafından desteklenmektedir.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "ai video oluşturucu",
+      "ücretsiz ai video oluşturucu",
+      "metinden ai video oluşturucu ücretsiz",
+      "filigransız ai video oluşturucu",
+      "resimden ai video oluşturucu",
+      "metinden video oluştur",
+      "ai metinden video",
+      "ai metin video oluşturucu",
+      "ücretsiz ai video oluşturucu",
+      "metinden video oluşturmanın en iyi ai aracı"
+    ]
+  },
+  "hero": {
+    "title": "AI Video Oluşturucu – Metinden veya Resimden, Ücretsiz & Filigransız",
+    "subtitle": "Fikirlerinizden anında AI videoları oluşturun",
+    "description": "En yeni teknolojilerle metin veya resim istemlerinden AI videoları oluşturun. Giriş yapmaya gerek yok.",
+    "badgeText": "Metin-Video & Resim-Video AI Destekli",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Video Oluşturucu",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

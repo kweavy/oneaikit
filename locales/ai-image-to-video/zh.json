@@ -1,0 +1,135 @@
+{
+  "title": "AI产品摄影 – 免费生成器，支持模特与图像编辑工具",
+  "subtitle": "通过AI一键生成专业级产品照片",
+  "description": "上传产品图片或输入描述，添加模特，选择风格，生成无水印、可商用的高质量图片。",
+  "badgeText": "文字转图片 + AI图像增强编辑器",
+  "whoCanUse": "谁可以使用这个AI产品摄影工具？",
+  "whyUseTitle": "为什么使用我们的AI产品图像编辑器？",
+  "whyUseSubtitle": "免费、专业，打造带模特的高品质产品图。",
+  "benefits": [
+    "AI秒级生成产品照片",
+    "自动添加模特、道具和阴影",
+    "支持珠宝和小物件的高清细节",
+    "完全免费，无水印，无需登录"
+  ],
+  "howItWorks": [
+    {
+      "title": "上传产品或输入描述",
+      "description": "上传基本产品图像，或描述产品外观。"
+    },
+    {
+      "title": "选择模特与编辑风格",
+      "description": "可选模特、背景与图像增强选项。"
+    },
+    {
+      "title": "立即生成并下载",
+      "description": "点击“生成”，获取高分辨率、无水印的产品图。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个AI产品摄影工具是免费的吗？",
+      "answer": "是的！100%免费，无水印，也无需注册。"
+    },
+    {
+      "question": "我可以给产品图添加模特吗？",
+      "answer": "当然可以。您可以生成包含真实生活场景模特的产品图。"
+    },
+    {
+      "question": "它支持珠宝类产品吗？",
+      "answer": "当然。该工具对珠宝、小物件和细节优化良好。"
+    },
+    {
+      "question": "这类似于Canva吗？",
+      "answer": "是的，但它使用AI进行自动背景处理、图像增强和模特嵌入。"
+    },
+    {
+      "question": "可以用于Reddit或内容创作吗？",
+      "answer": "当然。非常适合快速生成内容、Reddit产品展示或Canva演示图。"
+    }
+  ],
+  "metadata": {
+    "title": "AI产品摄影免费工具 – 支持模特、图像编辑与增强 | OneAIKit",
+    "description": "使用AI免费生成高质量产品图片。添加模特、编辑背景、增强图像细节，无需登录、无水印。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI产品摄影工具 – 免费生成器，带编辑与增强功能",
+      "description": "用AI创建精美产品照片。添加模特、编辑背景、优化珠宝图像，100%免费，无水印。",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI产品摄影 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "免费AI产品摄影生成器 – 添加模特、优化珠宝图片",
+      "description": "AI驱动产品图像生成器。适用于电商、珠宝、设计师。免费、无水印、无需注册。",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ai产品摄影",
+      "ai产品图免费生成",
+      "ai产品图带模特",
+      "ai产品图编辑器",
+      "ai图片增强工具",
+      "ai珠宝产品图",
+      "ai产品图工具",
+      "canva产品图ai生成",
+      "reddit产品图ai生成器"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "珠宝卖家",
+      "content": "最棒的AI摄影工具！我的戒指图看起来就像在专业影棚拍的。",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "线上店铺老板",
+      "content": "AI自动为服装图添加模特，完全不需要请摄影师了。",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva设计师",
+      "content": "我用它快速生成模板里的产品图，节省了大量编辑时间。",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI产品摄影 – 免费生成器，支持模特与图像编辑工具",
+    "subtitle": "通过AI一键生成专业级产品照片",
+    "description": "上传产品图片或输入描述，添加模特，选择风格，生成无水印、可商用的高质量图片。",
+    "badgeText": "文字转图片 + AI图像增强编辑器",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI产品摄影",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

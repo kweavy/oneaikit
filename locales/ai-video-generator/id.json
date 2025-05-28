@@ -1,0 +1,140 @@
+{
+  "title": "Generator Video AI Gratis – Dari Teks atau Gambar, Tanpa Watermark | OneAIKit",
+  "subtitle": "Buat video AI secara instan dari ide Anda",
+  "description": "Hasilkan video AI online dari teks atau gambar menggunakan model canggih seperti Kling AI dan Stable Diffusion. 100% gratis, tanpa watermark, tanpa perlu login.",
+  "badgeText": "Dari Teks ke Video & Gambar ke Video dengan AI",
+  "whoCanUse": "Siapa yang Bisa Menggunakan Generator Video AI Ini?",
+  "whyUseTitle": "Mengapa Menggunakan Generator Video AI dari OneAIKit?",
+  "whyUseSubtitle": "Gratis, tanpa watermark, dan dirancang untuk kreativitas.",
+  "benefits": [
+    "Buat video dari teks atau gambar.",
+    "Mendukung Kling AI & Stability Diffusion.",
+    "Tanpa watermark, penggunaan tanpa batas.",
+    "Antarmuka mudah digunakan untuk semua tingkat keahlian."
+  ],
+  "howItWorks": [
+    {
+      "title": "Masukkan Teks atau Unggah Gambar",
+      "description": "Pilih untuk mengetik ide video atau mengunggah gambar untuk dianimasikan."
+    },
+    {
+      "title": "Pilih Gaya dan Rasio Aspek",
+      "description": "Sesuaikan animasi menggunakan gaya sinematik, ghibli, atau piksel dan pilih format video."
+    },
+    {
+      "title": "Hasilkan dan Unduh MP4",
+      "description": "Klik Generate dan tunggu beberapa detik. Video AI Anda siap disimpan dan dibagikan."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Apakah generator video AI ini gratis?",
+      "answer": "Ya, OneAIKit menyediakan alat pembuatan video AI 100% gratis. Tidak perlu kartu kredit atau login."
+    },
+    {
+      "question": "Bisakah saya membuat video dari teks dan gambar?",
+      "answer": "Tentu! Anda bisa membuat video dari teks atau mengunggah gambar dengan deskripsi gaya opsional."
+    },
+    {
+      "question": "Apakah video yang dihasilkan ada watermark-nya?",
+      "answer": "Tidak. Semua video yang dihasilkan bebas watermark dan bisa digunakan secara komersial."
+    },
+    {
+      "question": "Apakah saya perlu menginstal aplikasi?",
+      "answer": "Tidak perlu instalasi. Semua berjalan di browser Anda untuk pembuatan video AI instan."
+    },
+    {
+      "question": "Model apa yang digunakan untuk pembuatan video?",
+      "answer": "Kami mendukung Kling AI untuk teks-ke-video dan Stability AI untuk gambar-ke-video dengan gerakan realistis."
+    },
+    {
+      "question": "Bisakah saya menggunakan generator video AI ini untuk konten YouTube atau TikTok?",
+      "answer": "Ya. Alat kami mendukung format yang cocok untuk media sosial, konten pendek, dan penceritaan kreatif."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rizky",
+      "role": "Pembuat Konten YouTube",
+      "content": "Sangat mudah digunakan. Saya menghasilkan video AI sinematik hanya dengan satu kalimat!",
+      "rating": 5
+    },
+    {
+      "name": "Chloe",
+      "role": "Animator",
+      "content": "Saya mencoba alat lain tapi generator video AI ini memberikan hasil paling bersih tanpa watermark.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel",
+      "role": "Pemasar Digital",
+      "content": "Alat yang hebat untuk cepat membuat konten video untuk iklan dan postingan sosial. Gratis dan fleksibel!",
+      "rating": 4
+    }
+  ],
+  "metadata": {
+    "title": "Generator Video AI Gratis – Dari Teks atau Gambar, Tanpa Watermark | OneAIKit",
+    "description": "Hasilkan video AI online dari teks atau gambar menggunakan model canggih seperti Kling AI dan Stable Diffusion. 100% gratis, tanpa watermark, tanpa perlu login.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-video-generator"
+    },
+    "openGraph": {
+      "title": "Generator Video AI Gratis – Dari Teks atau Gambar | OneAIKit",
+      "description": "Buat video yang dihasilkan AI dari teks atau gambar dengan alat online kami. Tanpa login, bebas watermark, dan sepenuhnya gratis digunakan.",
+      "url": "https://oneaikit.com/ai-video-generator",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-video-generator.png",
+          "alt": "Generator Video AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Generator Video AI Gratis Online – Tanpa Perlu Login",
+      "description": "Buat video AI dari teks atau foto. 100% gratis, tanpa watermark, didukung oleh Kling dan Stability AI.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-video-generator.png"
+      ]
+    },
+    "keywords": [
+      "generator video ai",
+      "generator video ai gratis",
+      "generator video ai dari teks gratis",
+      "generator video ai tanpa watermark",
+      "generator video ai dari gambar",
+      "buat video ai dari teks",
+      "teks ke video ai",
+      "generator teks ke video ai",
+      "hasilkan video ai gratis",
+      "alat ai terbaik untuk membuat video dari teks"
+    ]
+  },
+  "hero": {
+    "title": "Generator Video AI – Dari Teks atau Gambar, Gratis & Tanpa Watermark",
+    "subtitle": "Buat video AI instan dari ide Anda",
+    "description": "Hasilkan video AI online dari teks atau gambar menggunakan teknologi terbaru. Tidak perlu login.",
+    "badgeText": "Dari Teks ke Video & Gambar ke Video Didukung AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generator Video AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "251"
+    }
+  }
+}

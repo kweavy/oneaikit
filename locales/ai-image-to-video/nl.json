@@ -1,0 +1,98 @@
+{
+  "title": "AI Afbeelding naar Video Generator – Gratis, Geen Login, Met Prompt Ondersteuning",
+  "subtitle": "Maak verbluffende AI-video’s van één afbeelding",
+  "description": "Upload een afbeelding en zet deze om in een video met AI. Voeg een prompt toe om stijl of animatie te sturen. Geen login, geen watermerk, 100% gratis.",
+  "badgeText": "Gratis AI Afbeelding-naar-Video Generator",
+  "whoCanUse": "Wie kan deze AI Afbeelding naar Video tool gebruiken?",
+  "whyUseTitle": "Waarom onze AI Afbeelding naar Video Generator gebruiken?",
+  "whyUseSubtitle": "Snel, creatief en zonder login.",
+  "benefits": [
+    "Genereer video’s vanuit afbeeldingen binnen seconden",
+    "Beheer stijl en animatie met prompts",
+    "Gratis zonder watermerk of beperkingen",
+    "Werkt op desktop en mobiel"
+  ],
+  "howItWorks": [
+    {
+      "title": "Upload een Afbeelding",
+      "description": "Kies een afbeelding (JPG, PNG of WEBP) om om te zetten in een video."
+    },
+    {
+      "title": "Voer een Prompt in (optioneel)",
+      "description": "Je kunt een prompt invoeren om de afbeelding in een specifieke stijl of sfeer te animeren."
+    },
+    {
+      "title": "Genereer de Video",
+      "description": "Klik op genereren om je AI-gegenereerde video te maken. Download direct."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is deze AI afbeelding naar video generator echt gratis?",
+      "answer": "Ja, het is 100% gratis. Geen aanmelding, geen watermerk en geen creditcard vereist."
+    },
+    {
+      "question": "Kan ik een prompt gebruiken om de video generatie te sturen?",
+      "answer": "Ja. Je kunt een aangepaste prompt invoeren om de stijl of het thema van de video te bepalen."
+    },
+    {
+      "question": "Hoe lang duurt de gegenereerde video?",
+      "answer": "Meestal tussen 2 en 6 seconden per afbeelding, afhankelijk van het AI-model."
+    },
+    {
+      "question": "Kan ik mijn eigen afbeelding gebruiken?",
+      "answer": "Absoluut. Upload je foto, voeg een prompt toe en krijg binnen seconden een geanimeerde video."
+    },
+    {
+      "question": "In welk formaat wordt het resultaat geleverd?",
+      "answer": "Het resultaat is een downloadbaar MP4-bestand dat op alle apparaten afgespeeld kan worden."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Motion Designer",
+      "content": "Deze AI-tool is magisch. Ik uploadde een portret en kreeg binnen seconden een vloeiende video in loop!",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "YouTube Editor",
+      "content": "Ik vind het geweldig dat ik stilstaande beelden kan animeren met slechts een prompt. Perfect voor korte intros en reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "TikTok Maker",
+      "content": "De snelste AI afbeelding naar video generator die ik ooit heb gebruikt. Geen login, geen advertenties, en super video kwaliteit.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "AI Afbeelding naar Video – Gratis Generator met Prompt Ondersteuning",
+    "subtitle": "Maak verbluffende AI-video’s van één afbeelding",
+    "description": "Upload elke afbeelding en zet deze om in een video met AI. Voeg een prompt toe om stijl of animatie te sturen. Geen login, geen watermerk, 100% gratis.",
+    "badgeText": "Gratis AI Afbeelding-naar-Video Generator",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Afbeelding naar Video Generator",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "title": "免费 AI 照片滤镜生成器 – 吉卜力、动漫等 | OneAIKit",
+  "subtitle": "应用 AI 照片滤镜，如吉卜力、动漫、写实、卡通等。100% 免费，无需登录。即时增强和美化你的照片。",
+  "description": "上传你的图片，应用如吉卜力、动漫、像素艺术、卡通等惊艳滤镜。永久免费，无需注册。",
+  "badgeText": "现支持 15 种以上风格",
+  "whoCanUse": "谁可以使用这个 AI 照片滤镜工具？",
+  "whyUseTitle": "为什么使用我们的 AI 照片滤镜生成器？",
+  "whyUseSubtitle": "免费、即时且效果惊艳的转变。",
+  "benefits": [
+    "使用超过 15 种视觉滤镜风格，如吉卜力和卡通",
+    "无需注册或信用卡",
+    "优化适用于移动端和桌面端",
+    "可获得 base64 或可下载图片"
+  ],
+  "howItWorks": [
+    {
+      "title": "上传照片",
+      "description": "选择任何你想美化的 JPG 或 PNG 文件。"
+    },
+    {
+      "title": "选择滤镜风格",
+      "description": "从动漫、吉卜力、卡通、写实等多种风格中选择。"
+    },
+    {
+      "title": "下载你的图片",
+      "description": "即时获得转换后的图片，随时使用。"
+    }
+  ],
+  "faq": [
+    {
+      "question": "这个 AI 照片滤镜工具是免费的吗？",
+      "answer": "是的！这个 AI 滤镜完全免费，无需登录。"
+    },
+    {
+      "question": "我可以应用哪些风格到我的照片？",
+      "answer": "你可以应用吉卜力、动漫、卡通、像素艺术、写实等多种风格。"
+    },
+    {
+      "question": "我需要安装什么软件吗？",
+      "answer": "不需要，这个工具直接在浏览器中运行。"
+    },
+    {
+      "question": "我可以上传自己的照片吗？",
+      "answer": "可以。你可以上传自己的图片，应用任意滤镜风格。"
+    },
+    {
+      "question": "结果保存在哪里？",
+      "answer": "生成的图片会即时显示，并可以下载。"
+    },
+    {
+      "question": "支持手机设备吗？",
+      "answer": "支持，这个 AI 照片滤镜工具适用于桌面和移动设备。"
+    }
+  ],
+  "metadata": {
+    "title": "免费 AI 照片滤镜生成器 – 吉卜力、动漫、卡通等 | OneAIKit",
+    "description": "使用 AI 滤镜转换你的照片，如吉卜力、动漫、卡通等。快速、免费，无需注册。",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "免费 AI 照片滤镜 – 吉卜力、动漫、卡通、写实 | OneAIKit",
+      "description": "使用 AI 滤镜转换你的照片，如吉卜力、动漫、卡通等。快速、免费，无需注册。",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "免费 AI 照片滤镜生成器 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI 照片滤镜 – 动漫、吉卜力、卡通 | 免费在线工具",
+      "description": "使用 AI 在几秒钟内美化你的照片。试试动漫、吉卜力、卡通和更多滤镜。免费且无限制。",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "ai 照片滤镜",
+      "免费 ai 照片滤镜",
+      "吉卜力 照片滤镜",
+      "动漫 照片滤镜",
+      "ai 照片滤镜 应用",
+      "ai 照片滤镜 去除",
+      "ai 照片滤镜 编辑器",
+      "ai 照片滤镜 生成器",
+      "ai 照片滤镜 增强器"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "内容创作者",
+      "content": "我把无聊的自拍变成了动漫艺术！惊人的免费滤镜工具，有很多风格！",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "主播",
+      "content": "吉卜力滤镜是我的最爱。它给我的照片增添了梦幻般的氛围。强烈推荐！",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "设计师",
+      "content": "非常适合快速概念艺术。上传照片，应用滤镜，完成。无需注册！",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI 照片滤镜生成器 – 吉卜力、动漫、卡通及更多",
+    "subtitle": "免费使用 AI 美化你的照片",
+    "description": "上传图片，应用惊艳滤镜，如吉卜力、动漫、像素艺术、卡通及更多。永久免费，无需登录。",
+    "badgeText": "现支持 15 种以上风格",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - 免费 AI 照片滤镜生成器",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

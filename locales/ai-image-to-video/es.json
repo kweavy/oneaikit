@@ -1,0 +1,98 @@
+{
+  "title": "Generador de Video a partir de Imagen con IA – Gratis, Sin Registro, con Soporte de Prompt",
+  "subtitle": "Crea videos impresionantes con IA a partir de una sola imagen",
+  "description": "Sube cualquier imagen y conviértela en un video usando IA. Añade prompts para guiar el estilo o animación. Sin registro, sin marca de agua, 100% gratis.",
+  "badgeText": "Generador Gratis de Video desde Imagen con IA",
+  "whoCanUse": "¿Quién puede usar esta herramienta de Video desde Imagen con IA?",
+  "whyUseTitle": "¿Por qué usar nuestro generador de Video desde Imagen?",
+  "whyUseSubtitle": "Rápido, creativo y sin necesidad de registro.",
+  "benefits": [
+    "Genera videos a partir de imágenes en segundos",
+    "Controla el estilo y la animación mediante prompts",
+    "Gratis, sin marca de agua ni restricciones",
+    "Funciona en escritorio y dispositivos móviles"
+  ],
+  "howItWorks": [
+    {
+      "title": "Sube una Imagen",
+      "description": "Selecciona cualquier imagen (JPG, PNG o WEBP) para convertir en video."
+    },
+    {
+      "title": "Introduce un Prompt (Opcional)",
+      "description": "Puedes escribir un prompt para animar la imagen con un estilo o ambiente específico."
+    },
+    {
+      "title": "Genera el Video",
+      "description": "Haz clic en generar para crear tu video con IA. Descárgalo al instante."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Este generador de video de imagen con IA es gratis?",
+      "answer": "Sí, es 100% gratuito. Sin registro, sin marca de agua y sin tarjeta de crédito requerida."
+    },
+    {
+      "question": "¿Puedo usar un prompt para guiar la generación del video?",
+      "answer": "Sí. Puedes ingresar un prompt personalizado para controlar el estilo o tema del video."
+    },
+    {
+      "question": "¿Cuánto dura el video generado?",
+      "answer": "Normalmente entre 2 y 6 segundos por imagen, pero puede variar según el modelo de IA."
+    },
+    {
+      "question": "¿Puedo usar mi propia imagen?",
+      "answer": "Claro que sí. Sube tu foto, ingresa un prompt y obtén un video animado en segundos."
+    },
+    {
+      "question": "¿En qué formato se entrega el video?",
+      "answer": "El resultado es un archivo MP4 descargable, reproducible en todos los dispositivos."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Liam N.",
+      "role": "Diseñador de Motion Graphics",
+      "content": "Esta herramienta de IA es mágica. Subí un retrato y obtuve un video en bucle suave en segundos.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg"
+    },
+    {
+      "name": "Sophie R.",
+      "role": "Editora de YouTube",
+      "content": "Me encanta poder animar imágenes estáticas con solo un prompt. ¡Perfecto para intros cortos y reels!",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg"
+    },
+    {
+      "name": "Darren K.",
+      "role": "Creador en TikTok",
+      "content": "El generador de video a partir de imagen más rápido que he usado. Sin login, sin anuncios y con excelente calidad.",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    }
+  ],
+  "hero": {
+    "title": "Video desde Imagen con IA – Generador Gratis con Soporte de Prompt",
+    "subtitle": "Crea videos impresionantes con IA a partir de una sola imagen",
+    "description": "Sube cualquier imagen y conviértela en un video usando IA. Añade prompts para guiar el estilo o animación. Sin registro, sin marca de agua, 100% gratis.",
+    "badgeText": "Generador Gratis de Video desde Imagen con IA",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generador de Video desde Imagen con IA",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "275"
+    }
+  }
+}

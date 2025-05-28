@@ -1,0 +1,140 @@
+{
+  "title": "Generador de Filtros de Fotos AI – Ghibli, Anime y Más | OneAIKit",
+  "subtitle": "Aplica filtros AI para fotos como Ghibli, anime, realista, caricatura y más. 100% gratis, sin necesidad de iniciar sesión. Mejora y estiliza tus fotos instantáneamente con AI.",
+  "description": "Sube tu imagen y aplica filtros impresionantes como Ghibli, Anime, Pixel Art, Caricatura y más. Gratis para siempre, sin registro.",
+  "badgeText": "Ahora soporta más de 15 estilos",
+  "whoCanUse": "¿Quién puede usar esta herramienta de filtro de fotos AI?",
+  "whyUseTitle": "¿Por qué usar nuestro generador de filtros de fotos AI?",
+  "whyUseSubtitle": "Gratis, instantáneo y una transformación impresionante.",
+  "benefits": [
+    "Usa más de 15 estilos visuales de filtro como Ghibli y Caricatura",
+    "No se requiere registro ni tarjeta de crédito",
+    "Optimizado para móvil y escritorio",
+    "Obtén imágenes en base64 o descargables"
+  ],
+  "howItWorks": [
+    {
+      "title": "Sube una foto",
+      "description": "Elige cualquier archivo JPG o PNG que quieras estilizar."
+    },
+    {
+      "title": "Elige un estilo de filtro",
+      "description": "Selecciona entre anime, ghibli, caricatura, realista y muchos más estilos."
+    },
+    {
+      "title": "Descarga tu imagen",
+      "description": "Obtén tu imagen transformada al instante y úsala donde quieras."
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿Esta herramienta de filtro de fotos AI es gratuita?",
+      "answer": "Sí! Esta herramienta de filtro AI es completamente gratuita y no requiere inicio de sesión."
+    },
+    {
+      "question": "¿Qué estilos puedo aplicar a mi foto?",
+      "answer": "Puedes aplicar estilos como Ghibli, anime, caricatura, pixel art, realista y más."
+    },
+    {
+      "question": "¿Necesito instalar algo?",
+      "answer": "No, la herramienta funciona directamente en tu navegador."
+    },
+    {
+      "question": "¿Puedo subir mi propia foto?",
+      "answer": "Sí. Puedes subir tu propia imagen y aplicar cualquier estilo de filtro que elijas."
+    },
+    {
+      "question": "¿Dónde se guarda el resultado?",
+      "answer": "La foto generada se mostrará y podrá descargarse al instante."
+    },
+    {
+      "question": "¿Funciona en dispositivos móviles?",
+      "answer": "Sí, la herramienta de filtro de fotos AI funciona tanto en dispositivos de escritorio como móviles."
+    }
+  ],
+  "metadata": {
+    "title": "Generador gratuito de filtros de fotos AI – Ghibli, Anime, Caricatura y más | OneAIKit",
+    "description": "Transforma tus fotos usando filtros AI como Ghibli, anime, caricatura y más. Rápido, gratuito y sin registro.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "Filtro de fotos AI gratis – Ghibli, Anime, Caricatura, Realista | OneAIKit",
+      "description": "Transforma tus fotos usando filtros AI como Ghibli, anime, caricatura y más. Rápido, gratuito y sin registro.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "Generador gratuito de filtros de fotos AI - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Filtro de fotos AI – Anime, Ghibli, Caricatura | Herramienta gratuita en línea",
+      "description": "Usa AI para estilizar tus fotos en segundos. Prueba anime, ghibli, caricatura y muchos más filtros. Gratis e ilimitado.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "filtro de fotos ai",
+      "filtro de fotos ai gratis online",
+      "filtro de fotos ai ghibli",
+      "filtro de fotos ai anime",
+      "filtro de fotos ai gratis",
+      "app filtro de fotos ai",
+      "remover filtro de fotos ai",
+      "editor de filtro de fotos ai",
+      "generador de filtro de fotos ai",
+      "mejorador de filtro de fotos ai"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Amanda",
+      "role": "Creadora de contenido",
+      "content": "¡Transformé mis selfies aburridas en arte anime! Increíble herramienta gratuita de filtro de fotos con muchos estilos.",
+      "rating": 5
+    },
+    {
+      "name": "Leo",
+      "role": "Streamer",
+      "content": "El filtro Ghibli es mi favorito. Da a mis fotos esa vibra soñadora. Muy recomendable.",
+      "rating": 5
+    },
+    {
+      "name": "Jenny",
+      "role": "Diseñadora",
+      "content": "Perfecto para arte conceptual rápido. Sube una foto, aplica un filtro y listo. ¡No se necesita registro!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Generador de filtros de fotos AI – Ghibli, Anime, Caricatura y más",
+    "subtitle": "Estiliza tu foto usando AI gratis",
+    "description": "Sube tu imagen y aplica filtros impresionantes como Ghibli, Anime, Pixel Art, Caricatura y más. Gratis para siempre, sin registro.",
+    "badgeText": "Ahora soporta más de 15 estilos",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Generador gratuito de filtros de fotos AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}

@@ -241,14 +241,10 @@ const ModelBadge = ({ model, isDark = false }: { model: string; isDark?: boolean
                   )}
                 </div>
 
-              {/* CTA Button */}
-<a
-  href="https://app.oneaikit.com/login"
-  className={`w-full py-3 px-6 rounded-lg font-medium transition-colors ${plan.buttonStyle} mb-8 text-center block`}
->
-  Sign in to subscribe
-</a>
-
+                {/* CTA Button */}
+                <button className={`w-full py-3 px-6 rounded-lg font-medium transition-colors ${plan.buttonStyle} mb-8`}>
+                  Sign in to subscribe
+                </button>
 
                 {/* Features */}
                 <div className="space-y-6">

@@ -1,0 +1,134 @@
+{
+  "title": "AI Produktfotografi – Gratis Generator med Modeller & Redigeringsverktyg",
+  "subtitle": "Skapa studiokvalitet på produktbilder direkt med AI",
+  "description": "Ladda upp en produktbild eller beskriv din produkt. Lägg till modeller, välj stilar och generera kommersiellt färdiga bilder utan vattenstämpel.",
+  "badgeText": "Text-till-bild & AI-förbättrad fotoredigerare",
+  "whoCanUse": "Vem kan använda detta AI-verktyg för produktfotografi?",
+  "whyUseTitle": "Varför använda vår AI-produktfotoredigerare?",
+  "whyUseSubtitle": "Din kostnadsfria lösning för professionella produktbilder med modeller.",
+  "benefits": [
+    "Generera produktbilder med AI på sekunder",
+    "Lägg automatiskt till modeller, rekvisita och skuggor",
+    "Smycken & små objekt stöds med hög detaljrikedom",
+    "Gratis att använda, ingen vattenstämpel, ingen inloggning krävs"
+  ],
+  "howItWorks": [
+    {
+      "title": "Ladda upp produkt eller skriv prompt",
+      "description": "Ladda upp en grundläggande produktbild eller skriv hur din vara ser ut."
+    },
+    {
+      "title": "Välj modeller & redigeringsstil",
+      "description": "Välj modeller, bakgrund och alternativ för bildförbättring."
+    },
+    {
+      "title": "Generera & ladda ner direkt",
+      "description": "Klicka på generera och få högupplösta bilder utan vattenstämpel."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Är detta AI-verktyg för produktfotografi gratis?",
+      "answer": "Ja! 100% gratis utan vattenstämpel och utan inloggning."
+    },
+    {
+      "question": "Kan jag lägga till modeller i produktbilder?",
+      "answer": "Ja. Du kan generera produktbilder med livsstilsmodeller i realistiska miljöer."
+    },
+    {
+      "question": "Fungerar det för smycken?",
+      "answer": "Absolut. Verktyget är optimerat för smycken, små objekt och fina detaljer."
+    },
+    {
+      "question": "Är detta som Canva eller en editor?",
+      "answer": "Ja, men med AI. Den automatiserar bakgrundsredigering, förbättring och modellplacering."
+    },
+    {
+      "question": "Kan jag använda detta för Reddit eller innehållsskapande?",
+      "answer": "Självklart. Perfekt för snabba visuella inlägg, Reddit-recensioner eller Canva-mockups."
+    }
+  ],
+  "metadata": {
+    "title": "Gratis AI Produktfotografi – Generator med Modeller, Editor & Verktyg | OneAIKit",
+    "description": "Skapa högkvalitativa AI-produktbilder gratis. Lägg till modeller, förbättra bilder, redigera smycken – ingen inloggning, ingen vattenstämpel krävs.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "AI Produktfotografi Verktyg – Gratis Generator med Editor & Förbättring",
+      "description": "Skapa imponerande produktbilder med AI. Lägg till modeller, redigera bakgrunder, förbättra smycken. 100% gratis, utan vattenstämpel.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI Produktfotografi - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gratis AI Produktfotografi Generator – Lägg till Modeller, Redigera Smycken",
+      "description": "AI-baserat verktyg för produktfotografi. Perfekt för e-handel, smycken och design. Gratis, ingen vattenstämpel, ingen inloggning krävs.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ai produktfotografi",
+      "gratis ai produktfoto generator",
+      "ai produktfoto med modeller",
+      "ai produktfotoredigerare",
+      "ai verktyg för smyckesbilder",
+      "ai fotoredigering för e-handel",
+      "canva produktfotografi ai",
+      "reddit produktfoto ai gratis"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Smyckesäljare",
+      "content": "Bästa AI-verktyget för produktfoto! Mina ringbilder ser ut som tagna i en studio.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Webbshoppägare",
+      "content": "AI lägger till modeller till mina klädfoton perfekt. Inga fotografer behövs längre.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Canva Designer",
+      "content": "Jag använder detta för att skapa produktmockups till mina mallar. Sparar massor av tid.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI Produktfotografi – Gratis Generator med Modeller & Redigeringsverktyg",
+    "subtitle": "Skapa studiokvalitet på produktbilder direkt med AI",
+    "description": "Ladda upp en produktbild eller beskriv din produkt. Lägg till modeller, välj stilar och generera kommersiellt färdiga bilder utan vattenstämpel.",
+    "badgeText": "Text-till-bild & AI-förbättrad fotoredigerare",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - AI Produktfotografi",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Fotografia Produktowa z AI – Darmowy Generator z Modelami i Edytorem",
+  "subtitle": "Twórz zdjęcia produktów w jakości studyjnej za pomocą AI w kilka sekund",
+  "description": "Prześlij zdjęcie produktu lub opisz swój przedmiot. Dodaj modelki, wybierz styl i wygeneruj zdjęcia gotowe do użycia komercyjnego – bez znaku wodnego.",
+  "badgeText": "Tekst na Obraz & Ulepszanie Zdjęć z Edytorem AI",
+  "whoCanUse": "Kto Może Korzystać z Narzędzia AI do Fotografii Produktowej?",
+  "whyUseTitle": "Dlaczego Warto Użyć Naszego Edytora AI do Zdjęć Produktowych?",
+  "whyUseSubtitle": "Twoje darmowe rozwiązanie do ulepszonych zdjęć produktów z modelami.",
+  "benefits": [
+    "Generuj zdjęcia produktów z AI w kilka sekund",
+    "Automatycznie dodawaj modelki, rekwizyty i cienie",
+    "Obsługuje biżuterię i małe przedmioty z wysoką precyzją",
+    "Darmowe, bez znaku wodnego, bez logowania"
+  ],
+  "howItWorks": [
+    {
+      "title": "Prześlij Produkt lub Wpisz Opis",
+      "description": "Prześlij podstawowe zdjęcie lub opisz wygląd swojego przedmiotu."
+    },
+    {
+      "title": "Wybierz Modelki i Styl Edycji",
+      "description": "Wybierz modelki, tło i opcje ulepszania zdjęcia."
+    },
+    {
+      "title": "Generuj i Pobierz Od Razu",
+      "description": "Kliknij „Generuj” i pobierz zdjęcia w wysokiej rozdzielczości bez znaku wodnego."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Czy to narzędzie do fotografii AI jest darmowe?",
+      "answer": "Tak! Jest całkowicie darmowe, bez znaku wodnego i bez potrzeby logowania."
+    },
+    {
+      "question": "Czy mogę dodać modelki do zdjęć produktów?",
+      "answer": "Tak. Możesz generować zdjęcia produktów z realistycznymi modelkami w naturalnym otoczeniu."
+    },
+    {
+      "question": "Czy działa to z biżuterią?",
+      "answer": "Oczywiście. Narzędzie zostało zoptymalizowane pod kątem biżuterii, małych przedmiotów i szczegółów."
+    },
+    {
+      "question": "Czy to jest jak Canva lub inny edytor?",
+      "answer": "Tak, ale z wykorzystaniem AI. Automatyzuje edycję tła, ulepszanie zdjęć i pozycjonowanie modeli."
+    },
+    {
+      "question": "Czy mogę tego używać do Reddita lub tworzenia treści?",
+      "answer": "Zdecydowanie tak. Idealne do szybkich treści wizualnych, recenzji produktów lub makiet w Canva."
+    }
+  ],
+  "metadata": {
+    "title": "Darmowa Fotografia Produktowa AI – Generator z Modelkami, Edytorem i Narzędziami | OneAIKit",
+    "description": "Generuj wysokiej jakości zdjęcia produktów za darmo dzięki AI. Dodawaj modelki, ulepszaj wygląd, edytuj zdjęcia biżuterii – bez logowania i znaku wodnego.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-product-photography"
+    },
+    "openGraph": {
+      "title": "Narzędzie AI do Fotografii Produktowej – Darmowy Generator z Edytorem i Ulepszaniem",
+      "description": "Twórz imponujące zdjęcia produktów dzięki AI. Dodawaj modelki, edytuj tło, poprawiaj zdjęcia biżuterii. 100% za darmo, bez znaku wodnego.",
+      "url": "https://oneaikit.com/ai-product-photography",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-ai-product-photography.png",
+          "alt": "AI Fotografia Produktowa - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Darmowy Generator AI do Fotografii Produktów – Z Modelkami i Edycją Biżuterii",
+      "description": "Generator zdjęć produktowych oparty na AI. Idealny dla e-commerce, biżuterii i projektantów. Darmowy, bez znaku wodnego i bez logowania.",
+      "images": [
+        "https://oneaikit.com/og-image-ai-product-photography.png"
+      ]
+    },
+    "keywords": [
+      "ai fotografia produktu",
+      "generator ai zdjęć produktu za darmo",
+      "ai zdjęcia produktów z modelkami",
+      "ai edytor zdjęć produktów",
+      "ai narzędzia do zdjęć produktów",
+      "ai biżuteria fotografia",
+      "fotografia produktów ai canva",
+      "fotografia produktów ai bez znaku wodnego",
+      "ai produkt zdjęcia reddit"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Maya L.",
+      "role": "Sprzedawczyni Biżuterii",
+      "content": "Najlepsze narzędzie AI do zdjęć produktów! Moje zdjęcia pierścionków wyglądają jak ze studia.",
+      "rating": 5
+    },
+    {
+      "name": "Kevin D.",
+      "role": "Właściciel Sklepu Online",
+      "content": "AI dodaje idealne modelki do moich zdjęć odzieży. Fotograf już niepotrzebny.",
+      "rating": 5
+    },
+    {
+      "name": "Lana T.",
+      "role": "Projektantka w Canva",
+      "content": "Używam tego do tworzenia makiet produktów. Oszczędzam mnóstwo czasu.",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "Fotografia Produktowa z AI – Darmowy Generator z Modelami i Edytorem",
+    "subtitle": "Twórz zdjęcia produktów w jakości studyjnej za pomocą AI w kilka sekund",
+    "description": "Prześlij zdjęcie produktu lub opisz swój przedmiot. Dodaj modelki, wybierz styl i wygeneruj zdjęcia gotowe do użycia komercyjnego – bez znaku wodnego.",
+    "badgeText": "Tekst na Obraz & Ulepszanie Zdjęć z Edytorem AI",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - Fotografia Produktowa AI",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "451"
+    }
+  }
+}

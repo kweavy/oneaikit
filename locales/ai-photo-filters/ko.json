@@ -1,0 +1,139 @@
+{
+  "title": "AI 사진 필터 생성기 무료 – 지브리, 애니메이션 등 | OneAIKit",
+  "subtitle": "지브리, 애니메이션, 리얼리틱, 만화 등 AI 사진 필터를 적용하세요. 100% 무료, 로그인 불필요. AI로 사진을 즉시 향상하고 스타일링하세요.",
+  "description": "이미지를 업로드하고 지브리, 애니메이션, 픽셀 아트, 만화 등 멋진 필터를 적용하세요. 영원히 무료이며 회원가입이 필요 없습니다.",
+  "badgeText": "15가지 이상의 스타일 지원",
+  "whoCanUse": "이 AI 사진 필터 도구는 누가 사용할 수 있나요?",
+  "whyUseTitle": "왜 우리 AI 사진 필터 생성기를 사용해야 할까요?",
+  "whyUseSubtitle": "무료, 즉시, 놀라운 변신.",
+  "benefits": [
+    "지브리 및 만화 같은 15가지 이상의 시각적 필터 스타일 사용",
+    "가입이나 신용카드 불필요",
+    "모바일 및 데스크톱 최적화",
+    "base64 또는 다운로드 가능한 이미지 제공"
+  ],
+  "howItWorks": [
+    {
+      "title": "사진 업로드",
+      "description": "스타일링할 JPG 또는 PNG 파일을 선택하세요."
+    },
+    {
+      "title": "필터 스타일 선택",
+      "description": "애니메이션, 지브리, 만화, 리얼리틱 등 다양한 스타일 중에서 선택하세요."
+    },
+    {
+      "title": "이미지 다운로드",
+      "description": "변환된 이미지를 즉시 받고 원하는 곳에 사용하세요."
+    }
+  ],
+  "faq": [
+    {
+      "question": "이 AI 사진 필터 도구는 무료인가요?",
+      "answer": "네! 이 AI 필터는 완전히 무료이며 로그인할 필요가 없습니다."
+    },
+    {
+      "question": "사진에 어떤 스타일을 적용할 수 있나요?",
+      "answer": "지브리, 애니메이션, 만화, 픽셀 아트, 리얼리틱 등 다양한 스타일을 적용할 수 있습니다."
+    },
+    {
+      "question": "별도의 설치가 필요한가요?",
+      "answer": "아니요, 이 도구는 브라우저에서 바로 작동합니다."
+    },
+    {
+      "question": "내 사진을 업로드할 수 있나요?",
+      "answer": "네. 자신의 이미지를 업로드하고 원하는 필터 스타일을 적용할 수 있습니다."
+    },
+    {
+      "question": "결과는 어디에 저장되나요?",
+      "answer": "생성된 이미지는 즉시 표시되며 다운로드할 수 있습니다."
+    },
+    {
+      "question": "모바일에서도 작동하나요?",
+      "answer": "네, 이 AI 사진 필터 도구는 데스크톱과 모바일 장치 모두에서 작동합니다."
+    }
+  ],
+  "metadata": {
+    "title": "무료 AI 사진 필터 생성기 – 지브리, 애니메이션, 만화 등 | OneAIKit",
+    "description": "지브리, 애니메이션, 만화 등 AI 사진 필터로 사진을 변환하세요. 빠르고 무료이며 가입이 필요 없습니다.",
+    "metadataBase": "https://oneaikit.com",
+    "alternates": {
+      "canonical": "https://oneaikit.com/ai-photo-filter"
+    },
+    "openGraph": {
+      "title": "무료 AI 사진 필터 – 지브리, 애니메이션, 만화, 리얼리틱 | OneAIKit",
+      "description": "지브리, 애니메이션, 만화 등 AI 사진 필터로 사진을 변환하세요. 빠르고 무료이며 가입이 필요 없습니다.",
+      "url": "https://oneaikit.com/ai-photo-filter",
+      "siteName": "OneAIKit",
+      "type": "website",
+      "images": [
+        {
+          "url": "https://oneaikit.com/og-image-photo-filter.png",
+          "alt": "무료 AI 사진 필터 생성기 - OneAIKit"
+        }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "AI 사진 필터 – 애니메이션, 지브리, 만화 | 무료 온라인 도구",
+      "description": "AI를 사용하여 사진을 몇 초 만에 스타일링하세요. 애니메이션, 지브리, 만화 등 다양한 필터를 무료로 사용하세요.",
+      "images": [
+        "https://oneaikit.com/og-image-photo-filter.png"
+      ]
+    },
+    "keywords": [
+      "ai 사진 필터",
+      "무료 ai 사진 필터",
+      "지브리 사진 필터",
+      "애니메이션 사진 필터",
+      "사진 필터 앱",
+      "사진 필터 제거기",
+      "사진 필터 편집기",
+      "사진 필터 생성기",
+      "사진 필터 향상기"
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "아만다",
+      "role": "콘텐츠 크리에이터",
+      "content": "지루한 셀카를 애니메이션 아트로 변환했어요! 다양한 스타일이 있는 놀라운 무료 사진 필터 도구입니다!",
+      "rating": 5
+    },
+    {
+      "name": "레오",
+      "role": "스트리머",
+      "content": "지브리 필터가 가장 좋아요. 제 사진에 몽환적인 분위기를 줍니다. 강력 추천해요!",
+      "rating": 5
+    },
+    {
+      "name": "제니",
+      "role": "디자이너",
+      "content": "빠른 컨셉 아트에 완벽해요. 사진 업로드하고 필터 적용하면 끝! 회원가입 필요 없어요!",
+      "rating": 4
+    }
+  ],
+  "hero": {
+    "title": "AI 사진 필터 생성기 – 지브리, 애니메이션, 만화 등",
+    "subtitle": "AI로 사진을 무료로 스타일링하세요",
+    "description": "이미지를 업로드하고 지브리, 애니메이션, 픽셀 아트, 만화 등 멋진 필터를 적용하세요. 영원히 무료이며 로그인 필요없음.",
+    "badgeText": "15가지 이상의 스타일 지원",
+    "badgeImage": "/avatar.png"
+  },
+  "ldJson": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "OneAIKit - 무료 AI 사진 필터 생성기",
+    "operatingSystem": "Web",
+    "applicationCategory": "WebApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "183"
+    }
+  }
+}
