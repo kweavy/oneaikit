@@ -13,14 +13,14 @@ import {
   CardContent,
 } from '@/components/ui/card';
 
-  function slugify(text: string) {
-    return text
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-') // Ganti karakter non-alphanumeric dengan '-'
-      .replace(/^-+|-+$/g, '')     // Hapus '-' di awal/akhir
-      .substring(0, 50);           // Batasi panjang slug
-  }
-  
+function slugify(text: string) {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-') // Ganti karakter non-alphanumeric dengan '-'
+    .replace(/^-+|-+$/g, '')     // Hapus '-' di awal/akhir
+    .substring(0, 50);           // Batasi panjang slug
+}
+
 export default function AIProductPhotography() {
   const [description, setDescription] = useState('');
   const [background, setBackground] = useState('');
@@ -62,7 +62,7 @@ export default function AIProductPhotography() {
       const outputUrl = `data:image/png;base64,${base64}`;
       setImageUrl(outputUrl);
 
-      const uploadRes = await fetch('https://oneaikit.com/public/generator/upload.php', {
+      const uploadRes = await fetch('https://app.oneaikit.com/public/generator/upload.php', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ imageUrl: outputUrl, fileName: `${slugify(imageSlug)}.png` }),
@@ -71,7 +71,7 @@ export default function AIProductPhotography() {
       const uploadData = await uploadRes.json();
       if (!uploadData.success || !uploadData.path) throw new Error('Upload failed');
 
-      const publicPath = `https://oneaikit.com${uploadData.path}`;
+      const publicPath = `https://app.oneaikit.com${uploadData.path}`;
 
       await supabase.from('ai_images').insert({
         title: description,
@@ -119,7 +119,7 @@ export default function AIProductPhotography() {
         />
       </div>
 
-     
+
       <Textarea
         placeholder="Describe your product (e.g. red lipstick, ceramic mug, perfume bottle)"
         value={description}

@@ -40,6 +40,17 @@ const STYLES = [
 
 const EXAMPLES = ['👩🏻‍🚀 Astronaut in Space', '🏰 Medieval Castle', '🌋 Volcanic Eruption'];
 
+function slugify(text: string, options: { lower?: boolean } = {}): string {
+  const slug = text
+    .normalize('NFKD')
+    .replace(/[^\w\s-]/g, '')
+    .trim()
+    .replace(/[\s_-]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+
+  return options.lower ? slug.toLowerCase() : slug;
+}
+
 export default function ImageGenerator() {
   const [model, setModel] = useState('sdxl');
   const [style, setStyle] = useState('');
@@ -80,16 +91,41 @@ export default function ImageGenerator() {
       const data = await response.json();
       if (!response.ok) throw new Error(data.error?.message);
       const imageUrl = data.data[0].url;
-      setUrl(imageUrl);
 
+      // Upload image and get new path
+      const imageSlug = slugify(prompt, { lower: true });
+      const uploadRes = await fetch('https://app.oneaikit.com/public/generator/upload.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ imageUrl: imageUrl, fileName: `${imageSlug}.png` }),
+      });
+
+      const uploadData = await uploadRes.json();
+      if (!uploadData.success || !uploadData.path) throw new Error('Upload failed');
+
+      const publicPath = `https://app.oneaikit.com${uploadData.path}`;
+
+      // Display the uploaded image (permanent URL)
+      setUrl(publicPath);
+
+      // Save to Supabase with new path
       await supabase.from('ai_images').insert({
         title: prompt,
-        slug: prompt.toLowerCase().replace(/\s+/g, '-'),
-        output: imageUrl,
+        slug: imageSlug,
+        output: publicPath,
         image_generator: model,
         image_style: style,
-        description: prompt
+        description: prompt,
+        size: '1024x1024',
+        quality: 'standard'
       });
+
+      // Refresh recent images
+      const { data: updatedImages } = await supabase
+        .from('ai_images')
+        .select('*')
+        .order('created_at', { ascending: false });
+      setRecentImages(updatedImages || []);
     } catch (err) {
       if (err instanceof Error) setError(err.message);
     } finally {
@@ -99,32 +135,31 @@ export default function ImageGenerator() {
 
   return (
     <>
-    <section>
+      <section>
 
-      <div className="flex flex-wrap gap-2 justify-center mb-10">
-        {MODELS.map((m) => (
+        <div className="flex flex-wrap gap-2 justify-center mb-10">
+          {MODELS.map((m) => (
             <button
-      key={m.key}
-      onClick={() => setModel(m.key)}
-      className={`flex items-center px-4 py-2 rounded-full text-sm ${
-        model === m.key ? 'ring-4 ring-purple-500 uai-700' : 'bg-white hover:bg-muted border'
-      }`}
-    >
-            <img src={m.img} alt={m.name} className="w-4 h-4 object-contain mr-2" />
-            {m.name}
-          </button>
-        ))}
-      </div>
-
-      {MODELS.find((m) => m.key === model)?.description && (
-        <div className="flex justify-center gap-2 text-sm text-muted-foreground mt-2 mb-6 items-center">
-          <img src={MODELS.find((m) => m.key === model)?.img} className="w-4 h-4" />
-          <span className="font-medium text-foreground">
-            {MODELS.find((m) => m.key === model)?.name}
-          </span>
-          <span className="text-xs">{MODELS.find((m) => m.key === model)?.description}</span>
+              key={m.key}
+              onClick={() => setModel(m.key)}
+              className={`flex items-center px-4 py-2 rounded-full text-sm ${model === m.key ? 'ring-4 ring-purple-500 uai-700' : 'bg-white hover:bg-muted border'
+                }`}
+            >
+              <img src={m.img} alt={m.name} className="w-4 h-4 object-contain mr-2" />
+              {m.name}
+            </button>
+          ))}
         </div>
-      )}
+
+        {MODELS.find((m) => m.key === model)?.description && (
+          <div className="flex justify-center gap-2 text-sm text-muted-foreground mt-2 mb-6 items-center">
+            <img src={MODELS.find((m) => m.key === model)?.img} className="w-4 h-4" />
+            <span className="font-medium text-foreground">
+              {MODELS.find((m) => m.key === model)?.name}
+            </span>
+            <span className="text-xs">{MODELS.find((m) => m.key === model)?.description}</span>
+          </div>
+        )}
 
       </section>
 
@@ -132,14 +167,13 @@ export default function ImageGenerator() {
         <CardContent>
           <h2 className="text-xl font-bold mb-4">Select Style</h2>
           <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-4 mb-6">
-                              {STYLES.map((s) => (
-                                <button
-                        key={s.value}
-                        className={`relative group rounded-xl overflow-hidden ${
-                          style === s.value ? 'ring-4 ring-red-500' : ''
-                        }`}
-                        onClick={() => setStyle(s.value)}
-                      >
+            {STYLES.map((s) => (
+              <button
+                key={s.value}
+                className={`relative group rounded-xl overflow-hidden ${style === s.value ? 'ring-4 ring-red-500' : ''
+                  }`}
+                onClick={() => setStyle(s.value)}
+              >
                 <img src={s.img} alt={s.label} className="w-full h-20 object-cover" />
                 <span className="absolute bottom-1 left-1 right-1 text-xs text-white text-center bg-black/60 py-0.5 rounded">{s.label}</span>
               </button>
@@ -169,7 +203,7 @@ export default function ImageGenerator() {
             </Alert>
           )}
 
-         <Button
+          <Button
             className="mt-10 mb-10 w-full h-[50px] rounded-2xl bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold text-base"
             onClick={generate}
             disabled={loading}
@@ -180,32 +214,32 @@ export default function ImageGenerator() {
 
           {url && <img src={url} alt="Generated" className="mt-6 w-full rounded-lg shadow" />}
 
-         {recentImages.length > 0 && (
-              <div className="mt-10">
-                <h3 className="text-lg font-semibold mb-4">Recent Generated Images</h3>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-                  {recentImages.map((img) => (
-                    <Link
-                      key={img.id}
-                      href={`/ai-text-to-images/${img.slug}`}
-                      className="group block rounded-xl border shadow-md hover:shadow-xl transition overflow-hidden bg-white dark:bg-zinc-900"
-                    >
-                      <div className="aspect-square overflow-hidden">
-                        <img
-                          src={img.output}
-                          alt={img.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 ease-in-out"
-                        />
-                      </div>
-                      <div className="p-4">
-                        <p className="text-sm font-semibold text-foreground truncate">{img.title}</p>
-                        <p className="text-xs text-muted-foreground mt-1 line-clamp-2">{img.description}</p>
-                      </div>
-                    </Link>
-                  ))}
-                </div>
+          {recentImages.length > 0 && (
+            <div className="mt-10">
+              <h3 className="text-lg font-semibold mb-4">Recent Generated Images</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+                {recentImages.map((img) => (
+                  <Link
+                    key={img.id}
+                    href={`/ai-text-to-images/${img.slug}`}
+                    className="group block rounded-xl border shadow-md hover:shadow-xl transition overflow-hidden bg-white dark:bg-zinc-900"
+                  >
+                    <div className="aspect-square overflow-hidden">
+                      <img
+                        src={img.output}
+                        alt={img.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300 ease-in-out"
+                      />
+                    </div>
+                    <div className="p-4">
+                      <p className="text-sm font-semibold text-foreground truncate">{img.title}</p>
+                      <p className="text-xs text-muted-foreground mt-1 line-clamp-2">{img.description}</p>
+                    </div>
+                  </Link>
+                ))}
               </div>
-            )}
+            </div>
+          )}
 
         </CardContent>
       </Card>

@@ -22,7 +22,7 @@ const WhyUseArticleGenerator = ({
   subtitle = "Harness the power of AI to write faster, better, and smarter.",
   buttonLabel = "Try it now",
   buttonUrl = "/",
-  imageUrl = "https://oneaikit.com/uploads/mascot_small.png"
+  imageUrl = "https://app.oneaikit.com/uploads/mascot_small.png"
 }: Props) => {
   return (
     <section>

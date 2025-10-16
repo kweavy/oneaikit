@@ -33,21 +33,21 @@ export default async function Dashboard() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {articles.map((article) => (
+          {articles.map((article, index) => (
             <div key={article.id}>
               <Link href={`/articles/${article.slug}`}>
                 <div className="bg-card rounded-xl overflow-hidden border border-border shadow-sm hover:shadow-lg transition-all">
                   <div className="relative h-48">
                     {article.og_image ? (
                       <Image
-                        src={article.og_image}
+                        src={`${article.og_image}?random=${index}`}
                         alt={article.title}
                         fill
                         className="object-cover"
                       />
                     ) : (
                       <Image
-                        src="https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                        src="https://picsum.photos/id/237/200/300"
                         alt={article.title}
                         fill
                         className="object-cover"

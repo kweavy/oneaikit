@@ -1,50 +1,50 @@
 import { Button } from "../ui/button";
-import { 
-  FileText, 
-  Image, 
-  Code, 
-  MessageSquare, 
-  Mic, 
+import {
+  FileText,
+  Image,
+  Code,
+  MessageSquare,
+  Mic,
   Speaker,
   Building2,
   Workflow,
   Key,
-  Users 
+  Users
 } from "lucide-react";
 
 const tools = [
-  { 
-    icon: <FileText className="w-6 h-6" />, 
+  {
+    icon: <FileText className="w-6 h-6" />,
     title: "AI to Text Generator",
     description: "Generate text content using AI-powered tools.",
     color: "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400"
   },
-  { 
-    icon: <Image className="w-6 h-6" />, 
+  {
+    icon: <Image className="w-6 h-6" />,
     title: "AI Text To Image Generator",
     description: "Create images from text descriptions using AI.",
     color: "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400"
   },
-  { 
-    icon: <Code className="w-6 h-6" />, 
+  {
+    icon: <Code className="w-6 h-6" />,
     title: "AI Code Generator",
     description: "Automatically generate code snippets and projects.",
     color: "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400"
   },
-  { 
-    icon: <MessageSquare className="w-6 h-6" />, 
+  {
+    icon: <MessageSquare className="w-6 h-6" />,
     title: "AI to Live Chat",
     description: "Engage with users through AI-powered live chat.",
     color: "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400"
   },
-  { 
-    icon: <Mic className="w-6 h-6" />, 
+  {
+    icon: <Mic className="w-6 h-6" />,
     title: "AI Speech to Text",
     description: "Convert speech into text using AI transcription.",
     color: "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400"
   },
-  { 
-    icon: <Speaker className="w-6 h-6" />, 
+  {
+    icon: <Speaker className="w-6 h-6" />,
     title: "AI Text to Voice",
     description: "Transform text content into natural-sounding voice.",
     color: "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-400"
@@ -162,7 +162,7 @@ const Tools = () => {
       <div className="container mx-auto px-12">
         {/* Individual Tools Section */}
         <div className="grid grid-cols-1 items-center mb-32">
-         
+
           <div>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
               {tools.map((tool, index) => (
@@ -221,16 +221,16 @@ const Tools = () => {
               </ul>
               <a href="https://oneaikit.com/login">
 
-              <Button className="bg-blue-600 text-white hover:bg-blue-700 transition">
-                Try API Access →
-              </Button>
+                <Button className="bg-blue-600 text-white hover:bg-blue-700 transition">
+                  Try API Access →
+                </Button>
               </a>
             </div>
 
             {/* Image */}
             <div className="flex justify-center">
               <img
-                src="https://oneaikit.com/uploads/mascot_small.png"
+                src="https://app.oneaikit.com/uploads/mascot_small.png"
                 alt="All in one ai tools API Integration"
                 className="rounded-xl shadow-lg w-full max-w-[600px]"
               />

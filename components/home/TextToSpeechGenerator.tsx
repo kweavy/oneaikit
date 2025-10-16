@@ -21,12 +21,12 @@ export default function TextToSpeechGenerator() {
       .replace(/^-+|-+$/g, '')     // Hapus '-' di awal/akhir
       .substring(0, 50);           // Batasi panjang slug
   }
-  
+
   // async function generate() {
   //   if (!text.trim()) return;
   //   setLoading(true);
   //   setAudioUrl(null);
-  
+
   //   try {
   //     const response = await fetch('https://api.openai.com/v1/audio/speech', {
   //       method: 'POST',
@@ -40,27 +40,27 @@ export default function TextToSpeechGenerator() {
   //         input: text,
   //       }),
   //     });
-  
+
   //     if (!response.ok) throw new Error(await response.text());
   //     const blob = await response.blob();
   //     const url = URL.createObjectURL(blob);
   //     setAudioUrl(url);
-  
+
   //     // 👇 Buat nama file unik
   //     const slug = slugify(text);
   //     const timestamp = Date.now(); // contoh: 1714833559000
   //     const filename = `${slug}-${timestamp}.mp3`;
-  
+
   //     // 👇 Upload ke server
   //     const formData = new FormData();
   //     const file = new File([blob], filename, { type: 'audio/mpeg' });
   //     formData.append('voice', file);
-  
+
   //     const uploadResponse = await fetch('https://oneaikit.com/public/generator/upload_voice.php', {
   //       method: 'POST',
   //       body: formData,
   //     });
-  
+
   //     const result = await uploadResponse.text();
   //     console.log('Upload result:', result);
   //   } catch (err) {
@@ -70,7 +70,7 @@ export default function TextToSpeechGenerator() {
   //     setLoading(false);
   //   }
   // }
-  
+
 
   async function generate() {
     if (!text.trim()) return;
@@ -105,7 +105,7 @@ export default function TextToSpeechGenerator() {
       const file = new File([blob], filename, { type: 'audio/mpeg' });
       formData.append('voice', file);
 
-      const uploadResponse = await fetch('https://oneaikit.com/public/generator/upload_voice.php', {
+      const uploadResponse = await fetch('https://app.oneaikit.com/public/generator/upload_voice.php', {
         method: 'POST',
         body: formData,
       });
@@ -113,7 +113,7 @@ export default function TextToSpeechGenerator() {
       const uploadResult = await uploadResponse.text();
       console.log('Upload result:', uploadResult);
 
-      const publicUrl = `https://oneaikit.com/public/generator/voice/${filename}`;
+      const publicUrl = `https://app.oneaikit.com/public/generator/voice/${filename}`;
 
       // 3. Save metadata to Supabase
       const { error } = await supabase.from('ai_voices').insert({

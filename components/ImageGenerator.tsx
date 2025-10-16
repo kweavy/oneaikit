@@ -94,7 +94,7 @@ export default function ImageGenerator() {
 
         if (i === 0) setUrl(outputUrl);
 
-        const uploadRes = await fetch('https://oneaikit.com/public/generator/upload.php', {
+        const uploadRes = await fetch('https://app.oneaikit.com/public/generator/upload.php', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ imageUrl: outputUrl, fileName: `${imageSlug}.png` }),
@@ -103,7 +103,7 @@ export default function ImageGenerator() {
         const uploadData = await uploadRes.json();
         if (!uploadData.success || !uploadData.path) continue;
 
-        const publicPath = `https://oneaikit.com${uploadData.path}`;
+        const publicPath = `https://app.oneaikit.com${uploadData.path}`;
 
         await supabase.from('ai_images').insert({
           title: imageTitle,
